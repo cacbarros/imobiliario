@@ -1,14 +1,47 @@
 ---
 title: "Início"
-description: "Página inicial do site Considerações sobre o Imobiliário."
-date: 2025-04-30
-categories: ['Imobiliário']
+description: "Bem-vindo ao Blog Imobiliário, um espaço dedicado ao estudo técnico e prático do setor imobiliário."
 format:
   html:
     toc: true
     code-fold: true
 ---
 
-# Bem-vindo ao site
+# 🏘️ Blog Imobiliário
 
-Este é um espaço para reflexões sobre o setor imobiliário.
+Bem-vindo ao **Blog Imobiliário**, um espaço de estudo técnico e aplicado dedicado aos temas centrais do setor imobiliário:
+
+- 📊 Mercado Imobiliário
+- 🌱 Sustentabilidade e Eficiência Energética
+- 🏗️ Técnicas Construtivas
+- 🌐 Tecnologia e Digitalização
+- 💰 Financiamento e Viabilidade
+- 🏙️ Urbanismo e Regeneração Urbana
+
+---
+
+## 📌 O que você encontrará aqui
+
+- Artigos explicativos com dados, gráficos e simulações,
+- Modelos práticos desenvolvidos com **Python**,
+- Cálculos energéticos e financeiros,
+- Conteúdos integrados com **Quarto**, **Colab** e **Jupyter**.
+
+---
+
+## 🧰 Tecnologias utilizadas
+
+- [Quarto](https://quarto.org/){target="_blank"}
+- [Python](https://www.python.org/){target="_blank"}
+- [JupyterLab](https://jupyter.org/){target="_blank"}
+- [Google Colab](https://colab.research.google.com/){target="_blank"}
+- [GitHub Pages](https://pages.github.com/){target="_blank"}
+
+---
+
+## 👤 Autor
+
+C. A. C. Barros  
+Engenharia, educação e desenvolvimento de soluções digitais aplicadas.
+
+[GitHub](https://github.com/cacbarros){target="_blank"} · [Blog Fortec](https://cacbarros.github.io/blog-fortec/){target="_blank"} · [Notas de Leitura](https://cacbarros.github.io/notas-de-leitura/){target="_blank"}
