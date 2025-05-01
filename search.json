@@ -144,7 +144,28 @@
     "href": "index.html",
     "title": "Início",
     "section": "",
-    "text": "Bem-vindo ao site\nEste é um espaço para reflexões sobre o setor imobiliário."
+    "text": "Bem-vindo ao Blog Imobiliário, um espaço de estudo técnico e aplicado dedicado aos temas centrais do setor imobiliário:\n\n📊 Mercado Imobiliário\n🌱 Sustentabilidade e Eficiência Energética\n🏗️ Técnicas Construtivas\n🌐 Tecnologia e Digitalização\n💰 Financiamento e Viabilidade\n🏙️ Urbanismo e Regeneração Urbana\n\n\n\n\n\nArtigos explicativos com dados, gráficos e simulações,\nModelos práticos desenvolvidos com Python,\nCálculos energéticos e financeiros,\nConteúdos integrados com Quarto, Colab e Jupyter.\n\n\n\n\n\n\nQuarto\nPython\nJupyterLab\nGoogle Colab\nGitHub Pages\n\n\n\n\n\nC. A. C. Barros\nEngenharia, educação e desenvolvimento de soluções digitais aplicadas.\nGitHub · Blog Fortec · Notas de Leitura"
+  },
+  {
+    "objectID": "index.html#o-que-você-encontrará-aqui",
+    "href": "index.html#o-que-você-encontrará-aqui",
+    "title": "Início",
+    "section": "",
+    "text": "Artigos explicativos com dados, gráficos e simulações,\nModelos práticos desenvolvidos com Python,\nCálculos energéticos e financeiros,\nConteúdos integrados com Quarto, Colab e Jupyter."
+  },
+  {
+    "objectID": "index.html#tecnologias-utilizadas",
+    "href": "index.html#tecnologias-utilizadas",
+    "title": "Início",
+    "section": "",
+    "text": "Quarto\nPython\nJupyterLab\nGoogle Colab\nGitHub Pages"
+  },
+  {
+    "objectID": "index.html#autor",
+    "href": "index.html#autor",
+    "title": "Início",
+    "section": "",
+    "text": "C. A. C. Barros\nEngenharia, educação e desenvolvimento de soluções digitais aplicadas.\nGitHub · Blog Fortec · Notas de Leitura"
   },
   {
     "objectID": "mercado/artigo2/index.html",
