@@ -7,20 +7,20 @@ format:
     code-fold: true
 ---
 
-# 🏘️ Blog Imobiliário
+# Blog Imobiliário
 
 Bem-vindo ao **Blog Imobiliário**, um espaço de estudo técnico e aplicado dedicado aos temas centrais do setor imobiliário:
 
-- 📊 Mercado Imobiliário
-- 🌱 Sustentabilidade e Eficiência Energética
-- 🏗️ Técnicas Construtivas
-- 🌐 Tecnologia e Digitalização
-- 💰 Financiamento e Viabilidade
-- 🏙️ Urbanismo e Regeneração Urbana
+- Mercado Imobiliário
+- Sustentabilidade e Eficiência Energética
+- Técnicas Construtivas
+- Tecnologia e Digitalização
+- Financiamento e Viabilidade
+- Urbanismo e Regeneração Urbana
 
 ---
 
-## 📌 O que você encontrará aqui
+## O que você encontrará aqui
 
 - Artigos explicativos com dados, gráficos e simulações,
 - Modelos práticos desenvolvidos com **Python**,
@@ -29,7 +29,7 @@ Bem-vindo ao **Blog Imobiliário**, um espaço de estudo técnico e aplicado ded
 
 ---
 
-## 🧰 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - [Quarto](https://quarto.org/){target="_blank"}
 - [Python](https://www.python.org/){target="_blank"}
@@ -39,7 +39,7 @@ Bem-vindo ao **Blog Imobiliário**, um espaço de estudo técnico e aplicado ded
 
 ---
 
-## 👤 Autor
+## Autor
 
 C. A. C. Barros  
 Engenharia, educação e desenvolvimento de soluções digitais aplicadas.
