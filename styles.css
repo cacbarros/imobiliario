@@ -6,7 +6,7 @@ body {
 
 /* Barra de navegação */
 .navbar {
-  background-color: #A9744F !important;  /* castanho claro */
+  background-color: #6A5ACD !important;  /* violeta */
 }
 
 .navbar a, .navbar-brand {
@@ -23,7 +23,7 @@ a:hover {
 
 /* Rodapé */
 footer {
-  background-color: #A9744F;  /* castanho claro */
+  background-color: #6A5ACD;  /* violeta */
   color: white;
   padding: 1rem;
   text-align: center;
@@ -42,7 +42,7 @@ footer {
 
 /* Rodapé personalizado */
 .footer-custom {
-  background-color: #A9744F;  /* castanho claro */
+  background-color: #6A5ACD;  /* violeta */
   color: white;
   padding: 1rem;
   text-align: center;
