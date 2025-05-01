@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Ciência e Engenharia"
+  title: "Blog Imobiliário"
   page-footer:
     border: false
     background: none
@@ -11,62 +11,68 @@ website:
         <img src="/quarto-logo.png" alt="Logotipo Quarto" height="24" style="vertical-align:middle; margin-right:8px;" />
         © <span id="anoAtual"></span> C. A. C. Barros · 
         <a href="https://quarto.org" target="_blank">Quarto</a> · 
-        <a href="https://github.com/cacbarros/notas-de-leitura" target="_blank">GitHub</a><br>
+        <a href="https://github.com/cacbarros/imobiliario" target="_blank">GitHub</a><br>
         <small>Atualizado em: <span id="dataModificacao"></span></small>
       </div>
   navbar:
     left:
-      - text: "Imobiliário"
+      - text: "Mercado"
         menu:
           - text: "Artigo 1 - Panorama Geral"
-            href: imobiliario/artigo1/
-          - text: "Artigo 2 - Viabilidade com Python"
-            href: imobiliario/artigo2/
-          - text: "Artigo 3 - Rendimento Energético"
-            href: imobiliario/artigo3/
-      - text: "Física"
+            href: mercado/artigo1/
+          - text: "Artigo 2 - Tendências Pós-Pandemia"
+            href: mercado/artigo2/
+          - text: "Artigo 3 - Dinâmica da Oferta e Procura"
+            href: mercado/artigo3/
+
+      - text: "Sustentabilidade"
         menu:
-          - text: "Artigo 1 - Cinemática"
-            href: fisica/artigo1/
-          - text: "Artigo 2 - Leis de Newton"
-            href: fisica/artigo2/
-          - text: "Artigo 3 - Oscilações"
-            href: fisica/artigo3/
-      - text: "Química"
+          - text: "Artigo 1 - Eficiência Energética"
+            href: sustentabilidade/artigo1/
+          - text: "Artigo 2 - Certificação Ambiental"
+            href: sustentabilidade/artigo2/
+          - text: "Artigo 3 - Construções Sustentáveis"
+            href: sustentabilidade/artigo3/
+
+      - text: "Tecnologia"
         menu:
-          - text: "Artigo 1 - Reações Ácido-Base"
-            href: quimica/artigo1/
-          - text: "Artigo 2 - Cinética Química"
-            href: quimica/artigo2/
-          - text: "Artigo 3 - Estequiometria Industrial"
-            href: quimica/artigo3/
-      - text: "Matemática"
+          - text: "Artigo 1 - PropTech e Digitalização"
+            href: tecnologia/artigo1/
+          - text: "Artigo 2 - Realidade Virtual e Aumentada"
+            href: tecnologia/artigo2/
+          - text: "Artigo 3 - Inteligência Artificial no Setor"
+            href: tecnologia/artigo3/
+
+      - text: "Financiamento"
         menu:
-          - text: "Artigo 1 - Séries e Somatórios"
-            href: matematica/artigo1/
-          - text: "Artigo 2 - Funções Quadráticas"
-            href: matematica/artigo2/
-          - text: "Artigo 3 - Probabilidades"
-            href: matematica/artigo3/
-      - text: "Termodinâmica"
+          - text: "Artigo 1 - Crédito e Investimento"
+            href: financiamento/artigo1/
+          - text: "Artigo 2 - Modelos de Financiamento Imobiliário"
+            href: financiamento/artigo2/
+          - text: "Artigo 3 - Riscos e Garantias Bancárias"
+            href: financiamento/artigo3/
+
+      - text: "Construção"
         menu:
-          - text: "Artigo 1 - Primeira Lei"
-            href: termodinamica/artigo1/
-          - text: "Artigo 2 - Eficiência de Ciclos"
-            href: termodinamica/artigo2/
-          - text: "Artigo 3 - Entropia e Processos"
-            href: termodinamica/artigo3/
-      - text: "Climatização"
+          - text: "Artigo 1 - Técnicas Construtivas"
+            href: construcao/artigo1/
+          - text: "Artigo 2 - Novos Materiais e Sustentabilidade"
+            href: construcao/artigo2/
+          - text: "Artigo 3 - Industrialização da Construção"
+            href: construcao/artigo3/
+
+      - text: "Urbanismo"
         menu:
-          - text: "Artigo 1 - Carga Térmica"
-            href: climatizacao/artigo1/
-          - text: "Artigo 2 - Ventilação Natural"
-            href: climatizacao/artigo2/
-          - text: "Artigo 3 - Chillers e Torres"
-            href: climatizacao/artigo3/
+          - text: "Artigo 1 - Planeamento Urbano"
+            href: urbanismo/artigo1/
+          - text: "Artigo 2 - Mobilidade e Espaços Públicos"
+            href: urbanismo/artigo2/
+          - text: "Artigo 3 - Reabilitação e Regeneração Urbana"
+            href: urbanismo/artigo3/
+
 format:
   html:
-    theme: cosmo  # ou outro leve
+    theme: sandstone
     css: styles.css
     include-before-body:
       - text: '<script src="/footer.js"></script>'
@@ -82,3 +88,4 @@ watermark:
   color: "#FF0000"
   opacity: 0.1
   enabled: "{{< meta rascunho >}}"
+
