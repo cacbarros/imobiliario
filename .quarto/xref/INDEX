@@ -151,5 +151,17 @@
   },
   "urbanismo/artigo3/index.qmd": {
     "index.html": "52fcd955"
+  },
+  "scie/artigo1/index.qmd": {
+    "index.html": "c606d7ca",
+    "index.tex": "76733e25"
+  },
+  "scie/artigo2/index.qmd": {
+    "index.html": "f5517da8",
+    "index.tex": "49a8797e"
+  },
+  "scie/artigo3/index.qmd": {
+    "index.html": "62991fd4",
+    "index.tex": "bcc1bc4b"
   }
 }

@@ -69,6 +69,14 @@ website:
             href: urbanismo/artigo2/
           - text: "Artigo 3 - Reabilitação e Regeneração Urbana"
             href: urbanismo/artigo3/
+      - text: "SCIE"
+        menu:
+          - text: "Artigo 1 - Fundamentos da SCIE"
+            href: scie/artigo1/
+          - text: "Artigo 2 - Regulamentos e Normas"
+            href: scie/artigo2/
+          - text: "Artigo 3 - Medidas Ativas e Passivas"
+            href: scie/artigo3/
 
 format:
   html:

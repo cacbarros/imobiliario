@@ -1,0 +1,84 @@
+---
+title: "Artigo 1 - Fundamentos da SCIE"
+filters:
+  - watermark
+watermark:
+  text: "RASCUNHO"
+  size: 1.5
+  angle: 30
+  color: "#FF0000"
+  opacity: 0.1
+description: "Introdução aos conceitos básicos da Segurança Contra Incêndios em Edifícios."
+date: 2025-04-30
+categories: ['SCIE', 'Segurança']
+format:
+  html: default
+  pdf: default
+toc: true
+code-fold: true
+bibliography: artigo1.bib
+csl: apa.csl
+nocite: "@*"
+reference-title: "Referências"
+---
+
+# Artigo 1 - Fundamentos da SCIE
+
+Introdução aos conceitos básicos da Segurança Contra Incêndios em Edifícios.
+
+## Exemplo Interativo
+
+::: {.content-visible when-format="html"}
+
+<canvas id="graficoPrecos" width="600" height="400"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const ctx = document.getElementById('graficoPrecos').getContext('2d');
+  new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: ['2018', '2019', '2020', '2021', '2022', '2023'],
+      datasets: [{
+        label: 'Exemplo de Indicador',
+        data: [12, 14, 13, 15, 16, 17],
+        borderWidth: 2,
+        fill: false
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: {
+          position: 'top'
+        },
+        title: {
+          display: true,
+          text: 'Indicador ilustrativo'
+        }
+      }
+    }
+  });
+</script>
+
+:::
+
+```{python}
+import matplotlib.pyplot as plt
+
+anos = ['2018', '2019', '2020', '2021', '2022', '2023']
+indicador = [12, 14, 13, 15, 16, 17]
+
+plt.figure(figsize=(6, 4))
+plt.plot(anos, indicador, marker='o')
+plt.title('Indicador ilustrativo')
+plt.xlabel('Ano')
+plt.ylabel('Valor')
+plt.grid(True)
+plt.tight_layout()
+plt.show()
+```
+
+📄 [Download em PDF](./index.pdf){target="_blank"}
+
+## Referências
