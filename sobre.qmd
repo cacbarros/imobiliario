@@ -41,7 +41,7 @@ Cada tema contém artigos organizados em sequência e com possibilidade de visua
 
 ## Sobre o Autor
 
-Este projeto é desenvolvido por **C. A. C. Barros**, com interesse académico e profissional nas áreas da engenharia civil, urbanismo e tecnologias digitais aplicadas ao ambiente construído.
+Este projeto é desenvolvido por **C. A. C. Barros**, com interesse académico e profissional nas áreas da engenharia industrial e tecnologias digitais aplicadas ao ambiente construído.
 
 Além da experiência técnica, o autor tem vindo a integrar metodologias digitais de ensino e comunicação científica (Quarto, Jupyter, GitHub Pages), procurando facilitar a **transmissão de conhecimento técnico com clareza, interatividade e rigor**.
 
