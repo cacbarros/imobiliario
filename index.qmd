@@ -1,5 +1,13 @@
 ---
 title: "Início"
+filters:
+  - watermark
+watermark:
+  text: "RASCUNHO"
+  size: 1.5
+  angle: 30
+  color: "#FF0000"
+  opacity: 0.1
 description: "Bem-vindo ao Blog Imobiliário, um espaço dedicado ao estudo técnico e prático do setor imobiliário."
 format:
   html:
