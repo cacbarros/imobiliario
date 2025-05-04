@@ -1,20 +1,137 @@
 ---
-title: "Artigo 2 - Cinética Química com Python"
-description: "Estudo da velocidade das reações e fatores que a influenciam, com simulações computacionais."
-date: 2025-04-30
-categories: ['Química', 'Cinética']
+title: "Edifícios Inteligentes e Automação Imobiliária"
+lang: pt
+language:
+  toc-title: "Índice"
+filters:
+  - watermark
+watermark:
+  text: "RASCUNHO"
+  size: 1.5
+  angle: 30
+  color: "#FF0000"
+  opacity: 0.1
+description: "Análise das tecnologias de automação e gestão inteligente aplicadas a edifícios residenciais e comerciais, com foco em eficiência, segurança e conforto."
+date: 2025-05-04
+categories: ['Tecnologia', 'Smart Buildings']
 format:
-  html:
-    toc: true
-    code-fold: true
+  html: default
+  pdf: default
+toc: true
+code-fold: true
 bibliography: artigo2.bib
 csl: apa.csl
 nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Cinética Química com Python
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Exploração da teoria das colisões, energia de ativação e gráficos de velocidade de reação.
+# Artigo 2 - Edifícios Inteligentes e Automação Imobiliária
+
+Os edifícios inteligentes utilizam sensores, sistemas automatizados e conectividade digital para otimizar o desempenho energético, a segurança e o conforto dos utilizadores. Esta abordagem está a transformar a forma como habitamos, gerimos e investimos em imóveis.
+
+## O que são Edifícios Inteligentes?
+
+- Integração de sistemas técnicos (iluminação, climatização, segurança)
+- Monitorização em tempo real e resposta automatizada
+- Interoperabilidade entre equipamentos (IoT)
+- Otimização de recursos com base em dados e algoritmos
+
+## Tecnologias-Chave
+
+### 1. Sistemas de Gestão Técnica Centralizada (BMS)
+
+- Plataforma de controlo central de climatização, energia, iluminação, elevadores, etc.
+- Alarmes, relatórios e comandos à distância
+- Aplicável a edifícios de escritórios, hospitais, hotéis
+
+### 2. Sensores e IoT
+
+- Deteção de presença, temperatura, qualidade do ar, humidade
+- Atuação sobre sistemas com base em ocupação e condições ambientais
+- Comunicação por protocolos como KNX, Zigbee, Z-Wave
+
+### 3. Automatização Residencial (Domótica)
+
+- Controlos por voz, apps e interfaces personalizadas
+- Agendamento de tarefas (luzes, estores, climatização)
+- Integração com assistentes virtuais (Google, Alexa, HomeKit)
+
+### 4. Inteligência Artificial e Aprendizagem de Utilização
+
+- Ajustes automáticos com base nos padrões de uso
+- Redução de consumos energéticos sem comprometer conforto
+- Manutenção preditiva de equipamentos
+
+## Benefícios dos Edifícios Inteligentes
+
+- Redução de custos operacionais
+- Maior segurança e prevenção de falhas
+- Aumento do conforto e personalização
+- Valorização do imóvel e atratividade no mercado
+
+## Desafios e Considerações
+
+- Investimento inicial e interoperabilidade de sistemas
+- Questões de privacidade e cibersegurança
+- Necessidade de técnicos qualificados e gestão digital contínua
+
+## Exemplo Interativo
+
+::: {.content-visible when-format="html"}
+
+<canvas id="graficoSmart" width="600" height="400"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const ctx = document.getElementById('graficoSmart').getContext('2d');
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: ['Energia', 'Segurança', 'Conforto', 'Manutenção', 'Custos'],
+      datasets: [{
+        label: 'Impacto da Automação por Área',
+        data: [90, 85, 80, 70, 75],
+        backgroundColor: ['#4CAF50', '#FF9800', '#2196F3', '#9C27B0', '#607D8B']
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'top' },
+        title: {
+          display: true,
+          text: 'Áreas com Maior Benefício da Automação Imobiliária'
+        }
+      }
+    }
+  });
+</script>
+
+:::
+
+```{python}
+import matplotlib.pyplot as plt
+
+areas = ['Energia', 'Segurança', 'Conforto', 'Manutenção', 'Custos']
+impactos = [90, 85, 80, 70, 75]
+
+plt.figure(figsize=(6, 4))
+plt.bar(areas, impactos, color=['#4CAF50', '#FF9800', '#2196F3', '#9C27B0', '#607D8B'])
+plt.title('Impacto da Automação em Edifícios Inteligentes')
+plt.ylabel('Impacto (%)')
+plt.grid(axis='y')
+plt.tight_layout()
+plt.show()
+```
+
+# Conclusão
+
+A automação e inteligência aplicada à construção e gestão de edifícios está a tornar-se um padrão no setor imobiliário. Para além da eficiência energética, os edifícios inteligentes oferecem valor acrescentado em conforto, segurança e sustentabilidade — pilares essenciais para o futuro urbano.
+
 
 ## Referências

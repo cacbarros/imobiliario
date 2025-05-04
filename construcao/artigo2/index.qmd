@@ -1,21 +1,137 @@
 ---
-title: "Artigo 2 - Leis de Newton em Ação"
-description: "Exploração das três leis do movimento com aplicações cotidianas e simulações computacionais."
-date: 2025-04-30
-categories: ['Física', 'Mecânica']
+title: "Novos Materiais e Sustentabilidade na Construção"
+lang: pt
+language:
+  toc-title: "Índice"
+filters:
+  - watermark
+watermark:
+  text: "RASCUNHO"
+  size: 1.5
+  angle: 30
+  color: "#FF0000"
+  opacity: 0.1
+description: "Exploração de materiais inovadores e sustentáveis aplicados na construção civil, com ênfase em desempenho ambiental, eficiência energética e durabilidade."
+date: 2025-05-04
+categories: ['Construção', 'Sustentabilidade']
 format:
-  html:
-    toc: true
-    code-fold: true
+  html: default
+  pdf: default
+toc: true
+code-fold: true
 bibliography: artigo2.bib
 csl: apa.csl
 nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Leis de Newton em Ação
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Discussão das leis do movimento e aplicações práticas.
+# Artigo 2 - Novos Materiais e Sustentabilidade na Construção
+
+A adoção de materiais sustentáveis na construção civil é uma das estratégias-chave para reduzir impactos ambientais, melhorar a eficiência energética dos edifícios e promover uma economia circular no setor.
+
+## Desafios Ambientais da Construção Convencional
+
+- Elevado consumo de energia e matérias-primas
+- Emissão significativa de CO₂ (sobretudo pela produção de cimento)
+- Geração de resíduos de difícil reaproveitamento
+- Diminuição da biodiversidade associada à extração de materiais
+
+## Novos Materiais Sustentáveis
+
+### 1. Betão com Substituição de Cimento
+
+- Substituição parcial do cimento por pozolanas, cinzas volantes, escórias
+- Redução de emissões e energia incorporada
+- Desempenho equivalente ao betão tradicional
+
+### 2. Materiais Biocompostos
+
+- Painéis de fibras vegetais (cânhamo, juta, madeira reciclada)
+- Isolamentos térmicos e acústicos à base de lã de ovelha, celulose, cortiça
+- Elevada capacidade de absorção e conforto higrotérmico
+
+### 3. Madeira Tecnológica (CLT, LVL)
+
+- Fontes renováveis e reutilizáveis
+- Elevada resistência estrutural e leveza
+- Fixação de carbono ao longo do ciclo de vida
+
+### 4. Argamassas ecológicas e tintas naturais
+
+- Formulações com baixo VOC, cal aérea, pigmentos minerais
+- Aplicação em reabilitação e bioconstrução
+
+## Critérios de Avaliação Ambiental
+
+- Energia incorporada (MJ/kg)
+- Potencial de aquecimento global (GWP)
+- Reciclabilidade e proveniência
+- Durabilidade e manutenção
+
+## Certificações e Selos Ambientais
+
+- **EPD (Declaração Ambiental de Produto)**
+- **Cradle to Cradle**
+- **LEED / BREEAM / LiderA** (em contexto de avaliação de edifícios)
+- **FSC / PEFC** (madeiras certificadas)
+
+## Exemplo Interativo
+
+::: {.content-visible when-format="html"}
+
+<canvas id="graficoMateriais" width="600" height="400"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const ctx = document.getElementById('graficoMateriais').getContext('2d');
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: ['Cimento', 'CLT', 'Isol. Lã de Rocha', 'Cortiça', 'Biocomp.'],
+      datasets: [{
+        label: 'Energia Incorporada (MJ/kg)',
+        data: [5.5, 1.9, 3.2, 1.1, 0.8],
+        backgroundColor: ['#BDBDBD', '#8D6E63', '#90CAF9', '#A1887F', '#81C784']
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'top' },
+        title: {
+          display: true,
+          text: 'Energia Incorporada por Material de Construção'
+        }
+      }
+    }
+  });
+</script>
+
+:::
+
+```{python}
+import matplotlib.pyplot as plt
+
+materiais = ['Cimento', 'CLT', 'Isol. Lã de Rocha', 'Cortiça', 'Biocomp.']
+energia = [5.5, 1.9, 3.2, 1.1, 0.8]
+
+plt.figure(figsize=(6, 4))
+plt.bar(materiais, energia, color=['#BDBDBD', '#8D6E63', '#90CAF9', '#A1887F', '#81C784'])
+plt.title('Energia Incorporada por Material (MJ/kg)')
+plt.ylabel('MJ/kg')
+plt.grid(axis='y')
+plt.tight_layout()
+plt.show()
+```
+
+## Conclusão
+
+A escolha criteriosa de materiais sustentáveis é uma etapa estratégica para construções de baixo impacto ambiental. O avanço tecnológico permite hoje aliar desempenho técnico, estética e responsabilidade ecológica, apoiando a transição para edifícios mais verdes e resilientes.
+
 
 ## Referências
-relação entre preços dos imóveis e juros.

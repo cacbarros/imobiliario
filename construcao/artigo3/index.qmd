@@ -1,21 +1,136 @@
 ---
-title: "Artigo 3 - Oscilações e Ressonância"
-description: "Análise dos movimentos oscilatórios, suas equações e fenômenos de ressonância em sistemas reais."
-date: 2025-04-30
-categories: ['Física', 'Oscilações']
+title: "Industrialização da Construção"
+lang: pt
+language:
+  toc-title: "Índice"
+filters:
+  - watermark
+watermark:
+  text: "RASCUNHO"
+  size: 1.5
+  angle: 30
+  color: "#FF0000"
+  opacity: 0.1
+description: "Análise das abordagens industrializadas na construção civil, destacando métodos off-site, pré-fabricação, automatização e desafios para o setor em Portugal."
+date: 2025-05-04
+categories: ['Construção', 'Industrialização']
 format:
-  html:
-    toc: true
-    code-fold: true
+  html: default
+  pdf: default
+toc: true
+code-fold: true
 bibliography: artigo3.bib
 csl: apa.csl
 nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Oscilações e Ressonância
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Exploração dos sistemas oscilatórios e do fenômeno da ressonância.
+# Artigo 3 - Industrialização da Construção
+
+A industrialização da construção representa uma mudança de paradigma que visa aumentar a produtividade, a qualidade e a sustentabilidade dos edifícios. Baseia-se na **produção padronizada de componentes em ambiente controlado**, seguida da montagem no local da obra.
+
+## Fundamentos da Construção Industrializada
+
+- Produção **off-site** (fora do estaleiro) com alto controlo de qualidade
+- Redução de **prazo de obra**, **resíduos** e **custo global**
+- Maior **segurança** para os trabalhadores e previsibilidade de resultados
+
+## Principais Métodos e Tecnologias
+
+### 1. Sistemas Modulares
+
+- Módulos tridimensionais produzidos em fábrica
+- Aplicáveis em habitação, hotéis, escolas e hospitais
+- Podem incluir acabamentos, instalações elétricas e hidráulicas
+
+### 2. Painéis Pré-fabricados
+
+- Painéis de betão, madeira ou compósitos
+- Permitem montagem rápida da envolvente
+- Integração com estruturas híbridas (aço + betão leve)
+
+### 3. Construção Automatizada
+
+- Robótica em fábrica para soldadura, corte, montagem
+- Impressão 3D de elementos estruturais e não estruturais
+- Digitalização total da cadeia produtiva (BIM + ERP + logística)
+
+## Vantagens da Industrialização
+
+- **Redução do tempo de execução** (até 50%)
+- **Menor impacto ambiental**
+- **Qualidade mais uniforme e rastreável**
+- Melhoria da **condição laboral** e menor exposição a riscos
+
+## Desafios em Portugal
+
+- Falta de escala para industrialização plena
+- Barreiras regulamentares e resistência à mudança
+- Necessidade de adaptação do projeto arquitetónico desde o início
+- Limitação de fornecedores especializados
+
+## Tendências Futuras
+
+- Integração com modelos de **economia circular**
+- Produção de **componentes reutilizáveis e desmontáveis**
+- Utilização de **dados em tempo real** e **inteligência artificial** para otimizar o processo construtivo
+
+## Exemplo Interativo
+
+::: {.content-visible when-format="html"}
+
+<canvas id="graficoConstrucao" width="600" height="400"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const ctx = document.getElementById('graficoConstrucao').getContext('2d');
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: ['Convencional', 'Modular', 'Painéis', '3D'],
+      datasets: [{
+        label: 'Tempo Médio de Obra (meses)',
+        data: [12, 6, 8, 7],
+        backgroundColor: ['#BDBDBD', '#81C784', '#64B5F6', '#FFB74D']
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'top' },
+        title: {
+          display: true,
+          text: 'Comparação de Duração de Obra por Método Construtivo'
+        }
+      }
+    }
+  });
+</script>
+
+:::
+
+```{python}
+import matplotlib.pyplot as plt
+
+metodos = ['Convencional', 'Modular', 'Painéis', '3D']
+tempos = [12, 6, 8, 7]
+
+plt.figure(figsize=(6, 4))
+plt.bar(metodos, tempos, color=['#BDBDBD', '#81C784', '#64B5F6', '#FFB74D'])
+plt.title('Tempo Médio de Obra por Método Construtivo')
+plt.ylabel('Meses')
+plt.grid(axis='y')
+plt.tight_layout()
+plt.show()
+```
+
+## Conclusão
+
+A industrialização é uma oportunidade estratégica para responder à escassez de mão de obra, acelerar a construção de habitação e melhorar a eficiência do setor. A sua implementação exige visão integrada, inovação no projeto e transformação das práticas tradicionais.
 
 ## Referências
- as cidades inteligentes influenciam o mercado imobiliário.

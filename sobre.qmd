@@ -1,6 +1,6 @@
 ---
 title: "Sobre"
-description: "Informações sobre o autor e objetivos do site."
+description: "Informações sobre o autor, os objetivos do projeto e a estrutura do site."
 date: 2025-04-30
 categories: ['Institucional']
 format:
@@ -9,6 +9,56 @@ format:
     code-fold: true
 ---
 
-# Sobre o site
+# Sobre o Blog Imobiliário
 
-Este site foi criado para partilhar análises e ideias sobre o setor imobiliário.
+Este site foi criado com o objetivo de **explorar, organizar e divulgar conhecimento técnico e estratégico sobre o setor imobiliário**, com ênfase na realidade portuguesa.
+
+A proposta é **oferecer conteúdos acessíveis, atualizados e bem estruturados**, que ajudem estudantes, profissionais e decisores a compreender as dinâmicas do urbanismo, da construção, da sustentabilidade e das novas tecnologias aplicadas ao setor.
+
+---
+
+## Objetivos
+
+- 📘 Sistematizar temas essenciais como **financiamento, urbanismo, construção e SCIE**
+- 🧠 Promover a **formação técnica e crítica** sobre o ambiente construído
+- 🌍 Incentivar a transição para práticas mais **sustentáveis e inteligentes**
+- 🤖 Divulgar aplicações emergentes de **tecnologia digital no imobiliário** (PropTech, IA, automatização)
+
+---
+
+## Organização dos Conteúdos
+
+Os artigos estão agrupados em quatro grandes eixos temáticos:
+
+- **📈 Mercado e Financiamento**: análises económicas, crédito, investimento e risco
+- **🏙️ Urbanismo e Construção**: planeamento urbano, técnicas construtivas e industrialização
+- **🌿 Ambiente e SCIE**: sustentabilidade, eficiência energética e segurança contra incêndios
+- **🤖 Tecnologia no Imobiliário**: inovação digital, plataformas, edifícios inteligentes e PropTech
+
+Cada tema contém artigos organizados em sequência e com possibilidade de visualização, impressão e download em PDF.
+
+---
+
+## Sobre o Autor
+
+Este projeto é desenvolvido por **C. A. C. Barros**, com interesse académico e profissional nas áreas da engenharia civil, urbanismo e tecnologias digitais aplicadas ao ambiente construído.
+
+Além da experiência técnica, o autor tem vindo a integrar metodologias digitais de ensino e comunicação científica (Quarto, Jupyter, GitHub Pages), procurando facilitar a **transmissão de conhecimento técnico com clareza, interatividade e rigor**.
+
+---
+
+## Tecnologia utilizada
+
+O blog é desenvolvido em:
+
+- [Quarto](https://quarto.org) — para a criação e publicação dos conteúdos
+- [GitHub Pages](https://pages.github.com) — para hospedagem estática
+- [Font Awesome](https://fontawesome.com) e [Lucide Icons](https://lucide.dev) — para ícones e identidade visual
+- [Bootstrap](https://getbootstrap.com) — para componentes responsivos e barra de navegação
+
+---
+
+## Agradecimentos e contributos
+
+Este é um projeto independente e em constante evolução. **Comentários, sugestões e correções são muito bem-vindos**. Para entrar em contacto, utiliza a secção [📬 Contacto](contacto.qmd) ou visita o [repositório GitHub](https://github.com/cacbarros/imobiliario).
+

@@ -1,20 +1,72 @@
 ---
-title: "Artigo 1 - Primeira Lei da Termodinâmica"
-description: "Análise da conservação de energia em sistemas fechados e abertos, com aplicações técnicas."
+title: "Artigo 1 - Crédito e Investimento"
+filters:
+  - watermark
+watermark:
+  text: "RASCUNHO"
+  size: 1.5
+  angle: 30
+  color: "#FF0000"
+  opacity: 0.1
+description: "Análise dos principais mecanismos de financiamento imobiliário, com foco em crédito bancário e investimento institucional."
 date: 2025-04-30
-categories: ['Termodinâmica', 'Energia']
+categories: ['Financiamento', 'Mercado imobiliário']
 format:
-  html:
-    toc: true
-    code-fold: true
+  html: default
+  pdf: default
+toc: true
+code-fold: true
 bibliography: artigo1.bib
 csl: apa.csl
 nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Primeira Lei da Termodinâmica
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Discussão da conservação de energia e do balanço de energia em sistemas mecânicos e térmicos.
+# Crédito e Investimento no Imobiliário
+
+Neste artigo, exploramos os principais instrumentos de financiamento utilizados no setor imobiliário, incluindo:
+
+- Crédito bancário tradicional
+- Empréstimos com garantia hipotecária
+- Financiamento direto entre privados
+- Fundos de investimento imobiliário (FII)
+- Crowdfunding imobiliário
+
+A dinâmica entre bancos, investidores institucionais e promotores imobiliários influencia fortemente a disponibilidade e o custo do capital, além de condicionar o perfil de risco dos projetos. Também se analisa o impacto da taxa de juro, da inflação e do ciclo económico nas decisões de financiamento.
+
+## Principais Modelos
+
+### 1. Crédito Bancário
+
+O crédito bancário é a forma mais tradicional de financiamento imobiliário. Os bancos avaliam o risco com base no historial do mutuário, na relação LTV (loan-to-value) e na taxa de esforço.
+
+### 2. Fundos de Investimento
+
+Os FII permitem o financiamento coletivo de projetos imobiliários, reduzindo o risco individual. São regulados e oferecem liquidez controlada.
+
+### 3. Crowdfunding Imobiliário
+
+Plataformas online facilitam a captação de recursos junto a pequenos investidores. É uma opção crescente em mercados emergentes e para projetos de menor escala.
+
+## Considerações sobre Risco
+
+Cada modelo de financiamento apresenta riscos distintos:
+
+- **Crédito bancário**: risco de incumprimento e variação da taxa de juro;
+- **FII**: risco de liquidez e gestão;
+- **Crowdfunding**: risco de plataforma e retorno incerto.
+
+A mitigação de riscos exige garantias, análise de viabilidade e cláusulas contratuais bem definidas.
+
+## Conclusão
+
+O financiamento é um pilar central do desenvolvimento imobiliário. A compreensão dos diferentes modelos, riscos e oportunidades é fundamental para promotores, investidores e decisores públicos.
+
 
 ## Referências
+

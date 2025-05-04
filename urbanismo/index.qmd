@@ -1,11 +1,11 @@
 ---
 title: "Urbanismo"
+listing:
+  type: default       # ou "grid", "table", "custom"
+  sort: "date desc"   # ou "title asc"
+  contents: ./
 ---
 
 Exploração crítica do planeamento urbano, mobilidade e regeneração do tecido urbano nas cidades portuguesas.
 
-## Artigos disponíveis
 
-- [Planeamento Urbano](artigo1/)
-- [Mobilidade e Espaços Públicos](artigo2/)
-- [Reabilitação e Regeneração Urbana](artigo3/)

@@ -1,18 +1,91 @@
 ---
-title: "Artigo 3 - Smart Cities"
-description: "O impacto das cidades inteligentes no setor imobiliário."
-date: 2025-04-30
-categories: ['Tecnologia', 'Urbanismo']
+title: "Artigo 3 - Dinâmica da Oferta e Procura no Mercado Imobiliário"
+filters:
+  - watermark
+watermark:
+  text: "RASCUNHO"
+  size: 1.5
+  angle: 30
+  color: "#FF0000"
+  opacity: 0.1
+description: "Estudo sobre o equilíbrio entre oferta e procura no mercado imobiliário português, considerando fatores económicos, sociais e territoriais."
+date: 2025-05-04
+categories: ['Mercado', 'Oferta e Procura']
 format:
-  html:
-    toc: true
-    code-fold: true
+  html: default
+  pdf: default
+toc: true
+code-fold: true
 bibliography: artigo3.bib
 csl: apa.csl
 nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Smart Cities
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Como as cidades inteligentes influenciam o mercado imobiliário.
+# Dinâmica da Oferta e Procura no Mercado Imobiliário
+
+A compreensão da relação entre oferta e procura é essencial para analisar o comportamento do mercado imobiliário. Esta relação define os níveis de preço, a velocidade de absorção de imóveis, os incentivos à construção e a atratividade para investidores.
+
+## Estrutura da Procura
+
+A procura imobiliária é influenciada por:
+
+- **Rendimento disponível das famílias**
+- Taxas de juro e condições de crédito
+- Expectativas sobre valorização futura
+- Demografia (número de agregados, envelhecimento, migração)
+- Preferências habitacionais e localização
+
+Após a pandemia, houve:
+
+- Aumento da procura por imóveis maiores
+- Crescimento da procura internacional
+- Reforço da procura por arrendamento em zonas urbanas e suburbanas
+
+## Estrutura da Oferta
+
+A oferta depende de:
+
+- Disponibilidade de solo urbanizável
+- Capacidade construtiva e licenciamento
+- Custo dos materiais e mão de obra
+- Incentivos fiscais e subsídios à construção
+
+Problemas típicos:
+
+- Lentidão no licenciamento municipal
+- Falta de previsibilidade regulatória
+- Escassez de tipologias acessíveis à classe média
+
+## Desequilíbrios Regionais
+
+Em Portugal, o desequilíbrio oferta/procura é mais acentuado em:
+
+- **Lisboa e Porto**: excesso de procura e pouca oferta nova acessível
+- **Interior**: excesso de oferta sem procura suficiente
+- **Zonas costeiras turísticas**: procura sazonal e especulativa
+
+## Consequências do Desequilíbrio
+
+- Aumento dos preços e da especulação
+- Crescimento do arrendamento informal
+- Exclusão habitacional de jovens e famílias de rendimentos médios
+- Pressão sobre políticas públicas de habitação
+
+## Caminhos para o Equilíbrio
+
+- Reabilitação urbana com foco em habitação acessível
+- Programas públicos de habitação e renda controlada
+- Incentivos fiscais à construção em zonas com procura efetiva
+- Parcerias público-privadas para dinamizar a oferta estruturada
+
+## Conclusão
+
+O equilíbrio entre oferta e procura é central para um mercado imobiliário funcional. Políticas públicas adequadas, aliadas a uma atuação eficiente do setor privado, são fundamentais para alinhar a produção de imóveis com as necessidades reais da população.
+
+## Referências

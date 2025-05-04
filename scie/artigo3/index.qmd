@@ -1,5 +1,5 @@
 ---
-title: "Artigo 3 - Medidas Ativas e Passivas"
+title: "Artigo 3 - Medidas Ativas e Passivas de Proteção Contra Incêndio"
 filters:
   - watermark
 watermark:
@@ -8,9 +8,9 @@ watermark:
   angle: 30
   color: "#FF0000"
   opacity: 0.1
-description: "Discussão sobre as medidas de prevenção e combate a incêndios em edifícios."
-date: 2025-04-30
-categories: ['SCIE', 'Segurança']
+description: "Classificação e aplicação das medidas ativas e passivas de proteção contra incêndio no contexto da SCIE em edifícios."
+date: 2025-05-04
+categories: ['SCIE', 'Medidas de Proteção']
 format:
   html: default
   pdf: default
@@ -22,39 +22,101 @@ nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Artigo 3 - Medidas Ativas e Passivas
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Discussão sobre as medidas de prevenção e combate a incêndios em edifícios.
+# Artigo 3 - Medidas Ativas e Passivas de Proteção Contra Incêndio
+
+A proteção contra incêndio em edifícios depende da articulação entre **medidas passivas**, integradas no próprio edifício, e **medidas ativas**, que envolvem sistemas e equipamentos destinados à deteção, combate e evacuação. Ambas são fundamentais para garantir a segurança de pessoas e bens.
+
+## Medidas Passivas
+
+As medidas passivas são incorporadas no projeto e construção do edifício. Têm como objetivo **impedir ou retardar a propagação do fogo e do fumo**.
+
+### 1. Compartimentação Corta-Fogo
+
+- Divisão do edifício em zonas estanques
+- Utilização de paredes, tetos e portas resistentes ao fogo (REI 30, REI 60, etc.)
+
+### 2. Revestimentos e Materiais Não Combustíveis
+
+- Seleção de acabamentos com baixa reação ao fogo (classificação A1 a E)
+- Proteção de estruturas com materiais isolantes térmicos
+
+### 3. Saídas de Emergência
+
+- Dimensionamento e sinalização de rotas de evacuação
+- Iluminação de emergência e controlo de fumos em zonas de circulação
+
+### 4. Proteção de Cavidades Técnicas
+
+- Vedação de passagens de cabos, condutas e tubagens
+- Utilização de materiais intumescentes e selagens antifogo
+
+## Medidas Ativas
+
+As medidas ativas requerem **equipamentos ou sistemas mecânicos, elétricos ou eletrónicos** para deteção e combate ao incêndio.
+
+### 1. Deteção e Alarme
+
+- Detectores de fumo, calor e chama
+- Centrais de alarme e sinalização sonora/visual
+- Integração com sistemas de segurança e evacuação
+
+### 2. Meios de Combate
+
+- Extintores portáteis (água, pó, CO₂)
+- Bocas-de-incêndio armadas (BIA)
+- Sistemas de sprinklers automáticos
+- Cortinas de água ou de fumo
+
+### 3. Ventilação de Fumos
+
+- Extração mecânica e natural de fumos em escadas, átrios e corredores
+- Comando automático ou manual
+
+### 4. Comunicação e Comando
+
+- Sistemas de intercomunicação de emergência
+- Painéis de controlo centralizados
+- Integração com sistemas de gestão técnica de edifícios (BMS)
+
+## Importância da Manutenção
+
+A eficácia das medidas depende da sua correta manutenção:
+
+- Verificações periódicas (ex: extintores, sistemas de alarme)
+- Ensaios regulares (sprinklers, desenfumagem)
+- Formação e exercícios com utilizadores
 
 ## Exemplo Interativo
 
 ::: {.content-visible when-format="html"}
 
-<canvas id="graficoPrecos" width="600" height="400"></canvas>
+<canvas id="graficoMedidas" width="600" height="400"></canvas>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-  const ctx = document.getElementById('graficoPrecos').getContext('2d');
+  const ctx = document.getElementById('graficoMedidas').getContext('2d');
   new Chart(ctx, {
-    type: 'line',
+    type: 'pie',
     data: {
-      labels: ['2018', '2019', '2020', '2021', '2022', '2023'],
+      labels: ['Passivas', 'Ativas'],
       datasets: [{
-        label: 'Exemplo de Indicador',
-        data: [12, 14, 13, 15, 16, 17],
-        borderWidth: 2,
-        fill: false
+        label: 'Distribuição de Medidas em Projeto-Tipo',
+        data: [60, 40],
+        backgroundColor: ['#4CAF50', '#FF5722']
       }]
     },
     options: {
       responsive: true,
       plugins: {
-        legend: {
-          position: 'top'
-        },
+        legend: { position: 'top' },
         title: {
           display: true,
-          text: 'Indicador ilustrativo'
+          text: 'Peso das Medidas de Proteção Contra Incêndio'
         }
       }
     }
@@ -66,19 +128,20 @@ Discussão sobre as medidas de prevenção e combate a incêndios em edifícios.
 ```{python}
 import matplotlib.pyplot as plt
 
-anos = ['2018', '2019', '2020', '2021', '2022', '2023']
-indicador = [12, 14, 13, 15, 16, 17]
+labels = ['Passivas', 'Ativas']
+valores = [60, 40]
 
-plt.figure(figsize=(6, 4))
-plt.plot(anos, indicador, marker='o')
-plt.title('Indicador ilustrativo')
-plt.xlabel('Ano')
-plt.ylabel('Valor')
-plt.grid(True)
+plt.figure(figsize=(5, 4))
+plt.pie(valores, labels=labels, autopct='%1.1f%%', startangle=90, colors=['#4CAF50', '#FF5722'])
+plt.title('Peso das Medidas de Proteção Contra Incêndio em Projeto-Tipo')
+plt.axis('equal')
 plt.tight_layout()
 plt.show()
 ```
 
-📄 [Download em PDF](./index.pdf){target="_blank"}
+## Conclusão
+
+A combinação eficaz de medidas passivas e ativas é o alicerce da proteção contra incêndios em edifícios. Planeadas desde a fase de projeto e devidamente mantidas, estas medidas salvam vidas, minimizam perdas e garantem conformidade com a legislação em vigor.
+
 
 ## Referências

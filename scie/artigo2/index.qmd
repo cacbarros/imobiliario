@@ -1,5 +1,5 @@
 ---
-title: "Artigo 2 - Regulamentos e Normas"
+title: "Artigo 2 - Regulamentos e Normas da SCIE"
 filters:
   - watermark
 watermark:
@@ -8,9 +8,9 @@ watermark:
   angle: 30
   color: "#FF0000"
   opacity: 0.1
-description: "Visão geral dos regulamentos legais e normas técnicas aplicáveis à SCIE."
-date: 2025-04-30
-categories: ['SCIE', 'Segurança']
+description: "Exposição detalhada dos principais regulamentos e normas técnicas que estruturam a Segurança Contra Incêndios em Edifícios em Portugal."
+date: 2025-05-04
+categories: ['SCIE', 'Regulamentos']
 format:
   html: default
   pdf: default
@@ -22,39 +22,84 @@ nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Artigo 2 - Regulamentos e Normas
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Visão geral dos regulamentos legais e normas técnicas aplicáveis à SCIE.
+# Artigo 2 - Regulamentos e Normas da SCIE
+
+Este artigo apresenta os principais regulamentos e normas técnicas que compõem o quadro legal e operacional da Segurança Contra Incêndios em Edifícios (SCIE) em Portugal.
+
+## Enquadramento Regulamentar
+
+A legislação nacional define os princípios, exigências e responsabilidades na aplicação da SCIE. Os principais diplomas legais são:
+
+- **Decreto-Lei n.º 220/2008** – estabelece o regime jurídico da SCIE
+- **Decreto-Lei n.º 224/2015** – procede à republicação e atualização do anterior
+- **Portaria n.º 1532/2008** – aprova o Regulamento Técnico de SCIE (RT-SCIE)
+
+## Conteúdo do Regulamento Técnico (RT-SCIE)
+
+O RT-SCIE define as condições técnicas mínimas de segurança para:
+
+- Edifícios de habitação, comércio, serviços, indústria e outros usos
+- Projetos novos e intervenções em edifícios existentes
+- Instalações temporárias, equipamentos técnicos e meios de socorro
+
+As exigências variam conforme a **categoria de risco**, e abrangem:
+
+- Itinerários de evacuação
+- Meios de alarme e deteção
+- Sinalização e iluminação de emergência
+- Equipamentos de combate a incêndios
+- Compartimentação e resistência ao fogo
+
+## Normas Técnicas Complementares
+
+Além da legislação portuguesa, diversas **normas europeias (EN)** e **normas portuguesas (NP)** são aplicáveis:
+
+- **NP EN 13501-1**: classificação da reação ao fogo dos materiais
+- **NP 4413**: instalação e manutenção de extintores
+- **NP 4491**: sinalização de segurança
+- **NP 15258**: sistemas automáticos de deteção de incêndio
+- **NP EN 12845**: sistemas de sprinklers
+
+Estas normas garantem a padronização de métodos de projeto, instalação, verificação e manutenção dos sistemas de SCIE.
+
+## Responsabilidades dos Agentes
+
+- **Projetistas**: garantir a conformidade legal e técnica nos projetos
+- **Entidades instaladoras**: aplicar sistemas segundo norma aplicável
+- **Donos de obra e proprietários**: manter os edifícios em conformidade
+- **Utilizadores**: seguir planos de emergência e colaborar em simulações
 
 ## Exemplo Interativo
 
 ::: {.content-visible when-format="html"}
 
-<canvas id="graficoPrecos" width="600" height="400"></canvas>
+<canvas id="graficoSCIE" width="600" height="400"></canvas>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-  const ctx = document.getElementById('graficoPrecos').getContext('2d');
+  const ctx = document.getElementById('graficoSCIE').getContext('2d');
   new Chart(ctx, {
-    type: 'line',
+    type: 'bar',
     data: {
-      labels: ['2018', '2019', '2020', '2021', '2022', '2023'],
+      labels: ['Habitação', 'Serviços', 'Comércio', 'Indústria'],
       datasets: [{
-        label: 'Exemplo de Indicador',
-        data: [12, 14, 13, 15, 16, 17],
-        borderWidth: 2,
-        fill: false
+        label: 'Incidência de Riscos (categorias 3 e 4)',
+        data: [5, 12, 9, 15],
+        backgroundColor: 'rgba(255, 99, 132, 0.5)'
       }]
     },
     options: {
       responsive: true,
       plugins: {
-        legend: {
-          position: 'top'
-        },
+        legend: { position: 'top' },
         title: {
           display: true,
-          text: 'Indicador ilustrativo'
+          text: 'Distribuição de Edifícios com Maior Risco de Incêndio'
         }
       }
     }
@@ -66,19 +111,21 @@ Visão geral dos regulamentos legais e normas técnicas aplicáveis à SCIE.
 ```{python}
 import matplotlib.pyplot as plt
 
-anos = ['2018', '2019', '2020', '2021', '2022', '2023']
-indicador = [12, 14, 13, 15, 16, 17]
+tipos = ['Habitação', 'Serviços', 'Comércio', 'Indústria']
+incidencia = [5, 12, 9, 15]
 
 plt.figure(figsize=(6, 4))
-plt.plot(anos, indicador, marker='o')
-plt.title('Indicador ilustrativo')
-plt.xlabel('Ano')
-plt.ylabel('Valor')
-plt.grid(True)
+plt.bar(tipos, incidencia, color='tomato')
+plt.title('Distribuição de Edifícios com Maior Risco de Incêndio')
+plt.xlabel('Tipo de uso')
+plt.ylabel('Número de casos (categoria 3 ou 4)')
+plt.grid(axis='y')
 plt.tight_layout()
 plt.show()
 ```
 
-📄 [Download em PDF](./index.pdf){target="_blank"}
+## Conclusão
+
+O conhecimento profundo dos regulamentos e normas é indispensável para garantir a segurança dos edifícios e a conformidade legal. A SCIE não é apenas uma obrigação técnica, mas um compromisso com a vida, o património e o ambiente construído.
 
 ## Referências

@@ -1,0 +1,40 @@
+---
+title: "Contacto"
+description: "Informações para contacto e envio de sugestões."
+date: 2025-04-30
+categories: ['Institucional']
+format:
+  html:
+    toc: false
+    code-fold: false
+---
+
+# 📬 Contacto
+
+Tens sugestões, correções ou gostarias de colaborar com este projeto?
+
+Sinta-te à vontade para entrar em contacto:
+
+- ✉️ **Email**: [cesar@example.com](mailto:cesar@example.com)
+- 🐙 **GitHub**: [github.com/cacbarros/imobiliario](https://github.com/cacbarros/imobiliario)
+- 💬 **Comentários**: [Abertura de issues ou feedbacks no repositório GitHub](https://github.com/cacbarros/imobiliario/issues)
+
+---
+
+## Sugestões de melhoria
+
+Se desejares propor melhorias em artigos, apontar erros técnicos ou sugerir novas funcionalidades para o blog, podes:
+
+- Abrir um **issue** no GitHub com o tipo “Sugestão”
+- Enviar diretamente por email
+- Referenciar o artigo ou tema em causa para facilitar o seguimento
+
+---
+
+## Política de privacidade
+
+Este site é estático e **não recolhe dados pessoais nem utiliza cookies**. Os acessos são analisados de forma anónima apenas para fins estatísticos (via Matomo autocontido).
+
+---
+
+*Agradecemos o teu interesse e participação!*

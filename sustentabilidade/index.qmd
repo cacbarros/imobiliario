@@ -1,11 +1,11 @@
 ---
 title: "Sustentabilidade"
+listing:
+  type: default       # ou "grid", "table", "custom"
+  sort: "date desc"   # ou "title asc"
+  contents: ./
 ---
 
 Práticas, certificações e técnicas para um ambiente construído mais eficiente e responsável.
 
-## Artigos disponíveis
 
-- [Eficiência Energética](artigo1/)
-- [Certificação Ambiental](artigo2/)
-- [Construções Sustentáveis](artigo3/)

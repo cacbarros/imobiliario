@@ -1,21 +1,96 @@
 ---
-title: "Artigo 3 - Entropia e Irreversibilidade"
-description: "Exploração dos conceitos de entropia, processos reversíveis e irreversíveis na prática técnica."
-date: 2025-04-30
-categories: ['Termodinâmica', 'Entropia']
+title: "Artigo 3 - Riscos e Garantias Bancárias"
+filters:
+  - watermark
+watermark:
+  text: "RASCUNHO"
+  size: 1.5
+  angle: 30
+  color: "#FF0000"
+  opacity: 0.1
+description: "Análise dos principais riscos associados ao financiamento imobiliário e das garantias bancárias utilizadas como mitigadores."
+date: 2025-05-04
+categories: ['Financiamento', 'Gestão de Risco']
 format:
-  html:
-    toc: true
-    code-fold: true
+  html: default
+  pdf: default
+toc: true
+code-fold: true
 bibliography: artigo3.bib
 csl: apa.csl
 nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Entropia e Irreversibilidade
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Discussão da segunda lei da termodinâmica, geração de entropia e impacto nos sistemas energéticos.
+# Riscos e Garantias Bancárias no Financiamento Imobiliário
+
+O financiamento imobiliário envolve uma série de riscos que afetam tanto os promotores quanto as instituições financeiras. A gestão adequada desses riscos depende, entre outros fatores, da estruturação de garantias bancárias eficazes e da análise criteriosa da viabilidade económica dos projetos.
+
+## Principais Tipos de Risco
+
+### 1. Risco de Crédito
+
+Relaciona-se com a capacidade de pagamento do mutuário. É o risco mais direto para os bancos.
+
+- Histórico de crédito e taxa de esforço
+- LTV (Loan-to-Value) excessivo
+- Incertezas sobre receitas futuras
+
+### 2. Risco de Mercado
+
+Variações nas taxas de juro, inflação e dinâmica de preços imobiliários podem comprometer o retorno esperado dos projetos.
+
+- Exposição à Euribor e à inflação
+- Volatilidade no valor dos ativos
+- Instabilidade nas políticas públicas de habitação
+
+### 3. Risco de Execução
+
+Está ligado à capacidade de entrega do projeto conforme planeado (prazos, custos, qualidade).
+
+- Atrasos de licenciamento ou construção
+- Problemas contratuais com empreiteiros
+- Mudanças no escopo do projeto
+
+## Garantias Bancárias Comuns
+
+### 1. Hipoteca
+
+A propriedade é dada como garantia ao banco. Em caso de incumprimento, o banco pode executar a hipoteca.
+
+### 2. Fiança Bancária
+
+Um terceiro (normalmente uma instituição financeira) assume a responsabilidade pelo pagamento caso o mutuário falhe.
+
+### 3. Penhor de Créditos Futuros
+
+Receitas futuras (ex: rendas, vendas) são oferecidas como garantia, muito comum em projetos de promoção com pré-venda.
+
+### 4. Aval
+
+Pessoa ou entidade garante solidariamente a dívida.
+
+## Avaliação e Mitigação de Riscos
+
+Os bancos utilizam modelos quantitativos e qualitativos para avaliar riscos. As garantias são dimensionadas com base em:
+
+- Valor de mercado e liquidez do bem
+- Percentual financiado (LTV)
+- Índice de cobertura da dívida (DSCR)
+
+Além disso, contratos de financiamento incluem cláusulas específicas de mitigação:
+
+- Covenants financeiros
+- Requisitos de seguros obrigatórios
+- Auditorias técnicas periódicas
+
+## Conclusão
+
+A compreensão dos riscos associados ao financiamento imobiliário e a definição de garantias adequadas são fundamentais para a estabilidade do setor. Uma abordagem prudente e estruturada protege tanto os agentes financiadores quanto os promotores, favorecendo o desenvolvimento sustentável do mercado.
 
 ## Referências
-

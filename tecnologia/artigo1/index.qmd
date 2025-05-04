@@ -1,21 +1,133 @@
 ---
-title: "Artigo 1 - Reações Ácido-Base"
-description: "Fundamentos das reações ácido-base, conceitos de pH e neutralização com aplicações didáticas."
-date: 2025-04-30
-categories: ['Química', 'Ácido-Base']
+title: "Transformação Digital no Setor Imobiliário"
+lang: pt
+language:
+  toc-title: "Índice"
+filters:
+  - watermark
+watermark:
+  text: "RASCUNHO"
+  size: 1.5
+  angle: 30
+  color: "#FF0000"
+  opacity: 0.1
+description: "Exploração das tecnologias digitais aplicadas ao setor imobiliário, incluindo plataformas digitais, big data, inteligência artificial e realidade aumentada."
+date: 2025-05-04
+categories: ['Tecnologia', 'Imobiliário']
 format:
-  html:
-    toc: true
-    code-fold: true
+  html: default
+  pdf: default
+toc: true
+code-fold: true
 bibliography: artigo1.bib
 csl: apa.csl
 nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Reações Ácido-Base
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Introdução aos conceitos de ácido, base, neutralização e pH com exemplos experimentais.
+# Artigo 1 - Transformação Digital no Setor Imobiliário
+
+A transformação digital está a reformular profundamente o setor imobiliário, desde a conceção e promoção até à comercialização e gestão de ativos. Tecnologias como inteligência artificial, big data, blockchain e realidade aumentada estão a introduzir **novos modelos de negócio, maior eficiência e melhores experiências para utilizadores e investidores**.
+
+## Principais Tecnologias Aplicadas
+
+### 1. Plataformas Imobiliárias Online
+
+- Automatização de anúncios, marcações de visitas e propostas
+- Interfaces responsivas e motor de busca com geolocalização
+- Integração com CRM e marketing digital
+
+### 2. Big Data e Business Intelligence
+
+- Análise preditiva de preços e tendências de mercado
+- Avaliação automatizada de imóveis (AVM)
+- Segmentação de clientes e recomendação de imóveis
+
+### 3. Inteligência Artificial e Machine Learning
+
+- Chatbots para atendimento ao cliente
+- Algoritmos de scoring de crédito e perfil de risco
+- Otimização de portfólios de investimento
+
+### 4. Realidade Virtual e Aumentada
+
+- Visitas virtuais 360° e modelos 3D interativos
+- Sobreposição de dados em tempo real no local (RA)
+- Redução de custos com deslocações físicas
+
+### 5. Blockchain e Contratos Inteligentes
+
+- Registo digital descentralizado de transações
+- Contratos de arrendamento inteligentes
+- Redução de intermediação e maior transparência
+
+## Impactos no Mercado Imobiliário
+
+- Desintermediação e novas formas de financiamento
+- Aceleração de processos (validação, assinatura, entrega)
+- Melhoria da confiança e rastreabilidade das operações
+
+## Exemplo Interativo
+
+::: {.content-visible when-format="html"}
+
+<canvas id="graficoTecnologia" width="600" height="400"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const ctx = document.getElementById('graficoTecnologia').getContext('2d');
+  new Chart(ctx, {
+    type: 'radar',
+    data: {
+      labels: ['Eficiência', 'Segurança', 'Custos', 'Personalização', 'Escalabilidade'],
+      datasets: [{
+        label: 'Impacto da Transformação Digital',
+        data: [90, 85, 75, 80, 95],
+        backgroundColor: 'rgba(33, 150, 243, 0.2)',
+        borderColor: '#2196F3',
+        pointBackgroundColor: '#2196F3'
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'top' },
+        title: {
+          display: true,
+          text: 'Áreas de Maior Impacto Digital no Imobiliário'
+        }
+      }
+    }
+  });
+</script>
+
+:::
+
+```{python}
+import matplotlib.pyplot as plt
+
+categorias = ['Eficiência', 'Segurança', 'Custos', 'Personalização', 'Escalabilidade']
+valores = [90, 85, 75, 80, 95]
+
+plt.figure(figsize=(6, 4))
+plt.plot(categorias, valores, marker='o', color='#2196F3')
+plt.fill_between(categorias, valores, alpha=0.2, color='#2196F3')
+plt.title('Impacto Digital no Imobiliário')
+plt.ylim(0, 100)
+plt.tight_layout()
+plt.grid(True)
+plt.show()
+```
+
+## Conclusão
+
+A digitalização do setor imobiliário abre caminho para novos modelos de negócio, maior eficiência operacional e melhor experiência para os utilizadores. A adoção estratégica dessas tecnologias é hoje uma vantagem competitiva e, cada vez mais, uma exigência do mercado.
+
 
 ## Referências
 

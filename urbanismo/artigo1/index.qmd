@@ -1,21 +1,126 @@
 ---
-title: "Artigo 1 - Dimensionamento de Carga Térmica"
-description: "Fundamentos e métodos práticos para calcular a carga térmica em ambientes climatizados."
-date: 2025-04-30
-categories: ['Climatização', 'Carga Térmica']
+title: "Artigo 1 - Fundamentos do Planeamento Urbano"
+filters:
+  - watermark
+watermark:
+  text: "RASCUNHO"
+  size: 1.5
+  angle: 30
+  color: "#FF0000"
+  opacity: 0.1
+description: "Exploração dos princípios, instrumentos e desafios do planeamento urbano contemporâneo no contexto português."
+date: 2025-05-04
+categories: ['Urbanismo', 'Planeamento']
 format:
-  html:
-    toc: true
-    code-fold: true
+  html: default
+  pdf: default
+toc: true
+code-fold: true
 bibliography: artigo1.bib
 csl: apa.csl
 nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Dimensionamento de Carga Térmica
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Métodos de cálculo de carga térmica sensível e latente com base em parâmetros ambientais e de ocupação.
+# Artigo 1 - Fundamentos do Planeamento Urbano
+
+O planeamento urbano é o processo de organização e regulação do espaço urbano com o objetivo de promover cidades mais sustentáveis, inclusivas, funcionais e resilientes. Envolve múltiplas dimensões — espacial, ambiental, económica e social — e exige articulação entre políticas públicas, instrumentos legais e participação cidadã.
+
+## Princípios Fundamentais
+
+- **Uso racional do solo urbano**
+- **Equidade no acesso à habitação, mobilidade e serviços**
+- **Preservação ambiental e eficiência energética**
+- **Valorização do património e identidade local**
+- **Flexibilidade e capacidade de adaptação às mudanças**
+
+## Instrumentos de Planeamento em Portugal
+
+### 1. Instrumentos de Gestão Territorial (IGT)
+
+- **Plano Diretor Municipal (PDM)** – define o modelo de organização do território a médio e longo prazo
+- **Plano de Urbanização (PU)** – detalha áreas específicas em processo de transformação urbana
+- **Plano de Pormenor (PP)** – regula o uso do solo em áreas delimitadas com maior detalhe
+
+### 2. Estratégias Complementares
+
+- **Planos Estratégicos de Desenvolvimento Urbano**
+- **Cartas de Paisagem e Planos de Mobilidade Urbana Sustentável**
+- **Zonas de Intervenção Prioritária (ZIP)**
+
+## Desafios Contemporâneos
+
+- Urbanização descontrolada e pressão sobre recursos naturais
+- Gentrificação e segregação socioespacial
+- Adaptação às alterações climáticas (ilhas de calor, cheias)
+- Digitalização da gestão urbana (smart cities)
+- Participação cidadã efetiva e inclusiva
+
+## Tendências Emergentes
+
+- **Urbanismo tático** e intervenções de baixo custo e rápida implementação
+- **Planeamento participativo** com recurso a plataformas digitais
+- **Natureza na cidade**: corredores verdes, renaturalização e infraestrutura verde
+- **Zonamento flexível** e usos mistos
+
+## Exemplo Interativo
+
+::: {.content-visible when-format="html"}
+
+<canvas id="graficoUrbanismo" width="600" height="400"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const ctx = document.getElementById('graficoUrbanismo').getContext('2d');
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: ['Habitação', 'Espaços Verdes', 'Mobilidade', 'Equipamentos'],
+      datasets: [{
+        label: 'Percentagem de Ocupação Planeada (%)',
+        data: [45, 20, 15, 20],
+        backgroundColor: ['#4CAF50', '#81C784', '#64B5F6', '#FFB74D']
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'top' },
+        title: {
+          display: true,
+          text: 'Exemplo de Distribuição de Uso do Solo em Zona Urbana Planeada'
+        }
+      }
+    }
+  });
+</script>
+
+:::
+
+```{python}
+import matplotlib.pyplot as plt
+
+categorias = ['Habitação', 'Espaços Verdes', 'Mobilidade', 'Equipamentos']
+percentagens = [45, 20, 15, 20]
+
+plt.figure(figsize=(6, 4))
+plt.bar(categorias, percentagens, color=['#4CAF50', '#81C784', '#64B5F6', '#FFB74D'])
+plt.title('Distribuição Planeada do Uso do Solo (%)')
+plt.ylabel('Percentagem')
+plt.grid(axis='y')
+plt.tight_layout()
+plt.show()
+```
+
+## Conclusão
+
+O planeamento urbano é essencial para garantir qualidade de vida, coesão social e desenvolvimento sustentável das cidades. Exige abordagem integrada, visão de longo prazo e constante atualização frente às transformações sociais, económicas e ambientais.
+
 
 ## Referências
 

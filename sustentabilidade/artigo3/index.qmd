@@ -1,20 +1,86 @@
 ---
-title: "Artigo 3 - Probabilidades e Distribuições"
-description: "Introdução às probabilidades, eventos independentes e distribuições clássicas como binomial e normal."
-date: 2025-04-30
-categories: ['Matemática', 'Estatística']
+title: "Artigo 3 - Construções Sustentáveis"
+filters:
+  - watermark
+watermark:
+  text: "RASCUNHO"
+  size: 1.5
+  angle: 30
+  color: "#FF0000"
+  opacity: 0.1
+description: "Discussão sobre os princípios, estratégias e benefícios das construções sustentáveis no contexto ambiental, social e económico."
+date: 2025-05-04
+categories: ['Sustentabilidade', 'Construção Sustentável']
 format:
-  html:
-    toc: true
-    code-fold: true
+  html: default
+  pdf: default
+toc: true
+code-fold: true
 bibliography: artigo3.bib
 csl: apa.csl
 nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Probabilidades e Distribuições
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Conceitos fundamentais da teoria das probabilidades e principais distribuições utilizadas em ciências aplicadas.
+# Construções Sustentáveis
+
+A construção sustentável propõe um novo paradigma no setor, integrando preocupações ambientais, sociais e económicas desde a conceção até à demolição de um edifício. Vai além da eficiência energética, promovendo práticas que reduzem o impacto ambiental global e melhoram a qualidade de vida dos utilizadores.
+
+## Princípios Fundamentais
+
+- **Redução do consumo de recursos naturais**
+- **Minimização de resíduos e emissões**
+- **Eficiência energética e hídrica**
+- **Conforto ambiental e bem-estar**
+- **Integração com o meio urbano e natural**
+
+## Estratégias Construtivas Sustentáveis
+
+### 1. Planeamento Integrado
+
+- Avaliação do ciclo de vida desde a fase de projeto
+- Escolha de localizações com boa mobilidade e infraestruturas
+- Maximização da iluminação e ventilação natural
+
+### 2. Materiais Sustentáveis
+
+- Uso de materiais reciclados, recicláveis ou de baixo impacto
+- Madeira certificada, tintas ecológicas e isolamento natural
+- Preferência por fornecedores locais para reduzir pegada de carbono
+
+### 3. Tecnologias Eficientes
+
+- Sistemas de gestão técnica de edifícios (GTB)
+- Recolha e reaproveitamento de águas pluviais
+- Painéis solares, geotermia e bombas de calor
+
+### 4. Construção Modular e Industrializada
+
+- Menor desperdício e tempo de obra reduzido
+- Maior precisão e padronização
+- Reutilização e adaptabilidade dos módulos
+
+## Benefícios de Construções Sustentáveis
+
+- Redução dos custos operacionais ao longo do tempo
+- Melhoria do desempenho energético e ambiental
+- Maior valorização no mercado imobiliário
+- Contribuição para metas climáticas e políticas públicas
+
+## Desafios e Barreiras
+
+- Custo inicial mais elevado (perceção comum)
+- Resistência à mudança no setor tradicional
+- Falta de qualificação técnica e mão de obra especializada
+- Necessidade de maior integração entre projeto e execução
+
+## Conclusão
+
+As construções sustentáveis não são apenas uma tendência, mas uma necessidade estratégica num contexto de crise climática, escassez de recursos e exigências regulatórias crescentes. A adoção de princípios sustentáveis permite construir melhor, com menos impacto e mais valor para todos os intervenientes.
 
 ## Referências

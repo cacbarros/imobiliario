@@ -1,20 +1,139 @@
 ---
-title: "Artigo 3 - Estequiometria em Processos Industriais"
-description: "Aplicações da estequiometria em contextos reais de produção e balanço de massa."
-date: 2025-04-30
-categories: ['Química', 'Estequiometria']
+title: "Plataformas Digitais e Novos Modelos de Negócio no Imobiliário"
+lang: pt
+language:
+  toc-title: "Índice"
+filters:
+  - watermark
+watermark:
+  text: "RASCUNHO"
+  size: 1.5
+  angle: 30
+  color: "#FF0000"
+  opacity: 0.1
+description: "Exploração das plataformas digitais e do ecossistema PropTech, destacando os impactos sobre intermediação, investimento, financiamento e gestão de ativos."
+date: 2025-05-04
+categories: ['Tecnologia', 'PropTech']
 format:
-  html:
-    toc: true
-    code-fold: true
+  html: default
+  pdf: default
+toc: true
+code-fold: true
 bibliography: artigo3.bib
 csl: apa.csl
 nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Estequiometria em Processos Industriais
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Cálculo de reagentes e produtos em sistemas reais com foco em produção e rendimento.
+# Artigo 3 - Plataformas Digitais e Novos Modelos de Negócio no Imobiliário
+
+A digitalização do setor imobiliário está a dar origem a um ecossistema de empresas tecnológicas — o chamado **PropTech** — que desafia os modelos tradicionais de intermediação, investimento, financiamento e gestão de ativos.
+
+## O que é PropTech?
+
+O termo “PropTech” refere-se ao uso de **tecnologia digital** para inovar produtos, serviços e operações do setor imobiliário, incluindo:
+
+- Portais de anúncios e pesquisa inteligente
+- Plataformas de gestão de imóveis (property management)
+- Crowdfunding e tokenização de ativos
+- Modelos de arrendamento digital e marketplaces
+
+## Modelos de Negócio Digitais Emergentes
+
+### 1. Marketplaces e Plataformas Peer-to-Peer
+
+- Ligação direta entre proprietários e interessados (compra, arrendamento, alojamento temporário)
+- Modelos sem comissões fixas
+- Exemplos: Idealista, AirBnB, Zome, Casafari
+
+### 2. Crowdfunding e Tokenização
+
+- Financiamento coletivo de empreendimentos
+- Investimentos fracionados através de blockchain
+- Acesso democratizado a investimentos imobiliários
+
+### 3. Gestão de Imóveis Digital (Property Tech)
+
+- Software para administração de ativos, cobranças, manutenção
+- Apps móveis para inquilinos, comunicação, reservas
+- Automação de contratos e pagamentos
+
+### 4. Plataformas "as-a-Service"
+
+- **Habitação como serviço** (Housing-as-a-Service)
+- Escritórios flexíveis e on-demand (coworking)
+- Subscrições imobiliárias com serviços incluídos
+
+## Benefícios e Desafios
+
+**Vantagens:**
+
+- Redução de custos de transação
+- Maior transparência e acesso a dados
+- Democratização do investimento
+
+**Desafios:**
+
+- Regulação insuficiente ou desatualizada
+- Questões de segurança e proteção de dados
+- Resistência dos operadores tradicionais
+
+## Exemplo Interativo
+
+::: {.content-visible when-format="html"}
+
+<canvas id="graficoPropTech" width="600" height="400"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const ctx = document.getElementById('graficoPropTech').getContext('2d');
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: ['Marketplaces', 'Gestão Digital', 'Crowdfunding', 'Blockchain'],
+      datasets: [{
+        label: 'Nível de Adoção no Mercado (%)',
+        data: [85, 70, 40, 25],
+        backgroundColor: ['#4CAF50', '#2196F3', '#FF9800', '#9C27B0']
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'top' },
+        title: {
+          display: true,
+          text: 'Adoção de Soluções PropTech por Categoria'
+        }
+      }
+    }
+  });
+</script>
+
+:::
+
+```{python}
+import matplotlib.pyplot as plt
+
+categorias = ['Marketplaces', 'Gestão Digital', 'Crowdfunding', 'Blockchain']
+valores = [85, 70, 40, 25]
+
+plt.figure(figsize=(6, 4))
+plt.bar(categorias, valores, color=['#4CAF50', '#2196F3', '#FF9800', '#9C27B0'])
+plt.title('Adoção de Soluções PropTech por Categoria (%)')
+plt.ylabel('Adoção (%)')
+plt.grid(axis='y')
+plt.tight_layout()
+plt.show()
+```
+
+## Conclusão
+
+O ecossistema PropTech está a remodelar a cadeia de valor do setor imobiliário, promovendo modelos mais ágeis, acessíveis e transparentes. O sucesso depende da adoção tecnológica equilibrada com regulação, confiança e capacitação dos profissionais.
 
 ## Referências

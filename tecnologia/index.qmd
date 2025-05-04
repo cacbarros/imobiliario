@@ -1,11 +1,10 @@
 ---
 title: "Tecnologia no Imobiliário"
+listing:
+  type: default       # ou "grid", "table", "custom"
+  sort: "date desc"   # ou "title asc"
+  contents: ./
 ---
 
 Aplicações digitais e inovações tecnológicas que estão a transformar o setor imobiliário.
 
-## Artigos disponíveis
-
-- [Inovação Digital no Setor](artigo1/)
-- [BIM e Modelagem de Dados](artigo2/)
-- [Inteligência Artificial e IoT](artigo3/)

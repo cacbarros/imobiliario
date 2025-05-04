@@ -1,21 +1,121 @@
 ---
-title: "Artigo 2 - Ventilação Natural e Forçada"
-description: "Estudo da ventilação natural e mecânica em edifícios, com exemplos de aplicação e simulações."
-date: 2025-04-30
-categories: ['Climatização', 'Ventilação']
+title: "Artigo 2 - Mobilidade e Espaços Públicos nas Cidades Contemporâneas"
+filters:
+  - watermark
+watermark:
+  text: "RASCUNHO"
+  size: 1.5
+  angle: 30
+  color: "#FF0000"
+  opacity: 0.1
+description: "Análise integrada entre mobilidade urbana e desenho de espaços públicos como componentes fundamentais do urbanismo sustentável."
+date: 2025-05-04
+categories: ['Urbanismo', 'Mobilidade']
 format:
-  html:
-    toc: true
-    code-fold: true
+  html: default
+  pdf: default
+toc: true
+code-fold: true
 bibliography: artigo2.bib
 csl: apa.csl
 nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Ventilação Natural e Forçada
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Comparação entre estratégias passivas e ativas de ventilação, com foco em conforto térmico e renovação de ar.
+# Artigo 2 - Mobilidade e Espaços Públicos nas Cidades Contemporâneas
+
+A articulação entre mobilidade urbana e espaços públicos é essencial para garantir acessibilidade, inclusão social, vitalidade urbana e sustentabilidade ambiental. Este artigo explora abordagens atuais ao planeamento da mobilidade e ao desenho urbano centrado nas pessoas.
+
+## Mobilidade Urbana Sustentável
+
+A mobilidade não deve ser apenas eficiente, mas também inclusiva e ambientalmente responsável. A abordagem atual prioriza:
+
+- **Modos suaves**: andar a pé, bicicleta, micromobilidade
+- **Transporte público acessível e intermodal**
+- **Redução da dependência do automóvel**
+- **Planeamento orientado ao transporte coletivo (TOD)**
+
+### Ferramentas de Planeamento
+
+- Planos de Mobilidade Urbana Sustentável (PMUS)
+- Corredores BRT e redes cicláveis integradas
+- Zonas de emissões reduzidas e partilha de viatura
+
+## Espaços Públicos como Infraestrutura Urbana
+
+Os espaços públicos (praças, ruas, parques, passeios) não são meros interstícios, mas componentes estratégicos da malha urbana.
+
+### Funções principais:
+
+- Estruturar a mobilidade pedonal e ciclável
+- Promover encontros sociais e atividades culturais
+- Suportar biodiversidade e drenagem natural
+- Proporcionar conforto térmico e acessibilidade
+
+### Estratégias de Qualificação
+
+- **Ruas completas (complete streets)**: projetadas para todos os modos de transporte
+- **Desenho inclusivo**: acessibilidade universal e segurança
+- **Verde urbano**: árvores, sombra, bancos, mobiliário urbano
+
+## Exemplo Interativo
+
+::: {.content-visible when-format="html"}
+
+<canvas id="graficoMobilidade" width="600" height="400"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const ctx = document.getElementById('graficoMobilidade').getContext('2d');
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: ['A pé', 'Bicicleta', 'TP', 'Automóvel'],
+      datasets: [{
+        label: 'Distribuição Modal (%)',
+        data: [35, 10, 30, 25],
+        backgroundColor: ['#81C784', '#4CAF50', '#64B5F6', '#FF8A65']
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'top' },
+        title: {
+          display: true,
+          text: 'Exemplo de Distribuição de Modos de Deslocação'
+        }
+      }
+    }
+  });
+</script>
+
+:::
+
+```{python}
+import matplotlib.pyplot as plt
+
+modos = ['A pé', 'Bicicleta', 'TP', 'Automóvel']
+percentuais = [35, 10, 30, 25]
+
+plt.figure(figsize=(6, 4))
+plt.bar(modos, percentuais, color=['#81C784', '#4CAF50', '#64B5F6', '#FF8A65'])
+plt.title('Distribuição Modal em Área Urbana')
+plt.ylabel('Percentagem')
+plt.grid(axis='y')
+plt.tight_layout()
+plt.show()
+```
+
+## Conclusão
+
+Promover a mobilidade sustentável e qualificar os espaços públicos são estratégias complementares para cidades mais humanas, eficientes e resilientes. É essencial integrar políticas de transporte, desenho urbano e participação social para garantir ambientes mais habitáveis e equitativos.
+
 
 ## Referências
 

@@ -1,5 +1,5 @@
 ---
-title: "Artigo 1 - Panorama Geral"
+title: "Artigo 1 - Panorama Geral do Mercado Imobiliário"
 filters:
   - watermark
 watermark:
@@ -8,9 +8,9 @@ watermark:
   angle: 30
   color: "#FF0000"
   opacity: 0.1
-description: "Uma visão introdutória sobre o mercado imobiliário e seus determinantes."
-date: 2025-04-30
-categories: ['Imobiliário', 'Economia']
+description: "Análise introdutória do mercado imobiliário em Portugal, com foco em tendências recentes, procura, oferta e fatores estruturais."
+date: 2025-05-04
+categories: ['Mercado', 'Imobiliário']
 format:
   html: default
   pdf: default
@@ -22,64 +22,56 @@ nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Panorama Geral
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Conteúdooo introdutório sobre o mercado imobiliárioo.
+# Panorama Geral do Mercado Imobiliário
 
-## Evolução dos Preços (exemplo interativo)
+O mercado imobiliário português tem atravessado importantes transformações nas últimas décadas, impulsionado por mudanças económicas, demográficas, políticas e tecnológicas. Este artigo apresenta uma visão geral sobre os principais fatores que moldam a dinâmica atual do setor, com destaque para a habitação, o investimento e os desafios da sustentabilidade.
 
-::: {.content-visible when-format="html"}
+## Tendências Recentes
 
-<canvas id="graficoPrecos" width="600" height="400"></canvas>
+Nos últimos anos, observou-se:
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script>
-  const ctx = document.getElementById('graficoPrecos').getContext('2d');
-  new Chart(ctx, {
-    type: 'line',
-    data: {
-      labels: ['2018', '2019', '2020', '2021', '2022', '2023'],
-      datasets: [{
-        label: 'Preço médio por m² (R$)',
-        data: [4500, 4800, 5000, 5300, 5600, 6000],
-        borderWidth: 2,
-        fill: false
-      }]
-    },
-    options: {
-      responsive: true,
-      plugins: {
-        legend: {
-          position: 'top'
-        },
-        title: {
-          display: true,
-          text: 'Evolução do preço médio do m² (2018–2023)'
-        }
-      }
-    }
-  });
-</script>
+- Forte valorização dos imóveis nas áreas urbanas (Lisboa, Porto, Algarve);
+- Aumento da procura internacional, especialmente por motivos de residência e investimento;
+- Enfraquecimento do poder de compra das famílias face à subida de preços;
+- Consolidação de fundos e promotores internacionais no mercado nacional.
 
-:::
+## Fatores de Oferta e Procura
 
-```{python}
-import matplotlib.pyplot as plt
+### Oferta
 
-anos = ['2018', '2019', '2020', '2021', '2022', '2023']
-precos = [4500, 4800, 5000, 5300, 5600, 6000]
+- Lentidão no licenciamento urbanístico
+- Escassez de terrenos disponíveis em zonas centrais
+- Custos de construção elevados
+- Falta de políticas de incentivo à construção acessível
 
-plt.figure(figsize=(6, 4))
-plt.plot(anos, precos, marker='o')
-plt.title('Evolução do preço médio do m² (2018–2023)')
-plt.xlabel('Ano')
-plt.ylabel('Preço (R$)')
-plt.grid(True)
-plt.tight_layout()
-plt.show()
-```
+### Procura
 
-📄 [Download em PDF](./index.pdf){target="_blank"}
+- Crescimento demográfico em zonas urbanas
+- Mudança de preferências após pandemia (espaços maiores, teletrabalho)
+- Atração por zonas costeiras e turísticas
+- Pressão por arrendamento acessível
+
+## Segmentos do Mercado
+
+- **Residencial:** foco principal do mercado, com destaque para habitação permanente e arrendamento.
+- **Turístico:** alojamento local, hotéis e residências de curta duração.
+- **Comercial:** centros comerciais e espaços de serviços em adaptação ao comércio online.
+- **Industrial/logístico:** crescimento impulsionado pelo e-commerce.
+
+## Desafios Futuros
+
+- Acessibilidade à habitação e desigualdade territorial
+- Regulação do arrendamento e novos modelos habitacionais
+- Sustentabilidade ambiental e eficiência energética
+- Digitalização dos processos imobiliários
+
+## Conclusão
+
+O mercado imobiliário português permanece dinâmico, mas enfrenta desafios complexos que exigem uma abordagem integrada entre setor privado, Estado e sociedade civil. Compreender o seu panorama geral é essencial para qualquer interveniente no setor, seja investidor, técnico ou decisor público.
 
 ## Referências
-

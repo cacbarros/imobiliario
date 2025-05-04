@@ -1,0 +1,16 @@
+---
+title: "📄 Todos os Artigos"
+description: "Listagem automática de todos os artigos publicados no Blog Imobiliário, organizados por data e categoria."
+date: 2025-05-04
+format:
+  html:
+    toc: false
+    code-fold: false
+listing:
+  type: default
+  sort: "date desc"
+  categories: true
+  fields: [title, date, description]
+---
+
+

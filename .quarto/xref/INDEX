@@ -98,59 +98,76 @@
     "index.html": "ad868116"
   },
   "construcao/artigo1/index.qmd": {
-    "index.html": "0f73216c"
+    "index.html": "0f73216c",
+    "index.tex": "4baa1165"
   },
   "construcao/artigo2/index.qmd": {
-    "index.html": "6f866b56"
+    "index.html": "6f866b56",
+    "index.tex": "c9dfedda"
   },
   "construcao/artigo3/index.qmd": {
-    "index.html": "de512e39"
+    "index.html": "de512e39",
+    "index.tex": "a61584ad"
   },
   "financiamento/artigo1/index.qmd": {
-    "index.html": "47addf94"
+    "index.html": "47addf94",
+    "index.tex": "8dacb525"
   },
   "financiamento/artigo2/index.qmd": {
-    "index.html": "bcf5871d"
+    "index.html": "bcf5871d",
+    "index.tex": "d4c00c34"
   },
   "financiamento/artigo3/index.qmd": {
-    "index.html": "cf84608c"
+    "index.html": "cf84608c",
+    "index.tex": "f0fa1e88"
   },
   "mercado/artigo1/index.qmd": {
     "index.html": "941eec1f",
     "index.tex": "49e0c7ee"
   },
   "mercado/artigo2/index.qmd": {
-    "index.html": "99b3c1ba"
+    "index.html": "99b3c1ba",
+    "index.tex": "b5ff3e66"
   },
   "mercado/artigo3/index.qmd": {
-    "index.html": "56fbf492"
+    "index.html": "56fbf492",
+    "index.tex": "97aaafc1"
   },
   "sustentabilidade/artigo1/index.qmd": {
-    "index.html": "b9fc7c18"
+    "index.html": "b9fc7c18",
+    "index.tex": "a0294081"
   },
   "sustentabilidade/artigo2/index.qmd": {
-    "index.html": "9123e27d"
+    "index.html": "9123e27d",
+    "index.tex": "30d04d45"
   },
   "sustentabilidade/artigo3/index.qmd": {
-    "index.html": "4cded33a"
+    "index.html": "4cded33a",
+    "index.tex": "ffeb03fc"
   },
   "tecnologia/artigo1/index.qmd": {
-    "index.html": "ddad6b78"
+    "index.html": "ddad6b78",
+    "index.tex": "3e3dc0d8"
   },
   "tecnologia/artigo2/index.qmd": {
-    "index.html": "5654b682"
+    "index.html": "5654b682",
+    "index.tex": "f99e5a25"
   },
   "tecnologia/artigo3/index.qmd": {
-    "index.html": "73acd8cd"
+    "index.html": "73acd8cd",
+    "index.tex": "6c307a62"
   },
   "urbanismo/artigo1/index.qmd": {
-    "index.html": "db95532f"
+    "index.html": "db95532f",
+    "index.tex": "ebc0c10c"
   },
   "urbanismo/artigo2/index.qmd": {
-    "index.html": "20085335"
+    "index.html": "20085335",
+    "index.tex": "ee32ba54"
   },
   "urbanismo/artigo3/index.qmd": {
-    "index.html": "52fcd955"
+    "index.html": "52fcd955",
+    "index.tex": "6f7840f8"
   },
   "scie/artigo1/index.qmd": {
     "index.html": "c606d7ca",
@@ -196,5 +213,11 @@
   },
   "tecnologia/index.qmd": {
     "index.html": "940b29e1"
+  },
+  "contacto.qmd": {
+    "contacto.html": "dd571882"
+  },
+  "artigosX.qmd": {
+    "artigosX.html": "a89a783d"
   }
 }

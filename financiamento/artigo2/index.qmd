@@ -1,21 +1,92 @@
 ---
-title: "Artigo 2 - Eficiência de Ciclos Termodinâmicos"
-description: "Estudo comparativo da eficiência de ciclos de Carnot, Rankine e Otto com simulações computacionais."
+title: "Artigo 2 - Modelos de Financiamento Imobiliário"
+filters:
+  - watermark
+watermark:
+  text: "RASCUNHO"
+  size: 1.5
+  angle: 30
+  color: "#FF0000"
+  opacity: 0.1
+description: "Exploração comparativa de diferentes modelos de financiamento aplicados ao setor imobiliário português."
 date: 2025-04-30
-categories: ['Termodinâmica', 'Ciclos']
+categories: ['Financiamento', 'Mercado imobiliário']
 format:
-  html:
-    toc: true
-    code-fold: true
+  html: default
+  pdf: default
+toc: true
+code-fold: true
 bibliography: artigo2.bib
 csl: apa.csl
 nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Eficiência de Ciclos Termodinâmicos
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Análise do desempenho de ciclos térmicos ideais e reais, com foco em rendimento e perdas.
+# Modelos de Financiamento Imobiliário
+
+Este artigo examina os principais modelos de financiamento utilizados no setor imobiliário, com foco em como se adaptam ao contexto português, considerando tanto a promoção habitacional como o investimento corporativo.
+
+## Modelos Tradicionais
+
+### 1. Financiamento Bancário Hipotecário
+
+O modelo mais comum, especialmente para compradores individuais. Caracteriza-se por prazos longos e taxas associadas ao perfil de risco do cliente.
+
+- Requer entrada (LTV limitado)
+- Dependente da taxa de juro e condições macroeconómicas
+- Risco concentrado no mutuário
+
+### 2. Financiamento à Promoção
+
+Utilizado por promotores para financiar a construção e venda de empreendimentos. Pode envolver:
+
+- Financiamento direto (crédito à construção)
+- Financiamento por etapas (libertação conforme avanço da obra)
+- Reforço com garantias reais (terreno, ativos, pré-vendas)
+
+## Modelos Alternativos
+
+### 3. Parcerias Público-Privadas (PPP)
+
+Usadas em projetos de habitação acessível, reabilitação urbana e equipamentos públicos com exploração comercial.
+
+- Redução do risco privado
+- Compartilhamento de retorno
+- Maior complexidade contratual
+
+### 4. Fundos Imobiliários e Securitização
+
+Permitem acesso ao mercado através de cotas de participação em carteiras diversificadas de ativos.
+
+- Atraem investidores institucionais
+- Reduzem risco individual
+- Exigem regulação e supervisão eficaz
+
+### 5. Financiamento Coletivo (Crowdfunding)
+
+Aplicável a projetos menores, oferece entrada de capital por múltiplos pequenos investidores.
+
+- Alta flexibilidade
+- Elevado risco (para investidores e promotores)
+- Crescimento recente com regulação ainda em consolidação
+
+## Comparação entre os Modelos
+
+| Modelo                         | Flexibilidade | Risco | Escala | Acesso |
+|-------------------------------|---------------|-------|--------|--------|
+| Crédito Bancário              | Baixa         | Médio | Médio  | Médio  |
+| Promoção com Garantias        | Média         | Alto  | Alto   | Baixo  |
+| PPP                           | Alta          | Baixo | Alto   | Restrito |
+| Fundos Imobiliários           | Média         | Baixo | Alto   | Médio  |
+| Crowdfunding                  | Alta          | Alto  | Baixa  | Amplo  |
+
+## Conclusão
+
+A escolha do modelo de financiamento adequado depende do tipo de projeto, do perfil de risco, da escala e da maturidade institucional envolvida. A diversidade de instrumentos disponíveis no mercado atual exige análise criteriosa por parte de investidores, promotores e decisores públicos.
 
 ## Referências
-

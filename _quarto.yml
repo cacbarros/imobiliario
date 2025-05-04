@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Blog Imobiliário"
+  title: "🏠 Blog Imobiliário"
   page-footer:
     border: false
     background: none
@@ -14,30 +14,38 @@ website:
         <a href="https://github.com/cacbarros/imobiliario" target="_blank">GitHub</a><br>
         <small>Atualizado em: <span id="dataModificacao"></span></small>
       </div>
+
   navbar:
       left:
       - text: "📈 Mercado e Financiamento"
         menu:
-          - text: "<i class='fas fa-chart-line'></i> Mercado"
+          - text: "<i class='fas fa-chart-line'></i>&nbsp;Mercado"
             href: mercado/index.qmd
-          - text: "<i class='fas fa-dollar-sign'></i> Financiamento"
+          - text: "<i class='fas fa-dollar-sign'></i>&nbsp;Financiamento"
             href: financiamento/index.qmd
       - text: "🏙️ Urbanismo e Construção"
         menu:
-          - text: "<i class='fas fa-city'></i> Urbanismo"
+          - text: "<i class='fas fa-city'></i>&nbsp;Urbanismo"
             href: urbanismo/index.qmd
-          - text: "<i class='fas fa-hard-hat'></i> Construção"
+          - text: "<i class='fas fa-hard-hat'></i>&nbsp;Construção"
             href: construcao/index.qmd
       - text: "🌿 Ambiente e SCIE"
         menu:
-          - text: "<i class='fas fa-leaf'></i> Sustentabilidade"
+          - text: "<i class='fas fa-leaf'></i>&nbsp;Sustentabilidade"
             href: sustentabilidade/index.qmd
-          - text: "<i class='fas fa-fire-extinguisher'></i> SCIE"
+          - text: "<i class='fas fa-fire-extinguisher'></i>&nbsp;SCIE"
             href: scie/index.qmd
       - text: "🤖 Tecnologia no Imobiliário"
         menu:
-          - text: "<i class='fas fa-microchip'></i> Tecnologia"
+          - text: "<i class='fas fa-microchip'></i>&nbsp;Tecnologia"
             href: tecnologia/index.qmd
+      right:
+          - text: "ℹ️ Sobre"
+            href: sobre.qmd
+          - text: "📬 Contacto"
+            href: contacto.qmd
+      #   - text: "📄 Artigos"
+      #     href: artigosX.qmd
 
 format:
   html:

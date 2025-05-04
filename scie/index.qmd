@@ -1,11 +1,10 @@
 ---
 title: "SCIE – Segurança Contra Incêndios"
+listing:
+  type: default       # ou "grid", "table", "custom"
+  sort: "date desc"   # ou "title asc"
+  contents: ./
 ---
 
 Referenciais técnicos e normativos para a proteção contra incêndios no ambiente construído.
 
-## Artigos disponíveis
-
-- [Fundamentos da SCIE](artigo1/)
-- [Regulamentos e Normas](artigo2/)
-- [Medidas Ativas e Passivas](artigo3/)

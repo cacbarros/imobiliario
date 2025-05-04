@@ -1,22 +1,82 @@
 ---
-title: "Artigo 1 - Séries e Somatórios"
-description: "Introdução às séries numéricas, progressões e notação de somatório com aplicações práticas."
-date: 2025-04-30
-categories: ['Matemática', 'Análise']
+title: "Artigo 1 - Eficiência Energética no Ambiente Construído"
+filters:
+  - watermark
+watermark:
+  text: "RASCUNHO"
+  size: 1.5
+  angle: 30
+  color: "#FF0000"
+  opacity: 0.1
+description: "Análise de estratégias e regulamentações para promover a eficiência energética em edifícios, com foco na realidade portuguesa."
+date: 2025-05-04
+categories: ['Sustentabilidade', 'Eficiência Energética']
 format:
-  html:
-    toc: true
-    code-fold: true
+  html: default
+  pdf: default
+toc: true
+code-fold: true
 bibliography: artigo1.bib
 csl: apa.csl
 nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Séries e Somatórios
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Exploração das séries aritméticas, geométricas e uso da notação sigma em problemas aplicados.
+# Eficiência Energética no Ambiente Construído
+
+A eficiência energética é um dos pilares da sustentabilidade no setor da construção. Reduz o consumo de energia, as emissões de gases com efeito de estufa e os custos operacionais, ao mesmo tempo que melhora o conforto e a saúde dos ocupantes.
+
+## Contexto Regulamentar
+
+Portugal adotou um conjunto de medidas alinhadas com a diretiva europeia EPBD (Energy Performance of Buildings Directive):
+
+- Sistema de Certificação Energética (SCE)
+- Requisitos mínimos para envolventes e sistemas técnicos
+- Plano Nacional de Energia e Clima (PNEC 2030)
+
+## Estratégias para a Eficiência Energética
+
+### 1. Envolvente Térmica
+
+- Isolamento adequado de paredes, coberturas e pavimentos
+- Janelas com vidros duplos e corte térmico
+- Redução das pontes térmicas
+
+### 2. Sistemas Técnicos Eficientes
+
+- Bombas de calor e caldeiras de condensação
+- Iluminação LED e sensores de presença
+- Ventilação mecânica controlada (VMC)
+
+### 3. Energia Renovável
+
+- Instalação de painéis solares térmicos e fotovoltaicos
+- Aproveitamento de energia geotérmica ou aerotérmica
+- Autoconsumo com injeção na rede
+
+## Benefícios Económicos e Ambientais
+
+- Redução significativa da fatura energética
+- Menor dependência de fontes fósseis
+- Valorização do imóvel no mercado
+
+## Barreiras e Desafios
+
+- Custo inicial das soluções mais eficientes
+- Falta de informação técnica em pequenas obras
+- Resistência cultural e desconhecimento dos benefícios
+
+## O Papel da Certificação Energética
+
+O certificado energético avalia o desempenho do edifício e recomenda melhorias. Torna-se obrigatório em transações imobiliárias e é instrumento-chave para políticas públicas de incentivo.
+
+## Conclusão
+
+A eficiência energética não é apenas uma exigência regulamentar, mas uma oportunidade estratégica para reduzir impactos ambientais, promover a qualidade construtiva e gerar valor económico no longo prazo.
 
 ## Referências
-
-

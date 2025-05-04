@@ -1,21 +1,85 @@
 ---
-title: "Artigo 2 - Funções Quadráticas em Contexto"
-description: "Estudo das funções quadráticas e suas aplicações em economia, física e engenharia."
-date: 2025-04-30
-categories: ['Matemática', 'Funções']
+title: "Artigo 2 - Certificação Ambiental em Edifícios"
+filters:
+  - watermark
+watermark:
+  text: "RASCUNHO"
+  size: 1.5
+  angle: 30
+  color: "#FF0000"
+  opacity: 0.1
+description: "Exploração das principais certificações ambientais aplicadas ao setor da construção e ao desempenho sustentável dos edifícios."
+date: 2025-05-04
+categories: ['Sustentabilidade', 'Certificação Ambiental']
 format:
-  html:
-    toc: true
-    code-fold: true
+  html: default
+  pdf: default
+toc: true
+code-fold: true
 bibliography: artigo2.bib
 csl: apa.csl
 nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Funções Quadráticas em Contexto
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Análise do gráfico, vértice e raízes de funções do 2.º grau com exemplos aplicados.
+# Certificação Ambiental em Edifícios
+
+As certificações ambientais são ferramentas essenciais para promover e reconhecer boas práticas de sustentabilidade na construção civil. Elas avaliam o desempenho ambiental dos edifícios ao longo do seu ciclo de vida, desde a conceção até à operação.
+
+## Objetivos da Certificação
+
+- Promover a eficiência energética e hídrica
+- Reduzir o impacto ambiental da construção
+- Melhorar o conforto e a saúde dos ocupantes
+- Valorizar economicamente os imóveis sustentáveis
+
+## Principais Sistemas de Certificação
+
+### 1. LEED (Leadership in Energy and Environmental Design)
+
+- Sistema norte-americano com aplicação internacional
+- Classificação em quatro níveis: Certified, Silver, Gold, Platinum
+- Avalia categorias como energia, água, materiais, inovação e localização
+
+### 2. BREEAM (Building Research Establishment Environmental Assessment Method)
+
+- Origem no Reino Unido
+- Ênfase em desempenho técnico e gestão do edifício
+- Utiliza uma escala de pontuação: Pass, Good, Very Good, Excellent, Outstanding
+
+### 3. WELL Building Standard
+
+- Foco no bem-estar e saúde dos ocupantes
+- Mede qualidade do ar, luz, conforto térmico, alimentação e mobilidade
+- Complementa outras certificações com abordagem centrada no utilizador
+
+### 4. LiderA (Portugal)
+
+- Sistema nacional de avaliação da sustentabilidade
+- Adaptado à realidade climática e regulatória portuguesa
+- Avalia eficiência ecológica, social e económica
+
+## Benefícios para Promotores e Utilizadores
+
+- Redução de custos operacionais
+- Melhoria da imagem institucional
+- Maior atratividade no mercado
+- Cumprimento de requisitos legais e normativos
+
+## Desafios de Implementação
+
+- Custo inicial e tempo adicional de projeto
+- Necessidade de equipas multidisciplinares
+- Compatibilização com regulamentação local
+- Reconhecimento desigual entre mercados
+
+## Conclusão
+
+A certificação ambiental representa um avanço importante na consolidação de práticas sustentáveis no setor imobiliário. Além de ser um diferencial competitivo, ela contribui para mitigar os impactos ambientais e promover ambientes mais saudáveis e eficientes.
 
 ## Referências
-

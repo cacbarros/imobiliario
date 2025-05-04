@@ -1,5 +1,5 @@
 ---
-title: "Artigo 2 - Preços e Juros"
+title: "Artigo 2 - Tendências Pós-Pandemia no Mercado Imobiliário"
 filters:
   - watermark
 watermark:
@@ -7,19 +7,67 @@ watermark:
   size: 1.5
   angle: 30
   color: "#FF0000"
-description: "Discussão sobre a relação entre preços de imóveis e taxas de juro."
-date: 2025-04-30
-categories: ['Finanças', 'Economia']
+  opacity: 0.1
+description: "Análise das transformações no mercado imobiliário após a pandemia de COVID-19, com foco em comportamentos de procura, adaptação dos espaços e desafios económicos."
+date: 2025-05-04
+categories: ['Mercado', 'Pós-Pandemia']
 format:
-  html:
-    toc: true
-    code-fold: true
+  html: default
+  pdf: default
+toc: true
+code-fold: true
 bibliography: artigo2.bib
 csl: apa.csl
 nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Preços e Juros
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Análise da correlação entre preços dos imóveis e juros.
+# Tendências Pós-Pandemia no Mercado Imobiliário
+
+A pandemia de COVID-19 impactou profundamente o comportamento dos consumidores e a estrutura do mercado imobiliário em Portugal e no mundo. Este artigo apresenta as principais tendências que emergiram desde 2020 e as adaptações em curso no setor.
+
+## Mudança no Comportamento da Procura
+
+A pandemia alterou significativamente o perfil de procura de habitação:
+
+- **Valorização de espaços maiores**, com áreas exteriores e escritórios domésticos;
+- **Fuga dos centros urbanos densos** para periferias e cidades médias;
+- **Aumento do interesse em imóveis multifuncionais** e flexíveis;
+- Crescimento da procura internacional em locais com boa qualidade de vida e conectividade.
+
+## Impactos no Segmento Residencial
+
+- **Reestruturação de empreendimentos** para integrar espaços de teletrabalho;
+- Adaptação de edifícios existentes para **uso misto** (residencial + coworking);
+- Aumento da procura por imóveis com certificação energética e qualidade ambiental.
+
+## Mudanças no Segmento Comercial e de Escritórios
+
+- Redução da ocupação de grandes espaços corporativos;
+- Crescimento dos modelos de **escritórios híbridos e coworking**;
+- Reavaliação de localizações premium com base na nova lógica de mobilidade.
+
+## Impulso à Digitalização
+
+A pandemia acelerou a digitalização do setor:
+
+- Uso generalizado de **visitas virtuais, drones e realidade aumentada**;
+- Plataformas digitais de intermediação imobiliária ganharam espaço;
+- Aplicação crescente de **IA para avaliação, precificação e matching**.
+
+## Reflexos Económicos
+
+- **Volatilidade das taxas de juro** e políticas de estímulo impactaram a oferta de crédito;
+- A inflação e o custo de materiais afetaram a viabilidade de novos projetos;
+- Programas de apoio público e fundos europeus influenciaram o relançamento do setor.
+
+## Conclusão
+
+A pandemia provocou uma redefinição estrutural do mercado imobiliário. As tendências observadas não são apenas reações temporárias, mas sinalizam um novo paradigma de planeamento urbano, habitação e trabalho. Entender essas mudanças é fundamental para atuar de forma estratégica no setor.
+
+## Referências

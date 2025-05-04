@@ -1,5 +1,5 @@
 ---
-title: "Artigo 1 - Fundamentos da SCIE"
+title: "Artigo 1 - Fundamentos da Segurança Contra Incêndios em Edifícios (SCIE)"
 filters:
   - watermark
 watermark:
@@ -8,8 +8,8 @@ watermark:
   angle: 30
   color: "#FF0000"
   opacity: 0.1
-description: "Introdução aos conceitos básicos da Segurança Contra Incêndios em Edifícios."
-date: 2025-04-30
+description: "Introdução aos conceitos essenciais da SCIE, incluindo objetivos, princípios técnicos e enquadramento legal em Portugal."
+date: 2025-05-04
 categories: ['SCIE', 'Segurança']
 format:
   html: default
@@ -22,9 +22,75 @@ nocite: "@*"
 reference-title: "Referências"
 ---
 
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
+
+
 # Artigo 1 - Fundamentos da SCIE
 
 Introdução aos conceitos básicos da Segurança Contra Incêndios em Edifícios.
+
+
+## Objetivos da SCIE
+
+- Prevenir a ocorrência de incêndios
+- Limitar o desenvolvimento e propagação do fogo e fumo
+- Facilitar a evacuação dos ocupantes e o acesso dos meios de socorro
+- Proteger os bens e o ambiente
+- Minimizar os impactos humanos, materiais e sociais de um sinistro
+
+## Enquadramento Legal em Portugal
+
+A SCIE está regulamentada pelo:
+
+- **Decreto-Lei n.º 220/2008**, alterado e republicado pelo **Decreto-Lei n.º 224/2015**
+- **Regulamento Técnico de SCIE (RT-SCIE)**, constante da Portaria n.º 1532/2008
+
+Estas normas definem:
+
+- Categorias de risco
+- Condições de segurança obrigatórias por uso-tipo
+- Responsabilidades dos projetistas, proprietários e utilizadores
+
+## Princípios Técnicos Fundamentais
+
+### 1. Compartimentação
+
+- Separação física entre zonas para limitar a propagação do fogo
+- Utilização de elementos construtivos com resistência ao fogo (REI)
+
+### 2. Evacuação
+
+- Itinerários acessíveis, bem sinalizados e dimensionados
+- Iluminação de emergência
+- Saídas de emergência desobstruídas
+
+### 3. Detecção e Alarme
+
+- Sistemas automáticos de detecção e alarme sonoro
+- Integração com centrais de controlo e segurança
+
+### 4. Meios de Primeira Intervenção
+
+- Extintores, bocas-de-incêndio e mangueiras
+- Formação de utilizadores e brigadas internas
+
+### 5. Acesso aos Meios de Socorro
+
+- Acessibilidade e vias de combate exterior
+- Espaços técnicos e infraestruturas de apoio aos bombeiros
+
+## Classificação do Risco
+
+O risco de incêndio é classificado com base em:
+
+- Tipo de ocupação (habitação, serviços, comércio, indústria, etc.)
+- Número de pisos e área
+- Número de ocupantes
+
+As categorias vão de **Risco Reduzido (1)** até **Risco Muito Elevado (4)**, determinando a exigência das medidas a implementar.
 
 ## Exemplo Interativo
 
@@ -79,6 +145,9 @@ plt.tight_layout()
 plt.show()
 ```
 
-📄 [Download em PDF](./index.pdf){target="_blank"}
+
+## Conclusão
+
+A SCIE é uma disciplina transversal à arquitetura, engenharia e gestão dos edifícios. A sua aplicação rigorosa não só garante a conformidade legal, como é essencial para preservar vidas humanas e património em caso de emergência.
 
 ## Referências

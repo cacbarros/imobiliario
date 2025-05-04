@@ -1,21 +1,128 @@
 ---
-title: "Artigo 3 - Chillers e Torres de Resfriamento"
-description: "Funcionamento e dimensionamento básico de chillers e torres de resfriamento em sistemas HVAC."
-date: 2025-04-30
-categories: ['Climatização', 'HVAC']
+title: "Artigo 3 - Reabilitação e Regeneração Urbana"
+lang: pt
+language:
+  toc-title: "Índice"
+filters:
+  - watermark
+watermark:
+  text: "RASCUNHO"
+  size: 1.5
+  angle: 30
+  color: "#FF0000"
+  opacity: 0.1
+description: "Abordagem estratégica da reabilitação urbana em Portugal, com foco na recuperação do edificado, dinamização socioeconómica e sustentabilidade."
+date: 2025-05-04
+categories: ['Urbanismo', 'Reabilitação']
 format:
-  html:
-    toc: true
-    code-fold: true
+  html: default
+  pdf: default
+toc: true
+code-fold: true
 bibliography: artigo3.bib
 csl: apa.csl
 nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Chillers e Torres de Resfriamento
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Princípios operacionais e aspectos energéticos de equipamentos de climatização de grande porte.
+# Artigo 3 - Reabilitação e Regeneração Urbana
+
+A reabilitação urbana consiste na recuperação física, social, económica e ambiental de áreas urbanas degradadas ou obsoletas. Já a regeneração urbana vai além do edificado, visando revitalizar territórios, promover inclusão social e atrair nova centralidade.
+
+## Importância da Reabilitação Urbana
+
+- Reduz o consumo de solo e os impactos ambientais da expansão urbana
+- Valoriza o património histórico, cultural e arquitetónico
+- Requalifica áreas centrais e previne o abandono urbano
+- Estimula a economia local e gera emprego no setor da construção
+
+## Instrumentos e Programas em Portugal
+
+### 1. ARU – Área de Reabilitação Urbana
+
+- Delimitação aprovada pela Câmara Municipal
+- Acesso a incentivos fiscais e benefícios urbanísticos
+- Aplicável em zonas com degradação física e funcional
+
+### 2. ORU – Operação de Reabilitação Urbana
+
+- Plano específico de reabilitação com prazos e objetivos
+- Pode ser simples (edifícios e infraestruturas) ou sistemática (com transformação profunda do espaço)
+
+### 3. Programas Nacionais
+
+- IFRRU 2020: financiamento à reabilitação energética e estrutural
+- PRR (Plano de Recuperação e Resiliência): aposta em habitação acessível e eficiência energética
+- Apoios fiscais à reabilitação (IVA a 6%, isenções de IMT e IMI)
+
+## Abordagens Estratégicas
+
+- Reabilitação centrada nas **pessoas e comunidades**
+- Soluções baseadas na natureza e eficiência energética
+- Combinação de investimento público e privado
+- Participação ativa dos moradores e comerciantes
+
+## Exemplo Interativo
+
+::: {.content-visible when-format="html"}
+
+<canvas id="graficoReabilitacao" width="600" height="400"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const ctx = document.getElementById('graficoReabilitacao').getContext('2d');
+  new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: ['2017', '2018', '2019', '2020', '2021', '2022'],
+      datasets: [{
+        label: 'Áreas Reabilitadas (milhares m²)',
+        data: [320, 400, 450, 370, 490, 520],
+        borderColor: '#4CAF50',
+        fill: false
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'top' },
+        title: {
+          display: true,
+          text: 'Evolução da Reabilitação Urbana em Portugal'
+        }
+      }
+    }
+  });
+</script>
+
+:::
+
+```{python}
+import matplotlib.pyplot as plt
+
+anos = ['2017', '2018', '2019', '2020', '2021', '2022']
+valores = [320, 400, 450, 370, 490, 520]
+
+plt.figure(figsize=(6, 4))
+plt.plot(anos, valores, marker='o', color='#4CAF50')
+plt.title('Áreas Reabilitadas em Portugal (milhares m²)')
+plt.xlabel('Ano')
+plt.ylabel('Área reabilitada')
+plt.grid(True)
+plt.tight_layout()
+plt.show()
+```
+
+
+## Conclusão
+
+A reabilitação e regeneração urbana são ferramentas-chave para o futuro das cidades portuguesas. Permitem recuperar património, promover a coesão social, mitigar alterações climáticas e garantir um uso mais inteligente e equitativo do território urbano.
+
 
 ## Referências
 

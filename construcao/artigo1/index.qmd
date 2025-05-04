@@ -1,21 +1,132 @@
 ---
-title: "Artigo 1 - Fundamentos da Cinemática"
-description: "Estudo introdutório dos conceitos de posição, velocidade e aceleração com exemplos práticos."
-date: 2025-04-30
-categories: ['Física', 'Cinemática']
+title: "Técnicas Construtivas Tradicionais e Inovadoras"
+lang: pt
+language:
+  toc-title: "Índice"
+filters:
+  - watermark
+watermark:
+  text: "RASCUNHO"
+  size: 1.5
+  angle: 30
+  color: "#FF0000"
+  opacity: 0.1
+description: "Análise comparativa entre técnicas construtivas tradicionais e soluções inovadoras no setor da construção civil, com enfoque na realidade portuguesa."
+date: 2025-05-04
+categories: ['Construção', 'Tecnologia']
 format:
-  html:
-    toc: true
-    code-fold: true
+  html: default
+  pdf: default
+toc: true
+code-fold: true
 bibliography: artigo1.bib
 csl: apa.csl
 nocite: "@*"
 reference-title: "Referências"
 ---
 
-# Fundamentos da Cinemática
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a>
+  <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button>
+</div>
 
-Conteúdo introdutório sobre posição, velocidade e aceleração.
+# Artigo 1 - Técnicas Construtivas Tradicionais e Inovadoras
+
+A evolução das técnicas construtivas acompanha as transformações sociais, tecnológicas e ambientais. Este artigo apresenta uma visão geral das principais técnicas tradicionais e explora inovações recentes com impacto na qualidade, sustentabilidade e produtividade da construção.
+
+## Técnicas Construtivas Tradicionais
+
+### 1. Alvenaria de Pedra e Taipa
+
+- Uso histórico em construções rurais e patrimoniais
+- Boa inércia térmica, mas baixa resistência sísmica
+- Exigem manutenção regular e mão de obra especializada
+
+### 2. Alvenaria de Tijolo
+
+- Amplamente utilizada no século XX
+- Facilidade de execução e materiais acessíveis
+- Limitada flexibilidade para alterações e instalações técnicas
+
+### 3. Betão Armado Convencional
+
+- Base da construção moderna
+- Versátil, resistente, durável
+- Elevado impacto ambiental (produção de cimento)
+
+## Técnicas Construtivas Inovadoras
+
+### 1. Construção Modular
+
+- Pré-fabricação em ambiente controlado
+- Redução de desperdício e tempo de obra
+- Ideal para habitação acessível, escolas, saúde
+
+### 2. Impressão 3D de Betão
+
+- Impressão de elementos estruturais com robots e betão especial
+- Flexibilidade formal e rapidez de execução
+- Ainda em fase experimental em larga escala
+
+### 3. Madeira Estrutural Laminada (CLT)
+
+- Alternativa renovável ao betão e aço
+- Boa performance estrutural e ambiental
+- Utilizada em edifícios de média altura e pavilhões
+
+## Exemplo Interativo
+
+::: {.content-visible when-format="html"}
+
+<canvas id="graficoTecnicas" width="600" height="400"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const ctx = document.getElementById('graficoTecnicas').getContext('2d');
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: ['Tradicional', 'Modular', '3D', 'CLT'],
+      datasets: [{
+        label: 'Tempo Médio de Execução (semanas)',
+        data: [24, 10, 8, 12],
+        backgroundColor: ['#9E9E9E', '#4CAF50', '#FF9800', '#8D6E63']
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'top' },
+        title: {
+          display: true,
+          text: 'Comparação de Tempo de Execução por Técnica'
+        }
+      }
+    }
+  });
+</script>
+
+:::
+
+```{python}
+import matplotlib.pyplot as plt
+
+tecnicas = ['Tradicional', 'Modular', '3D', 'CLT']
+tempos = [24, 10, 8, 12]
+
+plt.figure(figsize=(6, 4))
+plt.bar(tecnicas, tempos, color=['#9E9E9E', '#4CAF50', '#FF9800', '#8D6E63'])
+plt.title('Tempo Médio de Execução por Técnica (semanas)')
+plt.ylabel('Semanas')
+plt.grid(axis='y')
+plt.tight_layout()
+plt.show()
+```
+
+## Conclusão
+
+A combinação entre técnicas tradicionais e soluções inovadoras permite responder às exigências contemporâneas do setor da construção. Eficiência, sustentabilidade e industrialização são tendências irreversíveis que desafiam os profissionais a repensar processos e materiais.
+
 
 ## Referências
 
