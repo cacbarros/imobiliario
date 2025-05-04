@@ -15,73 +15,37 @@ website:
         <small>Atualizado em: <span id="dataModificacao"></span></small>
       </div>
   navbar:
-    left:
-      - text: "Mercado"
+      left:
+      - text: "📈 Mercado e Financiamento"
         menu:
-          - text: "Artigo 1 - Panorama Geral"
-            href: mercado/artigo1/
-          - text: "Artigo 2 - Tendências Pós-Pandemia"
-            href: mercado/artigo2/
-          - text: "Artigo 3 - Dinâmica da Oferta e Procura"
-            href: mercado/artigo3/
-
-      - text: "Sustentabilidade"
+          - text: "<i class='fas fa-chart-line'></i> Mercado"
+            href: mercado/index.qmd
+          - text: "<i class='fas fa-dollar-sign'></i> Financiamento"
+            href: financiamento/index.qmd
+      - text: "🏙️ Urbanismo e Construção"
         menu:
-          - text: "Artigo 1 - Eficiência Energética"
-            href: sustentabilidade/artigo1/
-          - text: "Artigo 2 - Certificação Ambiental"
-            href: sustentabilidade/artigo2/
-          - text: "Artigo 3 - Construções Sustentáveis"
-            href: sustentabilidade/artigo3/
-
-      - text: "Tecnologia"
+          - text: "<i class='fas fa-city'></i> Urbanismo"
+            href: urbanismo/index.qmd
+          - text: "<i class='fas fa-hard-hat'></i> Construção"
+            href: construcao/index.qmd
+      - text: "🌿 Ambiente e SCIE"
         menu:
-          - text: "Artigo 1 - PropTech e Digitalização"
-            href: tecnologia/artigo1/
-          - text: "Artigo 2 - Realidade Virtual e Aumentada"
-            href: tecnologia/artigo2/
-          - text: "Artigo 3 - Inteligência Artificial no Setor"
-            href: tecnologia/artigo3/
-
-      - text: "Financiamento"
+          - text: "<i class='fas fa-leaf'></i> Sustentabilidade"
+            href: sustentabilidade/index.qmd
+          - text: "<i class='fas fa-fire-extinguisher'></i> SCIE"
+            href: scie/index.qmd
+      - text: "🤖 Tecnologia no Imobiliário"
         menu:
-          - text: "Artigo 1 - Crédito e Investimento"
-            href: financiamento/artigo1/
-          - text: "Artigo 2 - Modelos de Financiamento Imobiliário"
-            href: financiamento/artigo2/
-          - text: "Artigo 3 - Riscos e Garantias Bancárias"
-            href: financiamento/artigo3/
-
-      - text: "Construção"
-        menu:
-          - text: "Artigo 1 - Técnicas Construtivas"
-            href: construcao/artigo1/
-          - text: "Artigo 2 - Novos Materiais e Sustentabilidade"
-            href: construcao/artigo2/
-          - text: "Artigo 3 - Industrialização da Construção"
-            href: construcao/artigo3/
-
-      - text: "Urbanismo"
-        menu:
-          - text: "Artigo 1 - Planeamento Urbano"
-            href: urbanismo/artigo1/
-          - text: "Artigo 2 - Mobilidade e Espaços Públicos"
-            href: urbanismo/artigo2/
-          - text: "Artigo 3 - Reabilitação e Regeneração Urbana"
-            href: urbanismo/artigo3/
-      - text: "SCIE"
-        menu:
-          - text: "Artigo 1 - Fundamentos da SCIE"
-            href: scie/artigo1/
-          - text: "Artigo 2 - Regulamentos e Normas"
-            href: scie/artigo2/
-          - text: "Artigo 3 - Medidas Ativas e Passivas"
-            href: scie/artigo3/
+          - text: "<i class='fas fa-microchip'></i> Tecnologia"
+            href: tecnologia/index.qmd
 
 format:
   html:
     theme: flatly
     css: styles.css
+    include-in-header:
+      - text: |
+          <script src="https://kit.fontawesome.com/YOUR-KIT-ID.js" crossorigin="anonymous"></script>
     include-before-body:
       - text: '<script src="/footer.js"></script>'
     toc: true

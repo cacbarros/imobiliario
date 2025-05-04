@@ -1,0 +1,11 @@
+---
+title: "Construção"
+---
+
+Discussões sobre técnicas construtivas, inovação em materiais e processos de industrialização no setor.
+
+## Artigos disponíveis
+
+- [Técnicas Construtivas](artigo1/)
+- [Novos Materiais e Sustentabilidade](artigo2/)
+- [Industrialização da Construção](artigo3/)

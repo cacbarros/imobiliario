@@ -175,5 +175,26 @@
   },
   "artigos.qmd": {
     "artigos.html": "cdd294b6"
+  },
+  "mercado/index.qmd": {
+    "index.html": "065db73a"
+  },
+  "financiamento/index.qmd": {
+    "index.html": "70335ffa"
+  },
+  "construcao/index.qmd": {
+    "index.html": "d913d66a"
+  },
+  "urbanismo/index.qmd": {
+    "index.html": "a9db52ff"
+  },
+  "scie/index.qmd": {
+    "index.html": "cf779918"
+  },
+  "sustentabilidade/index.qmd": {
+    "index.html": "d3500048"
+  },
+  "tecnologia/index.qmd": {
+    "index.html": "940b29e1"
   }
 }

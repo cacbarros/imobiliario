@@ -1,0 +1,11 @@
+---
+title: "Financiamento Imobiliário"
+---
+
+Conheça os modelos, riscos e estratégias de financiamento aplicadas ao setor imobiliário.
+
+## Artigos disponíveis
+
+- [Crédito e Investimento](artigo1/)
+- [Modelos de Financiamento Imobiliário](artigo2/)
+- [Riscos e Garantias Bancárias](artigo3/)

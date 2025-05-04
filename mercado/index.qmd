@@ -1,0 +1,9 @@
+---
+title: "Mercado Imobiliário"
+---
+
+Explore os temas em destaque:
+
+- [Artigo 1 - Panorama Geral](artigo1/)
+- [Artigo 2 - Tendências Pós-Pandemia](artigo2/)
+- [Artigo 3 - Dinâmica da Oferta e Procura](artigo3/)
