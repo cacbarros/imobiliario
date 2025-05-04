@@ -1,8 +1,9 @@
 /* Fundo geral */
 body {
-  background-color: #f7f9fa;
-  color: #1a1a1a;
+  background: linear-gradient(to right, #f4f0ff, #d0bfff, #f4f0ff);
 }
+
+
 
 /* Barra de navegação */
 .navbar {
@@ -56,4 +57,83 @@ footer {
 
 .footer-custom a:hover {
   text-decoration: underline;
+}
+/* --- Estilos para destaques em cards (Melhoria 1) --- */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.card-grid a {
+  display: block;
+  background: #ffffff;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  font-weight: bold;
+  color: #333333;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card-grid a:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+.banner-container {
+  position: relative;
+  width: 100%;
+  max-height: 400px;
+  overflow: hidden;
+  border-radius: 12px;
+  margin-top: 2rem;
+}
+
+.banner-img {
+  width: 100%;
+  object-fit: cover;
+  filter: brightness(60%);
+}
+
+.banner-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  max-width: 80%;
+  font-size: 1.5rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
+}
+.banner-button {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.75rem 1.5rem;
+  background-color: #FF6F00;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.banner-button:hover {
+  background-color: #e65c00;
+}
+.page, .content, .container, main {
+  background-color: transparent !important;
+}
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Lora:wght@700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lora', serif;
 }

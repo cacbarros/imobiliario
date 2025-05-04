@@ -21,165 +21,81 @@
     "text": "Métodos de cálculo de carga térmica sensível e latente com base em parâmetros ambientais e de ocupação."
   },
   {
-    "objectID": "sustentabilidade/artigo2/index.html",
-    "href": "sustentabilidade/artigo2/index.html",
-    "title": "Artigo 2 - Funções Quadráticas em Contexto",
+    "objectID": "artigos.html",
+    "href": "artigos.html",
+    "title": "Artigos em Destaque",
     "section": "",
-    "text": "Análise do gráfico, vértice e raízes de funções do 2.º grau com exemplos aplicados."
+    "text": "Leia o artigo\n\n\n\nLeia o artigo\n\n\n\nLeia o artigo"
   },
   {
-    "objectID": "sustentabilidade/artigo3/index.html",
-    "href": "sustentabilidade/artigo3/index.html",
-    "title": "Artigo 3 - Probabilidades e Distribuições",
+    "objectID": "artigos.html#destaques-recentes",
+    "href": "artigos.html#destaques-recentes",
+    "title": "Artigos em Destaque",
     "section": "",
-    "text": "Conceitos fundamentais da teoria das probabilidades e principais distribuições utilizadas em ciências aplicadas."
+    "text": "Leia o artigo\n\n\n\nLeia o artigo\n\n\n\nLeia o artigo"
   },
   {
-    "objectID": "scie/artigo1/index.html",
-    "href": "scie/artigo1/index.html",
-    "title": "Artigo 1 - Fundamentos da SCIE",
+    "objectID": "sustentabilidade/artigo1/index.html",
+    "href": "sustentabilidade/artigo1/index.html",
+    "title": "Artigo 1 - Séries e Somatórios",
     "section": "",
-    "text": "Introdução aos conceitos básicos da Segurança Contra Incêndios em Edifícios.\n\n\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+    "text": "Exploração das séries aritméticas, geométricas e uso da notação sigma em problemas aplicados."
   },
   {
-    "objectID": "scie/artigo1/index.html#exemplo-interativo",
-    "href": "scie/artigo1/index.html#exemplo-interativo",
-    "title": "Artigo 1 - Fundamentos da SCIE",
+    "objectID": "scie/artigo2/index.html",
+    "href": "scie/artigo2/index.html",
+    "title": "Artigo 2 - Regulamentos e Normas",
+    "section": "",
+    "text": "Visão geral dos regulamentos legais e normas técnicas aplicáveis à SCIE.\n\n\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+  },
+  {
+    "objectID": "scie/artigo2/index.html#exemplo-interativo",
+    "href": "scie/artigo2/index.html#exemplo-interativo",
+    "title": "Artigo 2 - Regulamentos e Normas",
     "section": "",
     "text": "Code\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
   },
   {
-    "objectID": "construcao/artigo2/index.html",
-    "href": "construcao/artigo2/index.html",
-    "title": "Artigo 2 - Leis de Newton em Ação",
+    "objectID": "scie/artigo3/index.html",
+    "href": "scie/artigo3/index.html",
+    "title": "Artigo 3 - Medidas Ativas e Passivas",
     "section": "",
-    "text": "Discussão das leis do movimento e aplicações práticas.\n\n\nrelação entre preços dos imóveis e juros."
+    "text": "Discussão sobre as medidas de prevenção e combate a incêndios em edifícios.\n\n\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
   },
   {
-    "objectID": "construcao/artigo2/index.html#referências",
-    "href": "construcao/artigo2/index.html#referências",
-    "title": "Artigo 2 - Leis de Newton em Ação",
+    "objectID": "scie/artigo3/index.html#exemplo-interativo",
+    "href": "scie/artigo3/index.html#exemplo-interativo",
+    "title": "Artigo 3 - Medidas Ativas e Passivas",
     "section": "",
-    "text": "relação entre preços dos imóveis e juros."
+    "text": "Code\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
   },
   {
-    "objectID": "construcao/artigo3/index.html",
-    "href": "construcao/artigo3/index.html",
-    "title": "Artigo 3 - Oscilações e Ressonância",
+    "objectID": "construcao/artigo1/index.html",
+    "href": "construcao/artigo1/index.html",
+    "title": "Artigo 1 - Fundamentos da Cinemática",
     "section": "",
-    "text": "Exploração dos sistemas oscilatórios e do fenômeno da ressonância.\n\n\nas cidades inteligentes influenciam o mercado imobiliário."
+    "text": "Conteúdo introdutório sobre posição, velocidade e aceleração."
   },
   {
-    "objectID": "construcao/artigo3/index.html#referências",
-    "href": "construcao/artigo3/index.html#referências",
-    "title": "Artigo 3 - Oscilações e Ressonância",
-    "section": "",
-    "text": "as cidades inteligentes influenciam o mercado imobiliário."
-  },
-  {
-    "objectID": "mercado/artigo1/index.html",
-    "href": "mercado/artigo1/index.html",
-    "title": "Artigo 1 - Panorama Geral",
-    "section": "",
-    "text": "Conteúdooo introdutório sobre o mercado imobiliárioo.\n\n\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nprecos = [4500, 4800, 5000, 5300, 5600, 6000]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, precos, marker='o')\nplt.title('Evolução do preço médio do m² (2018–2023)')\nplt.xlabel('Ano')\nplt.ylabel('Preço (R$)')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
-  },
-  {
-    "objectID": "mercado/artigo1/index.html#evolução-dos-preços-exemplo-interativo",
-    "href": "mercado/artigo1/index.html#evolução-dos-preços-exemplo-interativo",
-    "title": "Artigo 1 - Panorama Geral",
-    "section": "",
-    "text": "Code\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nprecos = [4500, 4800, 5000, 5300, 5600, 6000]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, precos, marker='o')\nplt.title('Evolução do preço médio do m² (2018–2023)')\nplt.xlabel('Ano')\nplt.ylabel('Preço (R$)')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
-  },
-  {
-    "objectID": "sobre.html",
-    "href": "sobre.html",
-    "title": "Sobre",
-    "section": "",
-    "text": "Sobre o site\nEste site foi criado para partilhar análises e ideias sobre o setor imobiliário."
-  },
-  {
-    "objectID": "texto/artigo1.html",
-    "href": "texto/artigo1.html",
-    "title": "Artigo 1 - Panorama Geral",
-    "section": "",
-    "text": "Conteúdo introdutório sobre o mercado imobiliário."
-  },
-  {
-    "objectID": "texto/artigo2.html",
-    "href": "texto/artigo2.html",
+    "objectID": "mercado/artigo2/index.html",
+    "href": "mercado/artigo2/index.html",
     "title": "Artigo 2 - Preços e Juros",
     "section": "",
-    "text": "Preços e Juros\nAnálise da correlação entre preços dos imóveis e juros."
+    "text": "Preços e Juros\nAnálise da correlação entre preços dos imóveis e juros.\n\n\n\n\n\nReferences\n\nAutor, A. (2025). Exemplo de referência. Editora Exemplo."
   },
   {
-    "objectID": "texto/juridicos.html",
-    "href": "texto/juridicos.html",
-    "title": "Temas Jurídicos e Urbanísticos",
-    "section": "",
-    "text": "Temas Jurídicos e Urbanísticos\nRegulação e legislação aplicáveis ao setor."
-  },
-  {
-    "objectID": "financiamento/artigo2/index.html",
-    "href": "financiamento/artigo2/index.html",
-    "title": "Artigo 2 - Eficiência de Ciclos Termodinâmicos",
-    "section": "",
-    "text": "Análise do desempenho de ciclos térmicos ideais e reais, com foco em rendimento e perdas."
-  },
-  {
-    "objectID": "financiamento/artigo3/index.html",
-    "href": "financiamento/artigo3/index.html",
-    "title": "Artigo 3 - Entropia e Irreversibilidade",
-    "section": "",
-    "text": "Discussão da segunda lei da termodinâmica, geração de entropia e impacto nos sistemas energéticos."
-  },
-  {
-    "objectID": "dados.html",
-    "href": "dados.html",
-    "title": "Dados",
-    "section": "",
-    "text": "Fontes de Dados\nLista de bases de dados utilizadas nas análises."
-  },
-  {
-    "objectID": "financiamento/artigo1/index.html",
-    "href": "financiamento/artigo1/index.html",
-    "title": "Artigo 1 - Primeira Lei da Termodinâmica",
-    "section": "",
-    "text": "Discussão da conservação de energia e do balanço de energia em sistemas mecânicos e térmicos."
-  },
-  {
-    "objectID": "texto/artigo3.html",
-    "href": "texto/artigo3.html",
+    "objectID": "mercado/artigo3/index.html",
+    "href": "mercado/artigo3/index.html",
     "title": "Artigo 3 - Smart Cities",
     "section": "",
-    "text": "Smart Cities\nComo as cidades inteligentes influenciam o mercado imobiliário."
-  },
-  {
-    "objectID": "texto/tecnologicos.html",
-    "href": "texto/tecnologicos.html",
-    "title": "Temas Tecnológicos",
-    "section": "",
-    "text": "Temas Tecnológicos\nUso de tecnologias no setor da construção e imóveis."
-  },
-  {
-    "objectID": "texto/economicos.html",
-    "href": "texto/economicos.html",
-    "title": "Temas Econômicos",
-    "section": "",
-    "text": "Temas Econômicos\nDiscussões econômicas relevantes para o setor imobiliário."
-  },
-  {
-    "objectID": "moodlecesar/funcoes_quadraticas.html",
-    "href": "moodlecesar/funcoes_quadraticas.html",
-    "title": "Função Quadrática",
-    "section": "",
-    "text": "Este notebook permite explorar o comportamento da função do segundo grau \\(f(x) = ax^2 + bx + c\\) ajustando os coeficientes.\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n# Coeficientes da função quadrática\na = 1\nb = -3\nc = 2\n\n# Domínio\nx = np.linspace(-10, 10, 400)\ny = a * x**2 + b * x + c\n\n# Gráfico\nplt.figure(figsize=(8,5))\nplt.plot(x, y, label=f\"f(x) = {a}x² + {b}x + {c}\", color='blue')\nplt.axhline(0, color='black', lw=1)\nplt.axvline(0, color='black', lw=1)\nplt.title(\"Gráfico da função quadrática\")\nplt.xlabel(\"x\")\nplt.ylabel(\"f(x)\")\nplt.grid(True)\nplt.legend()\nplt.show()"
+    "text": "Smart Cities\nComo as cidades inteligentes influenciam o mercado imobiliário.\n\n\n\n\n\nReferences\n\nAutor, A. (2025). Exemplo de referência. Editora Exemplo."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Início",
     "section": "",
-    "text": "Bem-vindo ao Blog Imobiliário, um espaço de estudo técnico e aplicado dedicado aos temas centrais do setor imobiliário:\n\nMercado Imobiliário\nSustentabilidade e Eficiência Energética\nTécnicas Construtivas\nTecnologia e Digitalização\nFinanciamento e Viabilidade\nUrbanismo e Regeneração Urbana\n\n\n\n\n\nArtigos explicativos com dados, gráficos e simulações,\nModelos práticos desenvolvidos com Python,\nCálculos energéticos e financeiros,\nConteúdos integrados com Quarto, Colab e Jupyter.\n\n\n\n\n\n\nQuarto\nPython\nJupyterLab\nGoogle Colab\nGitHub Pages\n\n\n\n\n\nC. A. C. Barros\nEngenharia, educação e desenvolvimento de soluções digitais aplicadas.\nGitHub · Blog Fortec · Notas de Leitura"
+    "text": "Bem-vindo ao Blog Imobiliário, um espaço de estudo técnico e aplicado dedicado aos temas centrais do setor imobiliário:\n\nMercado Imobiliário\nSustentabilidade e Eficiência Energética\nTécnicas Construtivas\nTecnologia e Digitalização\nFinanciamento e Viabilidade\nUrbanismo e Regeneração Urbana\n\n\n\n\n\nArtigos explicativos com dados, gráficos e simulações,\nModelos práticos desenvolvidos com Python,\nCálculos energéticos e financeiros,\nConteúdos integrados com Quarto, Colab e Jupyter.\n\n\n\n\n\n\nQuarto\nPython\nJupyterLab\nGoogle Colab\nGitHub Pages\n\n\n\n\n\nC. A. C. Barros\nEngenharia, educação e desenvolvimento de soluções digitais aplicadas.\nGitHub · Blog Fortec · Notas de Leitura\n\n\n  \n  \n    \n    — Adaptação de Benjamin Franklin\n    Descubra mais"
   },
   {
     "objectID": "index.html#o-que-você-encontrará-aqui",
@@ -200,63 +116,182 @@
     "href": "index.html#autor",
     "title": "Início",
     "section": "",
-    "text": "C. A. C. Barros\nEngenharia, educação e desenvolvimento de soluções digitais aplicadas.\nGitHub · Blog Fortec · Notas de Leitura"
+    "text": "C. A. C. Barros\nEngenharia, educação e desenvolvimento de soluções digitais aplicadas.\nGitHub · Blog Fortec · Notas de Leitura\n\n\n  \n  \n    \n    — Adaptação de Benjamin Franklin\n    Descubra mais"
   },
   {
-    "objectID": "mercado/artigo3/index.html",
-    "href": "mercado/artigo3/index.html",
+    "objectID": "moodlecesar/funcoes_quadraticas.html",
+    "href": "moodlecesar/funcoes_quadraticas.html",
+    "title": "Função Quadrática",
+    "section": "",
+    "text": "Este notebook permite explorar o comportamento da função do segundo grau \\(f(x) = ax^2 + bx + c\\) ajustando os coeficientes.\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n# Coeficientes da função quadrática\na = 1\nb = -3\nc = 2\n\n# Domínio\nx = np.linspace(-10, 10, 400)\ny = a * x**2 + b * x + c\n\n# Gráfico\nplt.figure(figsize=(8,5))\nplt.plot(x, y, label=f\"f(x) = {a}x² + {b}x + {c}\", color='blue')\nplt.axhline(0, color='black', lw=1)\nplt.axvline(0, color='black', lw=1)\nplt.title(\"Gráfico da função quadrática\")\nplt.xlabel(\"x\")\nplt.ylabel(\"f(x)\")\nplt.grid(True)\nplt.legend()\nplt.show()"
+  },
+  {
+    "objectID": "texto/economicos.html",
+    "href": "texto/economicos.html",
+    "title": "Temas Econômicos",
+    "section": "",
+    "text": "Temas Econômicos\nDiscussões econômicas relevantes para o setor imobiliário."
+  },
+  {
+    "objectID": "texto/tecnologicos.html",
+    "href": "texto/tecnologicos.html",
+    "title": "Temas Tecnológicos",
+    "section": "",
+    "text": "Temas Tecnológicos\nUso de tecnologias no setor da construção e imóveis."
+  },
+  {
+    "objectID": "texto/artigo3.html",
+    "href": "texto/artigo3.html",
     "title": "Artigo 3 - Smart Cities",
     "section": "",
-    "text": "Smart Cities\nComo as cidades inteligentes influenciam o mercado imobiliário.\n\n\n\n\n\nReferences\n\nAutor, A. (2025). Exemplo de referência. Editora Exemplo."
+    "text": "Smart Cities\nComo as cidades inteligentes influenciam o mercado imobiliário."
   },
   {
-    "objectID": "mercado/artigo2/index.html",
-    "href": "mercado/artigo2/index.html",
+    "objectID": "financiamento/artigo1/index.html",
+    "href": "financiamento/artigo1/index.html",
+    "title": "Artigo 1 - Primeira Lei da Termodinâmica",
+    "section": "",
+    "text": "Discussão da conservação de energia e do balanço de energia em sistemas mecânicos e térmicos."
+  },
+  {
+    "objectID": "dados.html",
+    "href": "dados.html",
+    "title": "Dados",
+    "section": "",
+    "text": "Fontes de Dados\nLista de bases de dados utilizadas nas análises."
+  },
+  {
+    "objectID": "posts/retorno-imovel.html",
+    "href": "posts/retorno-imovel.html",
+    "title": "Como calcular o retorno de um imóvel",
+    "section": "",
+    "text": "Como calcular o retorno de um imóvel\nConteúdo introdutório para retorno de investimento imobiliário."
+  },
+  {
+    "objectID": "posts/erros-compra-casa.html",
+    "href": "posts/erros-compra-casa.html",
+    "title": "5 erros comuns ao comprar casa",
+    "section": "",
+    "text": "5 erros comuns ao comprar casa\nDicas práticas para evitar problemas na compra de imóveis."
+  },
+  {
+    "objectID": "posts/imoveis-sustentaveis.html",
+    "href": "posts/imoveis-sustentaveis.html",
+    "title": "Imóveis sustentáveis: vale a pena?",
+    "section": "",
+    "text": "Imóveis sustentáveis: vale a pena?\nVantagens e desafios de imóveis com foco em sustentabilidade."
+  },
+  {
+    "objectID": "financiamento/artigo3/index.html",
+    "href": "financiamento/artigo3/index.html",
+    "title": "Artigo 3 - Entropia e Irreversibilidade",
+    "section": "",
+    "text": "Discussão da segunda lei da termodinâmica, geração de entropia e impacto nos sistemas energéticos."
+  },
+  {
+    "objectID": "financiamento/artigo2/index.html",
+    "href": "financiamento/artigo2/index.html",
+    "title": "Artigo 2 - Eficiência de Ciclos Termodinâmicos",
+    "section": "",
+    "text": "Análise do desempenho de ciclos térmicos ideais e reais, com foco em rendimento e perdas."
+  },
+  {
+    "objectID": "texto/juridicos.html",
+    "href": "texto/juridicos.html",
+    "title": "Temas Jurídicos e Urbanísticos",
+    "section": "",
+    "text": "Temas Jurídicos e Urbanísticos\nRegulação e legislação aplicáveis ao setor."
+  },
+  {
+    "objectID": "texto/artigo2.html",
+    "href": "texto/artigo2.html",
     "title": "Artigo 2 - Preços e Juros",
     "section": "",
-    "text": "Preços e Juros\nAnálise da correlação entre preços dos imóveis e juros.\n\n\n\n\n\nReferences\n\nAutor, A. (2025). Exemplo de referência. Editora Exemplo."
+    "text": "Preços e Juros\nAnálise da correlação entre preços dos imóveis e juros."
   },
   {
-    "objectID": "construcao/artigo1/index.html",
-    "href": "construcao/artigo1/index.html",
-    "title": "Artigo 1 - Fundamentos da Cinemática",
+    "objectID": "texto/artigo1.html",
+    "href": "texto/artigo1.html",
+    "title": "Artigo 1 - Panorama Geral",
     "section": "",
-    "text": "Conteúdo introdutório sobre posição, velocidade e aceleração."
+    "text": "Conteúdo introdutório sobre o mercado imobiliário."
   },
   {
-    "objectID": "scie/artigo3/index.html",
-    "href": "scie/artigo3/index.html",
-    "title": "Artigo 3 - Medidas Ativas e Passivas",
+    "objectID": "sobre.html",
+    "href": "sobre.html",
+    "title": "Sobre",
     "section": "",
-    "text": "Discussão sobre as medidas de prevenção e combate a incêndios em edifícios.\n\n\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+    "text": "Sobre o site\nEste site foi criado para partilhar análises e ideias sobre o setor imobiliário."
   },
   {
-    "objectID": "scie/artigo3/index.html#exemplo-interativo",
-    "href": "scie/artigo3/index.html#exemplo-interativo",
-    "title": "Artigo 3 - Medidas Ativas e Passivas",
+    "objectID": "mercado/artigo1/index.html",
+    "href": "mercado/artigo1/index.html",
+    "title": "Artigo 1 - Panorama Geral",
+    "section": "",
+    "text": "Conteúdooo introdutório sobre o mercado imobiliárioo.\n\n\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nprecos = [4500, 4800, 5000, 5300, 5600, 6000]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, precos, marker='o')\nplt.title('Evolução do preço médio do m² (2018–2023)')\nplt.xlabel('Ano')\nplt.ylabel('Preço (R$)')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+  },
+  {
+    "objectID": "mercado/artigo1/index.html#evolução-dos-preços-exemplo-interativo",
+    "href": "mercado/artigo1/index.html#evolução-dos-preços-exemplo-interativo",
+    "title": "Artigo 1 - Panorama Geral",
+    "section": "",
+    "text": "Code\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nprecos = [4500, 4800, 5000, 5300, 5600, 6000]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, precos, marker='o')\nplt.title('Evolução do preço médio do m² (2018–2023)')\nplt.xlabel('Ano')\nplt.ylabel('Preço (R$)')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+  },
+  {
+    "objectID": "construcao/artigo3/index.html",
+    "href": "construcao/artigo3/index.html",
+    "title": "Artigo 3 - Oscilações e Ressonância",
+    "section": "",
+    "text": "Exploração dos sistemas oscilatórios e do fenômeno da ressonância.\n\n\nas cidades inteligentes influenciam o mercado imobiliário."
+  },
+  {
+    "objectID": "construcao/artigo3/index.html#referências",
+    "href": "construcao/artigo3/index.html#referências",
+    "title": "Artigo 3 - Oscilações e Ressonância",
+    "section": "",
+    "text": "as cidades inteligentes influenciam o mercado imobiliário."
+  },
+  {
+    "objectID": "construcao/artigo2/index.html",
+    "href": "construcao/artigo2/index.html",
+    "title": "Artigo 2 - Leis de Newton em Ação",
+    "section": "",
+    "text": "Discussão das leis do movimento e aplicações práticas.\n\n\nrelação entre preços dos imóveis e juros."
+  },
+  {
+    "objectID": "construcao/artigo2/index.html#referências",
+    "href": "construcao/artigo2/index.html#referências",
+    "title": "Artigo 2 - Leis de Newton em Ação",
+    "section": "",
+    "text": "relação entre preços dos imóveis e juros."
+  },
+  {
+    "objectID": "scie/artigo1/index.html",
+    "href": "scie/artigo1/index.html",
+    "title": "Artigo 1 - Fundamentos da SCIE",
+    "section": "",
+    "text": "Introdução aos conceitos básicos da Segurança Contra Incêndios em Edifícios.\n\n\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+  },
+  {
+    "objectID": "scie/artigo1/index.html#exemplo-interativo",
+    "href": "scie/artigo1/index.html#exemplo-interativo",
+    "title": "Artigo 1 - Fundamentos da SCIE",
     "section": "",
     "text": "Code\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
   },
   {
-    "objectID": "scie/artigo2/index.html",
-    "href": "scie/artigo2/index.html",
-    "title": "Artigo 2 - Regulamentos e Normas",
+    "objectID": "sustentabilidade/artigo3/index.html",
+    "href": "sustentabilidade/artigo3/index.html",
+    "title": "Artigo 3 - Probabilidades e Distribuições",
     "section": "",
-    "text": "Visão geral dos regulamentos legais e normas técnicas aplicáveis à SCIE.\n\n\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+    "text": "Conceitos fundamentais da teoria das probabilidades e principais distribuições utilizadas em ciências aplicadas."
   },
   {
-    "objectID": "scie/artigo2/index.html#exemplo-interativo",
-    "href": "scie/artigo2/index.html#exemplo-interativo",
-    "title": "Artigo 2 - Regulamentos e Normas",
+    "objectID": "sustentabilidade/artigo2/index.html",
+    "href": "sustentabilidade/artigo2/index.html",
+    "title": "Artigo 2 - Funções Quadráticas em Contexto",
     "section": "",
-    "text": "Code\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
-  },
-  {
-    "objectID": "sustentabilidade/artigo1/index.html",
-    "href": "sustentabilidade/artigo1/index.html",
-    "title": "Artigo 1 - Séries e Somatórios",
-    "section": "",
-    "text": "Exploração das séries aritméticas, geométricas e uso da notação sigma em problemas aplicados."
+    "text": "Análise do gráfico, vértice e raízes de funções do 2.º grau com exemplos aplicados."
   },
   {
     "objectID": "urbanismo/artigo3/index.html",
