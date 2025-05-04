@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2025-04-30">
-<meta name="description" content="Fundamentos e métodos práticos para calcular a carga térmica em ambientes climatizados.">
+<meta name="dcterms.date" content="2025-05-04">
+<meta name="description" content="Exploração dos princípios, instrumentos e desafios do planeamento urbano contemporâneo no contexto português.">
 
-<title>Artigo 1 - Dimensionamento de Carga Térmica – Blog Imobiliário</title>
+<title>Artigo 1 - Fundamentos do Planeamento Urbano – 🏠 Blog Imobiliário</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,6 +21,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 /* CSS for citations */
 div.csl-bib-body { }
@@ -104,7 +139,7 @@ div.csl-indent {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../../index.html">
-    <span class="navbar-title">Blog Imobiliário</span>
+    <span class="navbar-title">🏠 Blog Imobiliário</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -120,11 +155,11 @@ div.csl-indent {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-mercado-e-financiamento">    
         <li>
     <a class="dropdown-item" href="../../mercado/index.html">
- <span class="dropdown-text"><i class="fas fa-chart-line"></i> Mercado</span></a>
+ <span class="dropdown-text"><i class="fas fa-chart-line"></i>&nbsp;Mercado</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../financiamento/index.html">
- <span class="dropdown-text"><i class="fas fa-dollar-sign"></i> Financiamento</span></a>
+ <span class="dropdown-text"><i class="fas fa-dollar-sign"></i>&nbsp;Financiamento</span></a>
   </li>  
     </ul>
   </li>
@@ -135,11 +170,11 @@ div.csl-indent {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-urbanismo-e-construção">    
         <li>
     <a class="dropdown-item" href="../../urbanismo/index.html">
- <span class="dropdown-text"><i class="fas fa-city"></i> Urbanismo</span></a>
+ <span class="dropdown-text"><i class="fas fa-city"></i>&nbsp;Urbanismo</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../construcao/index.html">
- <span class="dropdown-text"><i class="fas fa-hard-hat"></i> Construção</span></a>
+ <span class="dropdown-text"><i class="fas fa-hard-hat"></i>&nbsp;Construção</span></a>
   </li>  
     </ul>
   </li>
@@ -150,11 +185,11 @@ div.csl-indent {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-ambiente-e-scie">    
         <li>
     <a class="dropdown-item" href="../../sustentabilidade/index.html">
- <span class="dropdown-text"><i class="fas fa-leaf"></i> Sustentabilidade</span></a>
+ <span class="dropdown-text"><i class="fas fa-leaf"></i>&nbsp;Sustentabilidade</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../scie/index.html">
- <span class="dropdown-text"><i class="fas fa-fire-extinguisher"></i> SCIE</span></a>
+ <span class="dropdown-text"><i class="fas fa-fire-extinguisher"></i>&nbsp;SCIE</span></a>
   </li>  
     </ul>
   </li>
@@ -165,10 +200,20 @@ div.csl-indent {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-tecnologia-no-imobiliário">    
         <li>
     <a class="dropdown-item" href="../../tecnologia/index.html">
- <span class="dropdown-text"><i class="fas fa-microchip"></i> Tecnologia</span></a>
+ <span class="dropdown-text"><i class="fas fa-microchip"></i>&nbsp;Tecnologia</span></a>
   </li>  
     </ul>
   </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../sobre.html"> 
+<span class="menu-text">ℹ️ Sobre</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../contacto.html"> 
+<span class="menu-text">📬 Contacto</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -185,12 +230,22 @@ div.csl-indent {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#dimensionamento-de-carga-térmica" id="toc-dimensionamento-de-carga-térmica" class="nav-link active" data-scroll-target="#dimensionamento-de-carga-térmica">Dimensionamento de Carga Térmica</a>
+  <li><a href="#artigo-1---fundamentos-do-planeamento-urbano" id="toc-artigo-1---fundamentos-do-planeamento-urbano" class="nav-link active" data-scroll-target="#artigo-1---fundamentos-do-planeamento-urbano">Artigo 1 - Fundamentos do Planeamento Urbano</a>
   <ul class="collapse">
+  <li><a href="#princípios-fundamentais" id="toc-princípios-fundamentais" class="nav-link" data-scroll-target="#princípios-fundamentais">Princípios Fundamentais</a></li>
+  <li><a href="#instrumentos-de-planeamento-em-portugal" id="toc-instrumentos-de-planeamento-em-portugal" class="nav-link" data-scroll-target="#instrumentos-de-planeamento-em-portugal">Instrumentos de Planeamento em Portugal</a>
+  <ul class="collapse">
+  <li><a href="#instrumentos-de-gestão-territorial-igt" id="toc-instrumentos-de-gestão-territorial-igt" class="nav-link" data-scroll-target="#instrumentos-de-gestão-territorial-igt">1. Instrumentos de Gestão Territorial (IGT)</a></li>
+  <li><a href="#estratégias-complementares" id="toc-estratégias-complementares" class="nav-link" data-scroll-target="#estratégias-complementares">2. Estratégias Complementares</a></li>
+  </ul></li>
+  <li><a href="#desafios-contemporâneos" id="toc-desafios-contemporâneos" class="nav-link" data-scroll-target="#desafios-contemporâneos">Desafios Contemporâneos</a></li>
+  <li><a href="#tendências-emergentes" id="toc-tendências-emergentes" class="nav-link" data-scroll-target="#tendências-emergentes">Tendências Emergentes</a></li>
+  <li><a href="#exemplo-interativo" id="toc-exemplo-interativo" class="nav-link" data-scroll-target="#exemplo-interativo">Exemplo Interativo</a></li>
+  <li><a href="#conclusão" id="toc-conclusão" class="nav-link" data-scroll-target="#conclusão">Conclusão</a></li>
   <li><a href="#referências" id="toc-referências" class="nav-link" data-scroll-target="#referências">Referências</a></li>
   </ul></li>
   </ul>
-</nav>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="index.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -198,16 +253,16 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Artigo 1 - Dimensionamento de Carga Térmica</h1>
+<h1 class="title">Artigo 1 - Fundamentos do Planeamento Urbano</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Climatização</div>
-    <div class="quarto-category">Carga Térmica</div>
+    <div class="quarto-category">Urbanismo</div>
+    <div class="quarto-category">Planeamento</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    Fundamentos e métodos práticos para calcular a carga térmica em ambientes climatizados.
+    Exploração dos princípios, instrumentos e desafios do planeamento urbano contemporâneo no contexto português.
   </div>
 </div>
 
@@ -218,7 +273,7 @@ div.csl-indent {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">April 30, 2025</p>
+      <p class="date">May 4, 2025</p>
     </div>
   </div>
   
@@ -230,9 +285,118 @@ div.csl-indent {
 </header>
 
 
-<section id="dimensionamento-de-carga-térmica" class="level1">
-<h1>Dimensionamento de Carga Térmica</h1>
-<p>Métodos de cálculo de carga térmica sensível e latente com base em parâmetros ambientais e de ocupação.</p>
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+<p><a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a> <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button></p>
+</div>
+<section id="artigo-1---fundamentos-do-planeamento-urbano" class="level1">
+<h1>Artigo 1 - Fundamentos do Planeamento Urbano</h1>
+<p>O planeamento urbano é o processo de organização e regulação do espaço urbano com o objetivo de promover cidades mais sustentáveis, inclusivas, funcionais e resilientes. Envolve múltiplas dimensões — espacial, ambiental, económica e social — e exige articulação entre políticas públicas, instrumentos legais e participação cidadã.</p>
+<section id="princípios-fundamentais" class="level2">
+<h2 class="anchored" data-anchor-id="princípios-fundamentais">Princípios Fundamentais</h2>
+<ul>
+<li><strong>Uso racional do solo urbano</strong></li>
+<li><strong>Equidade no acesso à habitação, mobilidade e serviços</strong></li>
+<li><strong>Preservação ambiental e eficiência energética</strong></li>
+<li><strong>Valorização do património e identidade local</strong></li>
+<li><strong>Flexibilidade e capacidade de adaptação às mudanças</strong></li>
+</ul>
+</section>
+<section id="instrumentos-de-planeamento-em-portugal" class="level2">
+<h2 class="anchored" data-anchor-id="instrumentos-de-planeamento-em-portugal">Instrumentos de Planeamento em Portugal</h2>
+<section id="instrumentos-de-gestão-territorial-igt" class="level3">
+<h3 class="anchored" data-anchor-id="instrumentos-de-gestão-territorial-igt">1. Instrumentos de Gestão Territorial (IGT)</h3>
+<ul>
+<li><strong>Plano Diretor Municipal (PDM)</strong> – define o modelo de organização do território a médio e longo prazo</li>
+<li><strong>Plano de Urbanização (PU)</strong> – detalha áreas específicas em processo de transformação urbana</li>
+<li><strong>Plano de Pormenor (PP)</strong> – regula o uso do solo em áreas delimitadas com maior detalhe</li>
+</ul>
+</section>
+<section id="estratégias-complementares" class="level3">
+<h3 class="anchored" data-anchor-id="estratégias-complementares">2. Estratégias Complementares</h3>
+<ul>
+<li><strong>Planos Estratégicos de Desenvolvimento Urbano</strong></li>
+<li><strong>Cartas de Paisagem e Planos de Mobilidade Urbana Sustentável</strong></li>
+<li><strong>Zonas de Intervenção Prioritária (ZIP)</strong></li>
+</ul>
+</section>
+</section>
+<section id="desafios-contemporâneos" class="level2">
+<h2 class="anchored" data-anchor-id="desafios-contemporâneos">Desafios Contemporâneos</h2>
+<ul>
+<li>Urbanização descontrolada e pressão sobre recursos naturais</li>
+<li>Gentrificação e segregação socioespacial</li>
+<li>Adaptação às alterações climáticas (ilhas de calor, cheias)</li>
+<li>Digitalização da gestão urbana (smart cities)</li>
+<li>Participação cidadã efetiva e inclusiva</li>
+</ul>
+</section>
+<section id="tendências-emergentes" class="level2">
+<h2 class="anchored" data-anchor-id="tendências-emergentes">Tendências Emergentes</h2>
+<ul>
+<li><strong>Urbanismo tático</strong> e intervenções de baixo custo e rápida implementação</li>
+<li><strong>Planeamento participativo</strong> com recurso a plataformas digitais</li>
+<li><strong>Natureza na cidade</strong>: corredores verdes, renaturalização e infraestrutura verde</li>
+<li><strong>Zonamento flexível</strong> e usos mistos</li>
+</ul>
+</section>
+<section id="exemplo-interativo" class="level2">
+<h2 class="anchored" data-anchor-id="exemplo-interativo">Exemplo Interativo</h2>
+<canvas id="graficoUrbanismo" width="600" height="400">
+</canvas>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const ctx = document.getElementById('graficoUrbanismo').getContext('2d');
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: ['Habitação', 'Espaços Verdes', 'Mobilidade', 'Equipamentos'],
+      datasets: [{
+        label: 'Percentagem de Ocupação Planeada (%)',
+        data: [45, 20, 15, 20],
+        backgroundColor: ['#4CAF50', '#81C784', '#64B5F6', '#FFB74D']
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'top' },
+        title: {
+          display: true,
+          text: 'Exemplo de Distribuição de Uso do Solo em Zona Urbana Planeada'
+        }
+      }
+    }
+  });
+</script>
+<div id="af4482dd" class="cell" data-execution_count="1">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>categorias <span class="op">=</span> [<span class="st">'Habitação'</span>, <span class="st">'Espaços Verdes'</span>, <span class="st">'Mobilidade'</span>, <span class="st">'Equipamentos'</span>]</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>percentagens <span class="op">=</span> [<span class="dv">45</span>, <span class="dv">20</span>, <span class="dv">15</span>, <span class="dv">20</span>]</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>plt.figure(figsize<span class="op">=</span>(<span class="dv">6</span>, <span class="dv">4</span>))</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>plt.bar(categorias, percentagens, color<span class="op">=</span>[<span class="st">'#4CAF50'</span>, <span class="st">'#81C784'</span>, <span class="st">'#64B5F6'</span>, <span class="st">'#FFB74D'</span>])</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>plt.title(<span class="st">'Distribuição Planeada do Uso do Solo (%)'</span>)</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>plt.ylabel(<span class="st">'Percentagem'</span>)</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>plt.grid(axis<span class="op">=</span><span class="st">'y'</span>)</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>plt.tight_layout()</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="index_files/figure-html/cell-2-output-1.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="conclusão" class="level2">
+<h2 class="anchored" data-anchor-id="conclusão">Conclusão</h2>
+<p>O planeamento urbano é essencial para garantir qualidade de vida, coesão social e desenvolvimento sustentável das cidades. Exige abordagem integrada, visão de longo prazo e constante atualização frente às transformações sociais, económicas e ambientais.</p>
+</section>
 <section id="referências" class="level2">
 
 
@@ -664,7 +828,7 @@ Autor, A. (2025). <em>Exemplo de referência</em>. Editora Exemplo.
 <script>
     const baseFontSize = parseFloat(getComputedStyle(document.documentElement).fontSize);
     const watermark = new XWatermark.XWatermark();
-    watermark.init("", {
+    watermark.init("RASCUNHO", {
       parentSelector: "body",
       prevent: true,
       observer: true,

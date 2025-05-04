@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt" xml:lang="pt"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.7.29">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2025-04-30">
-<meta name="description" content="Estudo introdutório dos conceitos de posição, velocidade e aceleração com exemplos práticos.">
+<meta name="description" content="Análise comparativa entre técnicas construtivas tradicionais e soluções inovadoras no setor da construção civil, com enfoque na realidade portuguesa.">
 
-<title>Artigo 1 - Fundamentos da Cinemática – Blog Imobiliário</title>
+<title>Técnicas Construtivas Tradicionais e Inovadoras – 🏠 Blog Imobiliário</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,6 +20,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 /* CSS for citations */
 div.csl-bib-body { }
@@ -77,17 +111,17 @@ div.csl-indent {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "Nenhum resultado",
+    "search-matching-documents-text": "documentos correspondentes",
+    "search-copy-link-title": "Copiar link para a busca",
+    "search-hide-matches-text": "Esconder correspondências adicionais",
+    "search-more-match-text": "mais correspondência neste documento",
+    "search-more-matches-text": "mais correspondências neste documento",
+    "search-clear-button-title": "Limpar",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Procurar"
   }
 }</script>
 <script src="https://kit.fontawesome.com/YOUR-KIT-ID.js" crossorigin="anonymous"></script>
@@ -104,11 +138,11 @@ div.csl-indent {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../../index.html">
-    <span class="navbar-title">Blog Imobiliário</span>
+    <span class="navbar-title">🏠 Blog Imobiliário</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Procurar"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Alternar de navegação" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -120,11 +154,11 @@ div.csl-indent {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-mercado-e-financiamento">    
         <li>
     <a class="dropdown-item" href="../../mercado/index.html">
- <span class="dropdown-text"><i class="fas fa-chart-line"></i> Mercado</span></a>
+ <span class="dropdown-text"><i class="fas fa-chart-line"></i>&nbsp;Mercado</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../financiamento/index.html">
- <span class="dropdown-text"><i class="fas fa-dollar-sign"></i> Financiamento</span></a>
+ <span class="dropdown-text"><i class="fas fa-dollar-sign"></i>&nbsp;Financiamento</span></a>
   </li>  
     </ul>
   </li>
@@ -135,11 +169,11 @@ div.csl-indent {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-urbanismo-e-construção">    
         <li>
     <a class="dropdown-item" href="../../urbanismo/index.html">
- <span class="dropdown-text"><i class="fas fa-city"></i> Urbanismo</span></a>
+ <span class="dropdown-text"><i class="fas fa-city"></i>&nbsp;Urbanismo</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../construcao/index.html">
- <span class="dropdown-text"><i class="fas fa-hard-hat"></i> Construção</span></a>
+ <span class="dropdown-text"><i class="fas fa-hard-hat"></i>&nbsp;Construção</span></a>
   </li>  
     </ul>
   </li>
@@ -150,11 +184,11 @@ div.csl-indent {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-ambiente-e-scie">    
         <li>
     <a class="dropdown-item" href="../../sustentabilidade/index.html">
- <span class="dropdown-text"><i class="fas fa-leaf"></i> Sustentabilidade</span></a>
+ <span class="dropdown-text"><i class="fas fa-leaf"></i>&nbsp;Sustentabilidade</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../scie/index.html">
- <span class="dropdown-text"><i class="fas fa-fire-extinguisher"></i> SCIE</span></a>
+ <span class="dropdown-text"><i class="fas fa-fire-extinguisher"></i>&nbsp;SCIE</span></a>
   </li>  
     </ul>
   </li>
@@ -165,10 +199,20 @@ div.csl-indent {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-tecnologia-no-imobiliário">    
         <li>
     <a class="dropdown-item" href="../../tecnologia/index.html">
- <span class="dropdown-text"><i class="fas fa-microchip"></i> Tecnologia</span></a>
+ <span class="dropdown-text"><i class="fas fa-microchip"></i>&nbsp;Tecnologia</span></a>
   </li>  
     </ul>
   </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../sobre.html"> 
+<span class="menu-text">ℹ️ Sobre</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../contacto.html"> 
+<span class="menu-text">📬 Contacto</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -182,15 +226,29 @@ div.csl-indent {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
+    <h2 id="toc-title">Nesta página</h2>
    
   <ul>
-  <li><a href="#fundamentos-da-cinemática" id="toc-fundamentos-da-cinemática" class="nav-link active" data-scroll-target="#fundamentos-da-cinemática">Fundamentos da Cinemática</a>
+  <li><a href="#artigo-1---técnicas-construtivas-tradicionais-e-inovadoras" id="toc-artigo-1---técnicas-construtivas-tradicionais-e-inovadoras" class="nav-link active" data-scroll-target="#artigo-1---técnicas-construtivas-tradicionais-e-inovadoras">Artigo 1 - Técnicas Construtivas Tradicionais e Inovadoras</a>
   <ul class="collapse">
+  <li><a href="#técnicas-construtivas-tradicionais" id="toc-técnicas-construtivas-tradicionais" class="nav-link" data-scroll-target="#técnicas-construtivas-tradicionais">Técnicas Construtivas Tradicionais</a>
+  <ul class="collapse">
+  <li><a href="#alvenaria-de-pedra-e-taipa" id="toc-alvenaria-de-pedra-e-taipa" class="nav-link" data-scroll-target="#alvenaria-de-pedra-e-taipa">1. Alvenaria de Pedra e Taipa</a></li>
+  <li><a href="#alvenaria-de-tijolo" id="toc-alvenaria-de-tijolo" class="nav-link" data-scroll-target="#alvenaria-de-tijolo">2. Alvenaria de Tijolo</a></li>
+  <li><a href="#betão-armado-convencional" id="toc-betão-armado-convencional" class="nav-link" data-scroll-target="#betão-armado-convencional">3. Betão Armado Convencional</a></li>
+  </ul></li>
+  <li><a href="#técnicas-construtivas-inovadoras" id="toc-técnicas-construtivas-inovadoras" class="nav-link" data-scroll-target="#técnicas-construtivas-inovadoras">Técnicas Construtivas Inovadoras</a>
+  <ul class="collapse">
+  <li><a href="#construção-modular" id="toc-construção-modular" class="nav-link" data-scroll-target="#construção-modular">1. Construção Modular</a></li>
+  <li><a href="#impressão-3d-de-betão" id="toc-impressão-3d-de-betão" class="nav-link" data-scroll-target="#impressão-3d-de-betão">2. Impressão 3D de Betão</a></li>
+  <li><a href="#madeira-estrutural-laminada-clt" id="toc-madeira-estrutural-laminada-clt" class="nav-link" data-scroll-target="#madeira-estrutural-laminada-clt">3. Madeira Estrutural Laminada (CLT)</a></li>
+  </ul></li>
+  <li><a href="#exemplo-interativo" id="toc-exemplo-interativo" class="nav-link" data-scroll-target="#exemplo-interativo">Exemplo Interativo</a></li>
+  <li><a href="#conclusão" id="toc-conclusão" class="nav-link" data-scroll-target="#conclusão">Conclusão</a></li>
   <li><a href="#referências" id="toc-referências" class="nav-link" data-scroll-target="#referências">Referências</a></li>
   </ul></li>
   </ul>
-</nav>
+<div class="quarto-alternate-formats"><h2>Outros formatos</h2><ul><li><a href="index.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -198,16 +256,16 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Artigo 1 - Fundamentos da Cinemática</h1>
+<h1 class="title">Técnicas Construtivas Tradicionais e Inovadoras</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Física</div>
-    <div class="quarto-category">Cinemática</div>
+    <div class="quarto-category">Construção</div>
+    <div class="quarto-category">Tecnologia</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    Estudo introdutório dos conceitos de posição, velocidade e aceleração com exemplos práticos.
+    Análise comparativa entre técnicas construtivas tradicionais e soluções inovadoras no setor da construção civil, com enfoque na realidade portuguesa.
   </div>
 </div>
 
@@ -216,9 +274,9 @@ div.csl-indent {
 
     
     <div>
-    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-heading">Data de Publicação</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">April 30, 2025</p>
+      <p class="date">4 de maio de 2025</p>
     </div>
   </div>
   
@@ -230,9 +288,124 @@ div.csl-indent {
 </header>
 
 
-<section id="fundamentos-da-cinemática" class="level1">
-<h1>Fundamentos da Cinemática</h1>
-<p>Conteúdo introdutório sobre posição, velocidade e aceleração.</p>
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+<p><a href="./index.pdf" target="_blank" class="btn btn-primary">📄 Baixar PDF</a> <button onclick="window.print()" class="btn btn-outline-secondary">🖨️ Imprimir</button></p>
+</div>
+<section id="artigo-1---técnicas-construtivas-tradicionais-e-inovadoras" class="level1">
+<h1>Artigo 1 - Técnicas Construtivas Tradicionais e Inovadoras</h1>
+<p>A evolução das técnicas construtivas acompanha as transformações sociais, tecnológicas e ambientais. Este artigo apresenta uma visão geral das principais técnicas tradicionais e explora inovações recentes com impacto na qualidade, sustentabilidade e produtividade da construção.</p>
+<section id="técnicas-construtivas-tradicionais" class="level2">
+<h2 class="anchored" data-anchor-id="técnicas-construtivas-tradicionais">Técnicas Construtivas Tradicionais</h2>
+<section id="alvenaria-de-pedra-e-taipa" class="level3">
+<h3 class="anchored" data-anchor-id="alvenaria-de-pedra-e-taipa">1. Alvenaria de Pedra e Taipa</h3>
+<ul>
+<li>Uso histórico em construções rurais e patrimoniais</li>
+<li>Boa inércia térmica, mas baixa resistência sísmica</li>
+<li>Exigem manutenção regular e mão de obra especializada</li>
+</ul>
+</section>
+<section id="alvenaria-de-tijolo" class="level3">
+<h3 class="anchored" data-anchor-id="alvenaria-de-tijolo">2. Alvenaria de Tijolo</h3>
+<ul>
+<li>Amplamente utilizada no século XX</li>
+<li>Facilidade de execução e materiais acessíveis</li>
+<li>Limitada flexibilidade para alterações e instalações técnicas</li>
+</ul>
+</section>
+<section id="betão-armado-convencional" class="level3">
+<h3 class="anchored" data-anchor-id="betão-armado-convencional">3. Betão Armado Convencional</h3>
+<ul>
+<li>Base da construção moderna</li>
+<li>Versátil, resistente, durável</li>
+<li>Elevado impacto ambiental (produção de cimento)</li>
+</ul>
+</section>
+</section>
+<section id="técnicas-construtivas-inovadoras" class="level2">
+<h2 class="anchored" data-anchor-id="técnicas-construtivas-inovadoras">Técnicas Construtivas Inovadoras</h2>
+<section id="construção-modular" class="level3">
+<h3 class="anchored" data-anchor-id="construção-modular">1. Construção Modular</h3>
+<ul>
+<li>Pré-fabricação em ambiente controlado</li>
+<li>Redução de desperdício e tempo de obra</li>
+<li>Ideal para habitação acessível, escolas, saúde</li>
+</ul>
+</section>
+<section id="impressão-3d-de-betão" class="level3">
+<h3 class="anchored" data-anchor-id="impressão-3d-de-betão">2. Impressão 3D de Betão</h3>
+<ul>
+<li>Impressão de elementos estruturais com robots e betão especial</li>
+<li>Flexibilidade formal e rapidez de execução</li>
+<li>Ainda em fase experimental em larga escala</li>
+</ul>
+</section>
+<section id="madeira-estrutural-laminada-clt" class="level3">
+<h3 class="anchored" data-anchor-id="madeira-estrutural-laminada-clt">3. Madeira Estrutural Laminada (CLT)</h3>
+<ul>
+<li>Alternativa renovável ao betão e aço</li>
+<li>Boa performance estrutural e ambiental</li>
+<li>Utilizada em edifícios de média altura e pavilhões</li>
+</ul>
+</section>
+</section>
+<section id="exemplo-interativo" class="level2">
+<h2 class="anchored" data-anchor-id="exemplo-interativo">Exemplo Interativo</h2>
+<canvas id="graficoTecnicas" width="600" height="400">
+</canvas>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const ctx = document.getElementById('graficoTecnicas').getContext('2d');
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: ['Tradicional', 'Modular', '3D', 'CLT'],
+      datasets: [{
+        label: 'Tempo Médio de Execução (semanas)',
+        data: [24, 10, 8, 12],
+        backgroundColor: ['#9E9E9E', '#4CAF50', '#FF9800', '#8D6E63']
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'top' },
+        title: {
+          display: true,
+          text: 'Comparação de Tempo de Execução por Técnica'
+        }
+      }
+    }
+  });
+</script>
+<div id="1bfda40f" class="cell" data-execution_count="1">
+<details class="code-fold">
+<summary>Código</summary>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>tecnicas <span class="op">=</span> [<span class="st">'Tradicional'</span>, <span class="st">'Modular'</span>, <span class="st">'3D'</span>, <span class="st">'CLT'</span>]</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>tempos <span class="op">=</span> [<span class="dv">24</span>, <span class="dv">10</span>, <span class="dv">8</span>, <span class="dv">12</span>]</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>plt.figure(figsize<span class="op">=</span>(<span class="dv">6</span>, <span class="dv">4</span>))</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>plt.bar(tecnicas, tempos, color<span class="op">=</span>[<span class="st">'#9E9E9E'</span>, <span class="st">'#4CAF50'</span>, <span class="st">'#FF9800'</span>, <span class="st">'#8D6E63'</span>])</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>plt.title(<span class="st">'Tempo Médio de Execução por Técnica (semanas)'</span>)</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>plt.ylabel(<span class="st">'Semanas'</span>)</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>plt.grid(axis<span class="op">=</span><span class="st">'y'</span>)</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>plt.tight_layout()</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="index_files/figure-html/cell-2-output-1.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="conclusão" class="level2">
+<h2 class="anchored" data-anchor-id="conclusão">Conclusão</h2>
+<p>A combinação entre técnicas tradicionais e soluções inovadoras permite responder às exigências contemporâneas do setor da construção. Eficiência, sustentabilidade e industrialização são tendências irreversíveis que desafiam os profissionais a repensar processos e materiais.</p>
+</section>
 <section id="referências" class="level2">
 
 
@@ -243,7 +416,7 @@ div.csl-indent {
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Referências</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
 <div id="ref-exemplo2025" class="csl-entry" role="listitem">
-Autor, A. (2025). <em>Exemplo de referência</em>. Editora Exemplo.
+Autor, A. (2025). <em>Exemplo de Referência</em>. Editora Exemplo.
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -271,12 +444,12 @@ Autor, A. (2025). <em>Exemplo de referência</em>. Editora Exemplo.
       // flash "checked"
       button.classList.add('code-copy-button-checked');
       var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copied!");
+      button.setAttribute("title", "Copiada");
       let tooltip;
       if (window.bootstrap) {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copied!");
+        button.setAttribute("data-bs-title", "Copiada");
         tooltip = new bootstrap.Tooltip(button, 
           { trigger: "manual", 
             customClass: "code-copy-button-tooltip",
@@ -664,7 +837,7 @@ Autor, A. (2025). <em>Exemplo de referência</em>. Editora Exemplo.
 <script>
     const baseFontSize = parseFloat(getComputedStyle(document.documentElement).fontSize);
     const watermark = new XWatermark.XWatermark();
-    watermark.init("", {
+    watermark.init("RASCUNHO", {
       parentSelector: "body",
       prevent: true,
       observer: true,

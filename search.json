@@ -1,213 +1,619 @@
 [
   {
-    "objectID": "tecnologia/artigo2/index.html",
-    "href": "tecnologia/artigo2/index.html",
-    "title": "Artigo 2 - Cinética Química com Python",
+    "objectID": "contacto.html",
+    "href": "contacto.html",
+    "title": "Contacto",
     "section": "",
-    "text": "Exploração da teoria das colisões, energia de ativação e gráficos de velocidade de reação."
+    "text": "Tens sugestões, correções ou gostarias de colaborar com este projeto?\nSinta-te à vontade para entrar em contacto:\n\n✉️ Email: cesar@example.com\n🐙 GitHub: github.com/cacbarros/imobiliario\n💬 Comentários: Abertura de issues ou feedbacks no repositório GitHub\n\n\n\n\nSe desejares propor melhorias em artigos, apontar erros técnicos ou sugerir novas funcionalidades para o blog, podes:\n\nAbrir um issue no GitHub com o tipo “Sugestão”\nEnviar diretamente por email\nReferenciar o artigo ou tema em causa para facilitar o seguimento\n\n\n\n\n\nEste site é estático e não recolhe dados pessoais nem utiliza cookies. Os acessos são analisados de forma anónima apenas para fins estatísticos (via Matomo autocontido).\n\nAgradecemos o teu interesse e participação!"
   },
   {
-    "objectID": "tecnologia/artigo1/index.html",
-    "href": "tecnologia/artigo1/index.html",
-    "title": "Artigo 1 - Reações Ácido-Base",
+    "objectID": "contacto.html#sugestões-de-melhoria",
+    "href": "contacto.html#sugestões-de-melhoria",
+    "title": "Contacto",
     "section": "",
-    "text": "Introdução aos conceitos de ácido, base, neutralização e pH com exemplos experimentais."
+    "text": "Se desejares propor melhorias em artigos, apontar erros técnicos ou sugerir novas funcionalidades para o blog, podes:\n\nAbrir um issue no GitHub com o tipo “Sugestão”\nEnviar diretamente por email\nReferenciar o artigo ou tema em causa para facilitar o seguimento"
   },
   {
-    "objectID": "urbanismo/artigo2/index.html",
-    "href": "urbanismo/artigo2/index.html",
-    "title": "Artigo 2 - Ventilação Natural e Forçada",
+    "objectID": "contacto.html#política-de-privacidade",
+    "href": "contacto.html#política-de-privacidade",
+    "title": "Contacto",
     "section": "",
-    "text": "Comparação entre estratégias passivas e ativas de ventilação, com foco em conforto térmico e renovação de ar."
+    "text": "Este site é estático e não recolhe dados pessoais nem utiliza cookies. Os acessos são analisados de forma anónima apenas para fins estatísticos (via Matomo autocontido).\n\nAgradecemos o teu interesse e participação!"
   },
   {
-    "objectID": "urbanismo/artigo1/index.html",
-    "href": "urbanismo/artigo1/index.html",
-    "title": "Artigo 1 - Dimensionamento de Carga Térmica",
+    "objectID": "tecnologia/index.html",
+    "href": "tecnologia/index.html",
+    "title": "Tecnologia no Imobiliário",
     "section": "",
-    "text": "Métodos de cálculo de carga térmica sensível e latente com base em parâmetros ambientais e de ocupação."
+    "text": "Aplicações digitais e inovações tecnológicas que estão a transformar o setor imobiliário.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlataformas Digitais e Novos Modelos de Negócio no Imobiliário\n\n\nExploração das plataformas digitais e do ecossistema PropTech, destacando os impactos sobre intermediação, investimento, financiamento e gestão de ativos.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nTransformação Digital no Setor Imobiliário\n\n\nExploração das tecnologias digitais aplicadas ao setor imobiliário, incluindo plataformas digitais, big data, inteligência artificial e realidade aumentada.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nEdifícios Inteligentes e Automação Imobiliária\n\n\nAnálise das tecnologias de automação e gestão inteligente aplicadas a edifícios residenciais e comerciais, com foco em eficiência, segurança e conforto.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "artigos.html",
-    "href": "artigos.html",
-    "title": "Artigos em Destaque",
+    "objectID": "tecnologia/artigo3/index.html",
+    "href": "tecnologia/artigo3/index.html",
+    "title": "Plataformas Digitais e Novos Modelos de Negócio no Imobiliário",
     "section": "",
-    "text": "Leia o artigo\n\n\n\nLeia o artigo\n\n\n\nLeia o artigo"
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
   },
   {
-    "objectID": "artigos.html#destaques-recentes",
-    "href": "artigos.html#destaques-recentes",
-    "title": "Artigos em Destaque",
+    "objectID": "tecnologia/artigo3/index.html#o-que-é-proptech",
+    "href": "tecnologia/artigo3/index.html#o-que-é-proptech",
+    "title": "Plataformas Digitais e Novos Modelos de Negócio no Imobiliário",
+    "section": "O que é PropTech?",
+    "text": "O que é PropTech?\nO termo “PropTech” refere-se ao uso de tecnologia digital para inovar produtos, serviços e operações do setor imobiliário, incluindo:\n\nPortais de anúncios e pesquisa inteligente\nPlataformas de gestão de imóveis (property management)\nCrowdfunding e tokenização de ativos\nModelos de arrendamento digital e marketplaces"
+  },
+  {
+    "objectID": "tecnologia/artigo3/index.html#modelos-de-negócio-digitais-emergentes",
+    "href": "tecnologia/artigo3/index.html#modelos-de-negócio-digitais-emergentes",
+    "title": "Plataformas Digitais e Novos Modelos de Negócio no Imobiliário",
+    "section": "Modelos de Negócio Digitais Emergentes",
+    "text": "Modelos de Negócio Digitais Emergentes\n\n1. Marketplaces e Plataformas Peer-to-Peer\n\nLigação direta entre proprietários e interessados (compra, arrendamento, alojamento temporário)\nModelos sem comissões fixas\nExemplos: Idealista, AirBnB, Zome, Casafari\n\n\n\n2. Crowdfunding e Tokenização\n\nFinanciamento coletivo de empreendimentos\nInvestimentos fracionados através de blockchain\nAcesso democratizado a investimentos imobiliários\n\n\n\n3. Gestão de Imóveis Digital (Property Tech)\n\nSoftware para administração de ativos, cobranças, manutenção\nApps móveis para inquilinos, comunicação, reservas\nAutomação de contratos e pagamentos\n\n\n\n4. Plataformas “as-a-Service”\n\nHabitação como serviço (Housing-as-a-Service)\nEscritórios flexíveis e on-demand (coworking)\nSubscrições imobiliárias com serviços incluídos"
+  },
+  {
+    "objectID": "tecnologia/artigo3/index.html#benefícios-e-desafios",
+    "href": "tecnologia/artigo3/index.html#benefícios-e-desafios",
+    "title": "Plataformas Digitais e Novos Modelos de Negócio no Imobiliário",
+    "section": "Benefícios e Desafios",
+    "text": "Benefícios e Desafios\nVantagens:\n\nRedução de custos de transação\nMaior transparência e acesso a dados\nDemocratização do investimento\n\nDesafios:\n\nRegulação insuficiente ou desatualizada\nQuestões de segurança e proteção de dados\nResistência dos operadores tradicionais"
+  },
+  {
+    "objectID": "tecnologia/artigo3/index.html#exemplo-interativo",
+    "href": "tecnologia/artigo3/index.html#exemplo-interativo",
+    "title": "Plataformas Digitais e Novos Modelos de Negócio no Imobiliário",
+    "section": "Exemplo Interativo",
+    "text": "Exemplo Interativo\n\n\n\n\n\n\nCódigo\nimport matplotlib.pyplot as plt\n\ncategorias = ['Marketplaces', 'Gestão Digital', 'Crowdfunding', 'Blockchain']\nvalores = [85, 70, 40, 25]\n\nplt.figure(figsize=(6, 4))\nplt.bar(categorias, valores, color=['#4CAF50', '#2196F3', '#FF9800', '#9C27B0'])\nplt.title('Adoção de Soluções PropTech por Categoria (%)')\nplt.ylabel('Adoção (%)')\nplt.grid(axis='y')\nplt.tight_layout()\nplt.show()"
+  },
+  {
+    "objectID": "tecnologia/artigo3/index.html#conclusão",
+    "href": "tecnologia/artigo3/index.html#conclusão",
+    "title": "Plataformas Digitais e Novos Modelos de Negócio no Imobiliário",
+    "section": "Conclusão",
+    "text": "Conclusão\nO ecossistema PropTech está a remodelar a cadeia de valor do setor imobiliário, promovendo modelos mais ágeis, acessíveis e transparentes. O sucesso depende da adoção tecnológica equilibrada com regulação, confiança e capacitação dos profissionais."
+  },
+  {
+    "objectID": "urbanismo/index.html",
+    "href": "urbanismo/index.html",
+    "title": "Urbanismo",
     "section": "",
-    "text": "Leia o artigo\n\n\n\nLeia o artigo\n\n\n\nLeia o artigo"
+    "text": "Exploração crítica do planeamento urbano, mobilidade e regeneração do tecido urbano nas cidades portuguesas.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArtigo 3 - Reabilitação e Regeneração Urbana\n\n\nAbordagem estratégica da reabilitação urbana em Portugal, com foco na recuperação do edificado, dinamização socioeconómica e sustentabilidade.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nArtigo 1 - Fundamentos do Planeamento Urbano\n\n\nExploração dos princípios, instrumentos e desafios do planeamento urbano contemporâneo no contexto português.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nArtigo 2 - Mobilidade e Espaços Públicos nas Cidades Contemporâneas\n\n\nAnálise integrada entre mobilidade urbana e desenho de espaços públicos como componentes fundamentais do urbanismo sustentável.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "sustentabilidade/index.html",
-    "href": "sustentabilidade/index.html",
-    "title": "Sustentabilidade",
+    "objectID": "urbanismo/artigo3/index.html",
+    "href": "urbanismo/artigo3/index.html",
+    "title": "Artigo 3 - Reabilitação e Regeneração Urbana",
     "section": "",
-    "text": "Práticas, certificações e técnicas para um ambiente construído mais eficiente e responsável."
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
   },
   {
-    "objectID": "sustentabilidade/index.html#artigos-disponíveis",
-    "href": "sustentabilidade/index.html#artigos-disponíveis",
-    "title": "Sustentabilidade",
-    "section": "Artigos disponíveis",
-    "text": "Artigos disponíveis\n\nEficiência Energética\nCertificação Ambiental\nConstruções Sustentáveis"
+    "objectID": "urbanismo/artigo3/index.html#importância-da-reabilitação-urbana",
+    "href": "urbanismo/artigo3/index.html#importância-da-reabilitação-urbana",
+    "title": "Artigo 3 - Reabilitação e Regeneração Urbana",
+    "section": "Importância da Reabilitação Urbana",
+    "text": "Importância da Reabilitação Urbana\n\nReduz o consumo de solo e os impactos ambientais da expansão urbana\nValoriza o património histórico, cultural e arquitetónico\nRequalifica áreas centrais e previne o abandono urbano\nEstimula a economia local e gera emprego no setor da construção"
   },
   {
-    "objectID": "sustentabilidade/artigo3/index.html",
-    "href": "sustentabilidade/artigo3/index.html",
-    "title": "Artigo 3 - Probabilidades e Distribuições",
+    "objectID": "urbanismo/artigo3/index.html#instrumentos-e-programas-em-portugal",
+    "href": "urbanismo/artigo3/index.html#instrumentos-e-programas-em-portugal",
+    "title": "Artigo 3 - Reabilitação e Regeneração Urbana",
+    "section": "Instrumentos e Programas em Portugal",
+    "text": "Instrumentos e Programas em Portugal\n\n1. ARU – Área de Reabilitação Urbana\n\nDelimitação aprovada pela Câmara Municipal\nAcesso a incentivos fiscais e benefícios urbanísticos\nAplicável em zonas com degradação física e funcional\n\n\n\n2. ORU – Operação de Reabilitação Urbana\n\nPlano específico de reabilitação com prazos e objetivos\nPode ser simples (edifícios e infraestruturas) ou sistemática (com transformação profunda do espaço)\n\n\n\n3. Programas Nacionais\n\nIFRRU 2020: financiamento à reabilitação energética e estrutural\nPRR (Plano de Recuperação e Resiliência): aposta em habitação acessível e eficiência energética\nApoios fiscais à reabilitação (IVA a 6%, isenções de IMT e IMI)"
+  },
+  {
+    "objectID": "urbanismo/artigo3/index.html#abordagens-estratégicas",
+    "href": "urbanismo/artigo3/index.html#abordagens-estratégicas",
+    "title": "Artigo 3 - Reabilitação e Regeneração Urbana",
+    "section": "Abordagens Estratégicas",
+    "text": "Abordagens Estratégicas\n\nReabilitação centrada nas pessoas e comunidades\nSoluções baseadas na natureza e eficiência energética\nCombinação de investimento público e privado\nParticipação ativa dos moradores e comerciantes"
+  },
+  {
+    "objectID": "urbanismo/artigo3/index.html#exemplo-interativo",
+    "href": "urbanismo/artigo3/index.html#exemplo-interativo",
+    "title": "Artigo 3 - Reabilitação e Regeneração Urbana",
+    "section": "Exemplo Interativo",
+    "text": "Exemplo Interativo\n\n\n\n\n\n\nCódigo\nimport matplotlib.pyplot as plt\n\nanos = ['2017', '2018', '2019', '2020', '2021', '2022']\nvalores = [320, 400, 450, 370, 490, 520]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, valores, marker='o', color='#4CAF50')\nplt.title('Áreas Reabilitadas em Portugal (milhares m²)')\nplt.xlabel('Ano')\nplt.ylabel('Área reabilitada')\nplt.grid(True)\nplt.tight_layout()\nplt.show()"
+  },
+  {
+    "objectID": "urbanismo/artigo3/index.html#conclusão",
+    "href": "urbanismo/artigo3/index.html#conclusão",
+    "title": "Artigo 3 - Reabilitação e Regeneração Urbana",
+    "section": "Conclusão",
+    "text": "Conclusão\nA reabilitação e regeneração urbana são ferramentas-chave para o futuro das cidades portuguesas. Permitem recuperar património, promover a coesão social, mitigar alterações climáticas e garantir um uso mais inteligente e equitativo do território urbano."
+  },
+  {
+    "objectID": "sustentabilidade/artigo2/index.html",
+    "href": "sustentabilidade/artigo2/index.html",
+    "title": "Artigo 2 - Certificação Ambiental em Edifícios",
     "section": "",
-    "text": "Conceitos fundamentais da teoria das probabilidades e principais distribuições utilizadas em ciências aplicadas."
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
   },
   {
-    "objectID": "scie/index.html",
-    "href": "scie/index.html",
-    "title": "SCIE – Segurança Contra Incêndios",
+    "objectID": "sustentabilidade/artigo2/index.html#objetivos-da-certificação",
+    "href": "sustentabilidade/artigo2/index.html#objetivos-da-certificação",
+    "title": "Artigo 2 - Certificação Ambiental em Edifícios",
+    "section": "Objetivos da Certificação",
+    "text": "Objetivos da Certificação\n\nPromover a eficiência energética e hídrica\nReduzir o impacto ambiental da construção\nMelhorar o conforto e a saúde dos ocupantes\nValorizar economicamente os imóveis sustentáveis"
+  },
+  {
+    "objectID": "sustentabilidade/artigo2/index.html#principais-sistemas-de-certificação",
+    "href": "sustentabilidade/artigo2/index.html#principais-sistemas-de-certificação",
+    "title": "Artigo 2 - Certificação Ambiental em Edifícios",
+    "section": "Principais Sistemas de Certificação",
+    "text": "Principais Sistemas de Certificação\n\n1. LEED (Leadership in Energy and Environmental Design)\n\nSistema norte-americano com aplicação internacional\nClassificação em quatro níveis: Certified, Silver, Gold, Platinum\nAvalia categorias como energia, água, materiais, inovação e localização\n\n\n\n2. BREEAM (Building Research Establishment Environmental Assessment Method)\n\nOrigem no Reino Unido\nÊnfase em desempenho técnico e gestão do edifício\nUtiliza uma escala de pontuação: Pass, Good, Very Good, Excellent, Outstanding\n\n\n\n3. WELL Building Standard\n\nFoco no bem-estar e saúde dos ocupantes\nMede qualidade do ar, luz, conforto térmico, alimentação e mobilidade\nComplementa outras certificações com abordagem centrada no utilizador\n\n\n\n4. LiderA (Portugal)\n\nSistema nacional de avaliação da sustentabilidade\nAdaptado à realidade climática e regulatória portuguesa\nAvalia eficiência ecológica, social e económica"
+  },
+  {
+    "objectID": "sustentabilidade/artigo2/index.html#benefícios-para-promotores-e-utilizadores",
+    "href": "sustentabilidade/artigo2/index.html#benefícios-para-promotores-e-utilizadores",
+    "title": "Artigo 2 - Certificação Ambiental em Edifícios",
+    "section": "Benefícios para Promotores e Utilizadores",
+    "text": "Benefícios para Promotores e Utilizadores\n\nRedução de custos operacionais\nMelhoria da imagem institucional\nMaior atratividade no mercado\nCumprimento de requisitos legais e normativos"
+  },
+  {
+    "objectID": "sustentabilidade/artigo2/index.html#desafios-de-implementação",
+    "href": "sustentabilidade/artigo2/index.html#desafios-de-implementação",
+    "title": "Artigo 2 - Certificação Ambiental em Edifícios",
+    "section": "Desafios de Implementação",
+    "text": "Desafios de Implementação\n\nCusto inicial e tempo adicional de projeto\nNecessidade de equipas multidisciplinares\nCompatibilização com regulamentação local\nReconhecimento desigual entre mercados"
+  },
+  {
+    "objectID": "sustentabilidade/artigo2/index.html#conclusão",
+    "href": "sustentabilidade/artigo2/index.html#conclusão",
+    "title": "Artigo 2 - Certificação Ambiental em Edifícios",
+    "section": "Conclusão",
+    "text": "Conclusão\nA certificação ambiental representa um avanço importante na consolidação de práticas sustentáveis no setor imobiliário. Além de ser um diferencial competitivo, ela contribui para mitigar os impactos ambientais e promover ambientes mais saudáveis e eficientes."
+  },
+  {
+    "objectID": "sustentabilidade/artigo1/index.html",
+    "href": "sustentabilidade/artigo1/index.html",
+    "title": "Artigo 1 - Eficiência Energética no Ambiente Construído",
     "section": "",
-    "text": "Referenciais técnicos e normativos para a proteção contra incêndios no ambiente construído."
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
   },
   {
-    "objectID": "scie/index.html#artigos-disponíveis",
-    "href": "scie/index.html#artigos-disponíveis",
-    "title": "SCIE – Segurança Contra Incêndios",
-    "section": "Artigos disponíveis",
-    "text": "Artigos disponíveis\n\nFundamentos da SCIE\nRegulamentos e Normas\nMedidas Ativas e Passivas"
+    "objectID": "sustentabilidade/artigo1/index.html#contexto-regulamentar",
+    "href": "sustentabilidade/artigo1/index.html#contexto-regulamentar",
+    "title": "Artigo 1 - Eficiência Energética no Ambiente Construído",
+    "section": "Contexto Regulamentar",
+    "text": "Contexto Regulamentar\nPortugal adotou um conjunto de medidas alinhadas com a diretiva europeia EPBD (Energy Performance of Buildings Directive):\n\nSistema de Certificação Energética (SCE)\nRequisitos mínimos para envolventes e sistemas técnicos\nPlano Nacional de Energia e Clima (PNEC 2030)"
   },
   {
-    "objectID": "scie/artigo3/index.html",
-    "href": "scie/artigo3/index.html",
-    "title": "Artigo 3 - Medidas Ativas e Passivas",
+    "objectID": "sustentabilidade/artigo1/index.html#estratégias-para-a-eficiência-energética",
+    "href": "sustentabilidade/artigo1/index.html#estratégias-para-a-eficiência-energética",
+    "title": "Artigo 1 - Eficiência Energética no Ambiente Construído",
+    "section": "Estratégias para a Eficiência Energética",
+    "text": "Estratégias para a Eficiência Energética\n\n1. Envolvente Térmica\n\nIsolamento adequado de paredes, coberturas e pavimentos\nJanelas com vidros duplos e corte térmico\nRedução das pontes térmicas\n\n\n\n2. Sistemas Técnicos Eficientes\n\nBombas de calor e caldeiras de condensação\nIluminação LED e sensores de presença\nVentilação mecânica controlada (VMC)\n\n\n\n3. Energia Renovável\n\nInstalação de painéis solares térmicos e fotovoltaicos\nAproveitamento de energia geotérmica ou aerotérmica\nAutoconsumo com injeção na rede"
+  },
+  {
+    "objectID": "sustentabilidade/artigo1/index.html#benefícios-económicos-e-ambientais",
+    "href": "sustentabilidade/artigo1/index.html#benefícios-económicos-e-ambientais",
+    "title": "Artigo 1 - Eficiência Energética no Ambiente Construído",
+    "section": "Benefícios Económicos e Ambientais",
+    "text": "Benefícios Económicos e Ambientais\n\nRedução significativa da fatura energética\nMenor dependência de fontes fósseis\nValorização do imóvel no mercado"
+  },
+  {
+    "objectID": "sustentabilidade/artigo1/index.html#barreiras-e-desafios",
+    "href": "sustentabilidade/artigo1/index.html#barreiras-e-desafios",
+    "title": "Artigo 1 - Eficiência Energética no Ambiente Construído",
+    "section": "Barreiras e Desafios",
+    "text": "Barreiras e Desafios\n\nCusto inicial das soluções mais eficientes\nFalta de informação técnica em pequenas obras\nResistência cultural e desconhecimento dos benefícios"
+  },
+  {
+    "objectID": "sustentabilidade/artigo1/index.html#o-papel-da-certificação-energética",
+    "href": "sustentabilidade/artigo1/index.html#o-papel-da-certificação-energética",
+    "title": "Artigo 1 - Eficiência Energética no Ambiente Construído",
+    "section": "O Papel da Certificação Energética",
+    "text": "O Papel da Certificação Energética\nO certificado energético avalia o desempenho do edifício e recomenda melhorias. Torna-se obrigatório em transações imobiliárias e é instrumento-chave para políticas públicas de incentivo."
+  },
+  {
+    "objectID": "sustentabilidade/artigo1/index.html#conclusão",
+    "href": "sustentabilidade/artigo1/index.html#conclusão",
+    "title": "Artigo 1 - Eficiência Energética no Ambiente Construído",
+    "section": "Conclusão",
+    "text": "Conclusão\nA eficiência energética não é apenas uma exigência regulamentar, mas uma oportunidade estratégica para reduzir impactos ambientais, promover a qualidade construtiva e gerar valor económico no longo prazo."
+  },
+  {
+    "objectID": "scie/artigo2/index.html",
+    "href": "scie/artigo2/index.html",
+    "title": "Artigo 2 - Regulamentos e Normas da SCIE",
     "section": "",
-    "text": "Discussão sobre as medidas de prevenção e combate a incêndios em edifícios.\n\n\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
   },
   {
-    "objectID": "scie/artigo3/index.html#exemplo-interativo",
-    "href": "scie/artigo3/index.html#exemplo-interativo",
-    "title": "Artigo 3 - Medidas Ativas e Passivas",
+    "objectID": "scie/artigo2/index.html#enquadramento-regulamentar",
+    "href": "scie/artigo2/index.html#enquadramento-regulamentar",
+    "title": "Artigo 2 - Regulamentos e Normas da SCIE",
+    "section": "Enquadramento Regulamentar",
+    "text": "Enquadramento Regulamentar\nA legislação nacional define os princípios, exigências e responsabilidades na aplicação da SCIE. Os principais diplomas legais são:\n\nDecreto-Lei n.º 220/2008 – estabelece o regime jurídico da SCIE\nDecreto-Lei n.º 224/2015 – procede à republicação e atualização do anterior\nPortaria n.º 1532/2008 – aprova o Regulamento Técnico de SCIE (RT-SCIE)"
+  },
+  {
+    "objectID": "scie/artigo2/index.html#conteúdo-do-regulamento-técnico-rt-scie",
+    "href": "scie/artigo2/index.html#conteúdo-do-regulamento-técnico-rt-scie",
+    "title": "Artigo 2 - Regulamentos e Normas da SCIE",
+    "section": "Conteúdo do Regulamento Técnico (RT-SCIE)",
+    "text": "Conteúdo do Regulamento Técnico (RT-SCIE)\nO RT-SCIE define as condições técnicas mínimas de segurança para:\n\nEdifícios de habitação, comércio, serviços, indústria e outros usos\nProjetos novos e intervenções em edifícios existentes\nInstalações temporárias, equipamentos técnicos e meios de socorro\n\nAs exigências variam conforme a categoria de risco, e abrangem:\n\nItinerários de evacuação\nMeios de alarme e deteção\nSinalização e iluminação de emergência\nEquipamentos de combate a incêndios\nCompartimentação e resistência ao fogo"
+  },
+  {
+    "objectID": "scie/artigo2/index.html#normas-técnicas-complementares",
+    "href": "scie/artigo2/index.html#normas-técnicas-complementares",
+    "title": "Artigo 2 - Regulamentos e Normas da SCIE",
+    "section": "Normas Técnicas Complementares",
+    "text": "Normas Técnicas Complementares\nAlém da legislação portuguesa, diversas normas europeias (EN) e normas portuguesas (NP) são aplicáveis:\n\nNP EN 13501-1: classificação da reação ao fogo dos materiais\nNP 4413: instalação e manutenção de extintores\nNP 4491: sinalização de segurança\nNP 15258: sistemas automáticos de deteção de incêndio\nNP EN 12845: sistemas de sprinklers\n\nEstas normas garantem a padronização de métodos de projeto, instalação, verificação e manutenção dos sistemas de SCIE."
+  },
+  {
+    "objectID": "scie/artigo2/index.html#responsabilidades-dos-agentes",
+    "href": "scie/artigo2/index.html#responsabilidades-dos-agentes",
+    "title": "Artigo 2 - Regulamentos e Normas da SCIE",
+    "section": "Responsabilidades dos Agentes",
+    "text": "Responsabilidades dos Agentes\n\nProjetistas: garantir a conformidade legal e técnica nos projetos\nEntidades instaladoras: aplicar sistemas segundo norma aplicável\nDonos de obra e proprietários: manter os edifícios em conformidade\nUtilizadores: seguir planos de emergência e colaborar em simulações"
+  },
+  {
+    "objectID": "scie/artigo2/index.html#exemplo-interativo",
+    "href": "scie/artigo2/index.html#exemplo-interativo",
+    "title": "Artigo 2 - Regulamentos e Normas da SCIE",
+    "section": "Exemplo Interativo",
+    "text": "Exemplo Interativo\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\ntipos = ['Habitação', 'Serviços', 'Comércio', 'Indústria']\nincidencia = [5, 12, 9, 15]\n\nplt.figure(figsize=(6, 4))\nplt.bar(tipos, incidencia, color='tomato')\nplt.title('Distribuição de Edifícios com Maior Risco de Incêndio')\nplt.xlabel('Tipo de uso')\nplt.ylabel('Número de casos (categoria 3 ou 4)')\nplt.grid(axis='y')\nplt.tight_layout()\nplt.show()"
+  },
+  {
+    "objectID": "scie/artigo2/index.html#conclusão",
+    "href": "scie/artigo2/index.html#conclusão",
+    "title": "Artigo 2 - Regulamentos e Normas da SCIE",
+    "section": "Conclusão",
+    "text": "Conclusão\nO conhecimento profundo dos regulamentos e normas é indispensável para garantir a segurança dos edifícios e a conformidade legal. A SCIE não é apenas uma obrigação técnica, mas um compromisso com a vida, o património e o ambiente construído."
+  },
+  {
+    "objectID": "scie/artigo1/index.html",
+    "href": "scie/artigo1/index.html",
+    "title": "Artigo 1 - Fundamentos da Segurança Contra Incêndios em Edifícios (SCIE)",
     "section": "",
-    "text": "Code\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
   },
   {
-    "objectID": "construcao/index.html",
-    "href": "construcao/index.html",
-    "title": "Construção",
+    "objectID": "scie/artigo1/index.html#objetivos-da-scie",
+    "href": "scie/artigo1/index.html#objetivos-da-scie",
+    "title": "Artigo 1 - Fundamentos da Segurança Contra Incêndios em Edifícios (SCIE)",
+    "section": "Objetivos da SCIE",
+    "text": "Objetivos da SCIE\n\nPrevenir a ocorrência de incêndios\nLimitar o desenvolvimento e propagação do fogo e fumo\nFacilitar a evacuação dos ocupantes e o acesso dos meios de socorro\nProteger os bens e o ambiente\nMinimizar os impactos humanos, materiais e sociais de um sinistro"
+  },
+  {
+    "objectID": "scie/artigo1/index.html#enquadramento-legal-em-portugal",
+    "href": "scie/artigo1/index.html#enquadramento-legal-em-portugal",
+    "title": "Artigo 1 - Fundamentos da Segurança Contra Incêndios em Edifícios (SCIE)",
+    "section": "Enquadramento Legal em Portugal",
+    "text": "Enquadramento Legal em Portugal\nA SCIE está regulamentada pelo:\n\nDecreto-Lei n.º 220/2008, alterado e republicado pelo Decreto-Lei n.º 224/2015\nRegulamento Técnico de SCIE (RT-SCIE), constante da Portaria n.º 1532/2008\n\nEstas normas definem:\n\nCategorias de risco\nCondições de segurança obrigatórias por uso-tipo\nResponsabilidades dos projetistas, proprietários e utilizadores"
+  },
+  {
+    "objectID": "scie/artigo1/index.html#princípios-técnicos-fundamentais",
+    "href": "scie/artigo1/index.html#princípios-técnicos-fundamentais",
+    "title": "Artigo 1 - Fundamentos da Segurança Contra Incêndios em Edifícios (SCIE)",
+    "section": "Princípios Técnicos Fundamentais",
+    "text": "Princípios Técnicos Fundamentais\n\n1. Compartimentação\n\nSeparação física entre zonas para limitar a propagação do fogo\nUtilização de elementos construtivos com resistência ao fogo (REI)\n\n\n\n2. Evacuação\n\nItinerários acessíveis, bem sinalizados e dimensionados\nIluminação de emergência\nSaídas de emergência desobstruídas\n\n\n\n3. Detecção e Alarme\n\nSistemas automáticos de detecção e alarme sonoro\nIntegração com centrais de controlo e segurança\n\n\n\n4. Meios de Primeira Intervenção\n\nExtintores, bocas-de-incêndio e mangueiras\nFormação de utilizadores e brigadas internas\n\n\n\n5. Acesso aos Meios de Socorro\n\nAcessibilidade e vias de combate exterior\nEspaços técnicos e infraestruturas de apoio aos bombeiros"
+  },
+  {
+    "objectID": "scie/artigo1/index.html#classificação-do-risco",
+    "href": "scie/artigo1/index.html#classificação-do-risco",
+    "title": "Artigo 1 - Fundamentos da Segurança Contra Incêndios em Edifícios (SCIE)",
+    "section": "Classificação do Risco",
+    "text": "Classificação do Risco\nO risco de incêndio é classificado com base em:\n\nTipo de ocupação (habitação, serviços, comércio, indústria, etc.)\nNúmero de pisos e área\nNúmero de ocupantes\n\nAs categorias vão de Risco Reduzido (1) até Risco Muito Elevado (4), determinando a exigência das medidas a implementar."
+  },
+  {
+    "objectID": "scie/artigo1/index.html#exemplo-interativo",
+    "href": "scie/artigo1/index.html#exemplo-interativo",
+    "title": "Artigo 1 - Fundamentos da Segurança Contra Incêndios em Edifícios (SCIE)",
+    "section": "Exemplo Interativo",
+    "text": "Exemplo Interativo\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()"
+  },
+  {
+    "objectID": "scie/artigo1/index.html#conclusão",
+    "href": "scie/artigo1/index.html#conclusão",
+    "title": "Artigo 1 - Fundamentos da Segurança Contra Incêndios em Edifícios (SCIE)",
+    "section": "Conclusão",
+    "text": "Conclusão\nA SCIE é uma disciplina transversal à arquitetura, engenharia e gestão dos edifícios. A sua aplicação rigorosa não só garante a conformidade legal, como é essencial para preservar vidas humanas e património em caso de emergência."
+  },
+  {
+    "objectID": "construcao/artigo2/index.html",
+    "href": "construcao/artigo2/index.html",
+    "title": "Novos Materiais e Sustentabilidade na Construção",
     "section": "",
-    "text": "Discussões sobre técnicas construtivas, inovação em materiais e processos de industrialização no setor."
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
   },
   {
-    "objectID": "construcao/index.html#artigos-disponíveis",
-    "href": "construcao/index.html#artigos-disponíveis",
-    "title": "Construção",
-    "section": "Artigos disponíveis",
-    "text": "Artigos disponíveis\n\nTécnicas Construtivas\nNovos Materiais e Sustentabilidade\nIndustrialização da Construção"
+    "objectID": "construcao/artigo2/index.html#desafios-ambientais-da-construção-convencional",
+    "href": "construcao/artigo2/index.html#desafios-ambientais-da-construção-convencional",
+    "title": "Novos Materiais e Sustentabilidade na Construção",
+    "section": "Desafios Ambientais da Construção Convencional",
+    "text": "Desafios Ambientais da Construção Convencional\n\nElevado consumo de energia e matérias-primas\nEmissão significativa de CO₂ (sobretudo pela produção de cimento)\nGeração de resíduos de difícil reaproveitamento\nDiminuição da biodiversidade associada à extração de materiais"
   },
   {
-    "objectID": "construcao/artigo3/index.html",
-    "href": "construcao/artigo3/index.html",
-    "title": "Artigo 3 - Oscilações e Ressonância",
+    "objectID": "construcao/artigo2/index.html#novos-materiais-sustentáveis",
+    "href": "construcao/artigo2/index.html#novos-materiais-sustentáveis",
+    "title": "Novos Materiais e Sustentabilidade na Construção",
+    "section": "Novos Materiais Sustentáveis",
+    "text": "Novos Materiais Sustentáveis\n\n1. Betão com Substituição de Cimento\n\nSubstituição parcial do cimento por pozolanas, cinzas volantes, escórias\nRedução de emissões e energia incorporada\nDesempenho equivalente ao betão tradicional\n\n\n\n2. Materiais Biocompostos\n\nPainéis de fibras vegetais (cânhamo, juta, madeira reciclada)\nIsolamentos térmicos e acústicos à base de lã de ovelha, celulose, cortiça\nElevada capacidade de absorção e conforto higrotérmico\n\n\n\n3. Madeira Tecnológica (CLT, LVL)\n\nFontes renováveis e reutilizáveis\nElevada resistência estrutural e leveza\nFixação de carbono ao longo do ciclo de vida\n\n\n\n4. Argamassas ecológicas e tintas naturais\n\nFormulações com baixo VOC, cal aérea, pigmentos minerais\nAplicação em reabilitação e bioconstrução"
+  },
+  {
+    "objectID": "construcao/artigo2/index.html#critérios-de-avaliação-ambiental",
+    "href": "construcao/artigo2/index.html#critérios-de-avaliação-ambiental",
+    "title": "Novos Materiais e Sustentabilidade na Construção",
+    "section": "Critérios de Avaliação Ambiental",
+    "text": "Critérios de Avaliação Ambiental\n\nEnergia incorporada (MJ/kg)\nPotencial de aquecimento global (GWP)\nReciclabilidade e proveniência\nDurabilidade e manutenção"
+  },
+  {
+    "objectID": "construcao/artigo2/index.html#certificações-e-selos-ambientais",
+    "href": "construcao/artigo2/index.html#certificações-e-selos-ambientais",
+    "title": "Novos Materiais e Sustentabilidade na Construção",
+    "section": "Certificações e Selos Ambientais",
+    "text": "Certificações e Selos Ambientais\n\nEPD (Declaração Ambiental de Produto)\nCradle to Cradle\nLEED / BREEAM / LiderA (em contexto de avaliação de edifícios)\nFSC / PEFC (madeiras certificadas)"
+  },
+  {
+    "objectID": "construcao/artigo2/index.html#exemplo-interativo",
+    "href": "construcao/artigo2/index.html#exemplo-interativo",
+    "title": "Novos Materiais e Sustentabilidade na Construção",
+    "section": "Exemplo Interativo",
+    "text": "Exemplo Interativo\n\n\n\n\n\n\nCódigo\nimport matplotlib.pyplot as plt\n\nmateriais = ['Cimento', 'CLT', 'Isol. Lã de Rocha', 'Cortiça', 'Biocomp.']\nenergia = [5.5, 1.9, 3.2, 1.1, 0.8]\n\nplt.figure(figsize=(6, 4))\nplt.bar(materiais, energia, color=['#BDBDBD', '#8D6E63', '#90CAF9', '#A1887F', '#81C784'])\nplt.title('Energia Incorporada por Material (MJ/kg)')\nplt.ylabel('MJ/kg')\nplt.grid(axis='y')\nplt.tight_layout()\nplt.show()"
+  },
+  {
+    "objectID": "construcao/artigo2/index.html#conclusão",
+    "href": "construcao/artigo2/index.html#conclusão",
+    "title": "Novos Materiais e Sustentabilidade na Construção",
+    "section": "Conclusão",
+    "text": "Conclusão\nA escolha criteriosa de materiais sustentáveis é uma etapa estratégica para construções de baixo impacto ambiental. O avanço tecnológico permite hoje aliar desempenho técnico, estética e responsabilidade ecológica, apoiando a transição para edifícios mais verdes e resilientes."
+  },
+  {
+    "objectID": "construcao/artigo1/index.html",
+    "href": "construcao/artigo1/index.html",
+    "title": "Técnicas Construtivas Tradicionais e Inovadoras",
     "section": "",
-    "text": "Exploração dos sistemas oscilatórios e do fenômeno da ressonância.\n\n\nas cidades inteligentes influenciam o mercado imobiliário."
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
   },
   {
-    "objectID": "construcao/artigo3/index.html#referências",
-    "href": "construcao/artigo3/index.html#referências",
-    "title": "Artigo 3 - Oscilações e Ressonância",
+    "objectID": "construcao/artigo1/index.html#técnicas-construtivas-tradicionais",
+    "href": "construcao/artigo1/index.html#técnicas-construtivas-tradicionais",
+    "title": "Técnicas Construtivas Tradicionais e Inovadoras",
+    "section": "Técnicas Construtivas Tradicionais",
+    "text": "Técnicas Construtivas Tradicionais\n\n1. Alvenaria de Pedra e Taipa\n\nUso histórico em construções rurais e patrimoniais\nBoa inércia térmica, mas baixa resistência sísmica\nExigem manutenção regular e mão de obra especializada\n\n\n\n2. Alvenaria de Tijolo\n\nAmplamente utilizada no século XX\nFacilidade de execução e materiais acessíveis\nLimitada flexibilidade para alterações e instalações técnicas\n\n\n\n3. Betão Armado Convencional\n\nBase da construção moderna\nVersátil, resistente, durável\nElevado impacto ambiental (produção de cimento)"
+  },
+  {
+    "objectID": "construcao/artigo1/index.html#técnicas-construtivas-inovadoras",
+    "href": "construcao/artigo1/index.html#técnicas-construtivas-inovadoras",
+    "title": "Técnicas Construtivas Tradicionais e Inovadoras",
+    "section": "Técnicas Construtivas Inovadoras",
+    "text": "Técnicas Construtivas Inovadoras\n\n1. Construção Modular\n\nPré-fabricação em ambiente controlado\nRedução de desperdício e tempo de obra\nIdeal para habitação acessível, escolas, saúde\n\n\n\n2. Impressão 3D de Betão\n\nImpressão de elementos estruturais com robots e betão especial\nFlexibilidade formal e rapidez de execução\nAinda em fase experimental em larga escala\n\n\n\n3. Madeira Estrutural Laminada (CLT)\n\nAlternativa renovável ao betão e aço\nBoa performance estrutural e ambiental\nUtilizada em edifícios de média altura e pavilhões"
+  },
+  {
+    "objectID": "construcao/artigo1/index.html#exemplo-interativo",
+    "href": "construcao/artigo1/index.html#exemplo-interativo",
+    "title": "Técnicas Construtivas Tradicionais e Inovadoras",
+    "section": "Exemplo Interativo",
+    "text": "Exemplo Interativo\n\n\n\n\n\n\nCódigo\nimport matplotlib.pyplot as plt\n\ntecnicas = ['Tradicional', 'Modular', '3D', 'CLT']\ntempos = [24, 10, 8, 12]\n\nplt.figure(figsize=(6, 4))\nplt.bar(tecnicas, tempos, color=['#9E9E9E', '#4CAF50', '#FF9800', '#8D6E63'])\nplt.title('Tempo Médio de Execução por Técnica (semanas)')\nplt.ylabel('Semanas')\nplt.grid(axis='y')\nplt.tight_layout()\nplt.show()"
+  },
+  {
+    "objectID": "construcao/artigo1/index.html#conclusão",
+    "href": "construcao/artigo1/index.html#conclusão",
+    "title": "Técnicas Construtivas Tradicionais e Inovadoras",
+    "section": "Conclusão",
+    "text": "Conclusão\nA combinação entre técnicas tradicionais e soluções inovadoras permite responder às exigências contemporâneas do setor da construção. Eficiência, sustentabilidade e industrialização são tendências irreversíveis que desafiam os profissionais a repensar processos e materiais."
+  },
+  {
+    "objectID": "mercado/artigo2/index.html",
+    "href": "mercado/artigo2/index.html",
+    "title": "Artigo 2 - Tendências Pós-Pandemia no Mercado Imobiliário",
     "section": "",
-    "text": "as cidades inteligentes influenciam o mercado imobiliário."
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
   },
   {
-    "objectID": "mercado/index.html",
-    "href": "mercado/index.html",
-    "title": "Mercado Imobiliário",
+    "objectID": "mercado/artigo2/index.html#mudança-no-comportamento-da-procura",
+    "href": "mercado/artigo2/index.html#mudança-no-comportamento-da-procura",
+    "title": "Artigo 2 - Tendências Pós-Pandemia no Mercado Imobiliário",
+    "section": "Mudança no Comportamento da Procura",
+    "text": "Mudança no Comportamento da Procura\nA pandemia alterou significativamente o perfil de procura de habitação:\n\nValorização de espaços maiores, com áreas exteriores e escritórios domésticos;\nFuga dos centros urbanos densos para periferias e cidades médias;\nAumento do interesse em imóveis multifuncionais e flexíveis;\nCrescimento da procura internacional em locais com boa qualidade de vida e conectividade."
+  },
+  {
+    "objectID": "mercado/artigo2/index.html#impactos-no-segmento-residencial",
+    "href": "mercado/artigo2/index.html#impactos-no-segmento-residencial",
+    "title": "Artigo 2 - Tendências Pós-Pandemia no Mercado Imobiliário",
+    "section": "Impactos no Segmento Residencial",
+    "text": "Impactos no Segmento Residencial\n\nReestruturação de empreendimentos para integrar espaços de teletrabalho;\nAdaptação de edifícios existentes para uso misto (residencial + coworking);\nAumento da procura por imóveis com certificação energética e qualidade ambiental."
+  },
+  {
+    "objectID": "mercado/artigo2/index.html#mudanças-no-segmento-comercial-e-de-escritórios",
+    "href": "mercado/artigo2/index.html#mudanças-no-segmento-comercial-e-de-escritórios",
+    "title": "Artigo 2 - Tendências Pós-Pandemia no Mercado Imobiliário",
+    "section": "Mudanças no Segmento Comercial e de Escritórios",
+    "text": "Mudanças no Segmento Comercial e de Escritórios\n\nRedução da ocupação de grandes espaços corporativos;\nCrescimento dos modelos de escritórios híbridos e coworking;\nReavaliação de localizações premium com base na nova lógica de mobilidade."
+  },
+  {
+    "objectID": "mercado/artigo2/index.html#impulso-à-digitalização",
+    "href": "mercado/artigo2/index.html#impulso-à-digitalização",
+    "title": "Artigo 2 - Tendências Pós-Pandemia no Mercado Imobiliário",
+    "section": "Impulso à Digitalização",
+    "text": "Impulso à Digitalização\nA pandemia acelerou a digitalização do setor:\n\nUso generalizado de visitas virtuais, drones e realidade aumentada;\nPlataformas digitais de intermediação imobiliária ganharam espaço;\nAplicação crescente de IA para avaliação, precificação e matching."
+  },
+  {
+    "objectID": "mercado/artigo2/index.html#reflexos-económicos",
+    "href": "mercado/artigo2/index.html#reflexos-económicos",
+    "title": "Artigo 2 - Tendências Pós-Pandemia no Mercado Imobiliário",
+    "section": "Reflexos Económicos",
+    "text": "Reflexos Económicos\n\nVolatilidade das taxas de juro e políticas de estímulo impactaram a oferta de crédito;\nA inflação e o custo de materiais afetaram a viabilidade de novos projetos;\nProgramas de apoio público e fundos europeus influenciaram o relançamento do setor."
+  },
+  {
+    "objectID": "mercado/artigo2/index.html#conclusão",
+    "href": "mercado/artigo2/index.html#conclusão",
+    "title": "Artigo 2 - Tendências Pós-Pandemia no Mercado Imobiliário",
+    "section": "Conclusão",
+    "text": "Conclusão\nA pandemia provocou uma redefinição estrutural do mercado imobiliário. As tendências observadas não são apenas reações temporárias, mas sinalizam um novo paradigma de planeamento urbano, habitação e trabalho. Entender essas mudanças é fundamental para atuar de forma estratégica no setor."
+  },
+  {
+    "objectID": "mercado/artigo1/index.html",
+    "href": "mercado/artigo1/index.html",
+    "title": "Artigo 1 - Panorama Geral do Mercado Imobiliário",
     "section": "",
-    "text": "Explore os temas em destaque:\n\nArtigo 1 - Panorama Geral\nArtigo 2 - Tendências Pós-Pandemia\nArtigo 3 - Dinâmica da Oferta e Procura"
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
   },
   {
-    "objectID": "mercado/artigo3/index.html",
-    "href": "mercado/artigo3/index.html",
-    "title": "Artigo 3 - Smart Cities",
+    "objectID": "mercado/artigo1/index.html#tendências-recentes",
+    "href": "mercado/artigo1/index.html#tendências-recentes",
+    "title": "Artigo 1 - Panorama Geral do Mercado Imobiliário",
+    "section": "Tendências Recentes",
+    "text": "Tendências Recentes\nNos últimos anos, observou-se:\n\nForte valorização dos imóveis nas áreas urbanas (Lisboa, Porto, Algarve);\nAumento da procura internacional, especialmente por motivos de residência e investimento;\nEnfraquecimento do poder de compra das famílias face à subida de preços;\nConsolidação de fundos e promotores internacionais no mercado nacional."
+  },
+  {
+    "objectID": "mercado/artigo1/index.html#fatores-de-oferta-e-procura",
+    "href": "mercado/artigo1/index.html#fatores-de-oferta-e-procura",
+    "title": "Artigo 1 - Panorama Geral do Mercado Imobiliário",
+    "section": "Fatores de Oferta e Procura",
+    "text": "Fatores de Oferta e Procura\n\nOferta\n\nLentidão no licenciamento urbanístico\nEscassez de terrenos disponíveis em zonas centrais\nCustos de construção elevados\nFalta de políticas de incentivo à construção acessível\n\n\n\nProcura\n\nCrescimento demográfico em zonas urbanas\nMudança de preferências após pandemia (espaços maiores, teletrabalho)\nAtração por zonas costeiras e turísticas\nPressão por arrendamento acessível"
+  },
+  {
+    "objectID": "mercado/artigo1/index.html#segmentos-do-mercado",
+    "href": "mercado/artigo1/index.html#segmentos-do-mercado",
+    "title": "Artigo 1 - Panorama Geral do Mercado Imobiliário",
+    "section": "Segmentos do Mercado",
+    "text": "Segmentos do Mercado\n\nResidencial: foco principal do mercado, com destaque para habitação permanente e arrendamento.\nTurístico: alojamento local, hotéis e residências de curta duração.\nComercial: centros comerciais e espaços de serviços em adaptação ao comércio online.\nIndustrial/logístico: crescimento impulsionado pelo e-commerce."
+  },
+  {
+    "objectID": "mercado/artigo1/index.html#desafios-futuros",
+    "href": "mercado/artigo1/index.html#desafios-futuros",
+    "title": "Artigo 1 - Panorama Geral do Mercado Imobiliário",
+    "section": "Desafios Futuros",
+    "text": "Desafios Futuros\n\nAcessibilidade à habitação e desigualdade territorial\nRegulação do arrendamento e novos modelos habitacionais\nSustentabilidade ambiental e eficiência energética\nDigitalização dos processos imobiliários"
+  },
+  {
+    "objectID": "mercado/artigo1/index.html#conclusão",
+    "href": "mercado/artigo1/index.html#conclusão",
+    "title": "Artigo 1 - Panorama Geral do Mercado Imobiliário",
+    "section": "Conclusão",
+    "text": "Conclusão\nO mercado imobiliário português permanece dinâmico, mas enfrenta desafios complexos que exigem uma abordagem integrada entre setor privado, Estado e sociedade civil. Compreender o seu panorama geral é essencial para qualquer interveniente no setor, seja investidor, técnico ou decisor público."
+  },
+  {
+    "objectID": "sobre.html",
+    "href": "sobre.html",
+    "title": "Sobre",
     "section": "",
-    "text": "Smart Cities\nComo as cidades inteligentes influenciam o mercado imobiliário.\n\n\n\n\n\nReferences\n\nAutor, A. (2025). Exemplo de referência. Editora Exemplo."
+    "text": "Este site foi criado com o objetivo de explorar, organizar e divulgar conhecimento técnico e estratégico sobre o setor imobiliário, com ênfase na realidade portuguesa.\nA proposta é oferecer conteúdos acessíveis, atualizados e bem estruturados, que ajudem estudantes, profissionais e decisores a compreender as dinâmicas do urbanismo, da construção, da sustentabilidade e das novas tecnologias aplicadas ao setor.\n\n\n\n\n📘 Sistematizar temas essenciais como financiamento, urbanismo, construção e SCIE\n🧠 Promover a formação técnica e crítica sobre o ambiente construído\n🌍 Incentivar a transição para práticas mais sustentáveis e inteligentes\n🤖 Divulgar aplicações emergentes de tecnologia digital no imobiliário (PropTech, IA, automatização)\n\n\n\n\n\nOs artigos estão agrupados em quatro grandes eixos temáticos:\n\n📈 Mercado e Financiamento: análises económicas, crédito, investimento e risco\n🏙️ Urbanismo e Construção: planeamento urbano, técnicas construtivas e industrialização\n🌿 Ambiente e SCIE: sustentabilidade, eficiência energética e segurança contra incêndios\n🤖 Tecnologia no Imobiliário: inovação digital, plataformas, edifícios inteligentes e PropTech\n\nCada tema contém artigos organizados em sequência e com possibilidade de visualização, impressão e download em PDF.\n\n\n\n\nEste projeto é desenvolvido por C. A. C. Barros, com interesse académico e profissional nas áreas da engenharia civil, urbanismo e tecnologias digitais aplicadas ao ambiente construído.\nAlém da experiência técnica, o autor tem vindo a integrar metodologias digitais de ensino e comunicação científica (Quarto, Jupyter, GitHub Pages), procurando facilitar a transmissão de conhecimento técnico com clareza, interatividade e rigor.\n\n\n\n\nO blog é desenvolvido em:\n\nQuarto — para a criação e publicação dos conteúdos\nGitHub Pages — para hospedagem estática\nFont Awesome e Lucide Icons — para ícones e identidade visual\nBootstrap — para componentes responsivos e barra de navegação\n\n\n\n\n\nEste é um projeto independente e em constante evolução. Comentários, sugestões e correções são muito bem-vindos. Para entrar em contacto, utiliza a secção 📬 Contacto ou visita o repositório GitHub."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Início",
+    "objectID": "sobre.html#objetivos",
+    "href": "sobre.html#objetivos",
+    "title": "Sobre",
     "section": "",
-    "text": "Bem-vindo ao Blog Imobiliário, um espaço de estudo técnico e aplicado dedicado aos temas centrais do setor imobiliário:\n\nMercado Imobiliário\nSustentabilidade e Eficiência Energética\nTécnicas Construtivas\nTecnologia e Digitalização\nFinanciamento e Viabilidade\nUrbanismo e Regeneração Urbana\n\n\n\n\n\nArtigos explicativos com dados, gráficos e simulações,\nModelos práticos desenvolvidos com Python,\nCálculos energéticos e financeiros,\nConteúdos integrados com Quarto, Colab e Jupyter.\n\n\n\n\n\n\nQuarto\nPython\nJupyterLab\nGoogle Colab\nGitHub Pages\n\n\n\n\n\nC. A. C. Barros\nEngenharia, educação e desenvolvimento de soluções digitais aplicadas.\nGitHub · Blog Fortec · Notas de Leitura\n\n\n  \n  \n    \n    — Adaptação de Benjamin Franklin\n    Descubra mais"
+    "text": "📘 Sistematizar temas essenciais como financiamento, urbanismo, construção e SCIE\n🧠 Promover a formação técnica e crítica sobre o ambiente construído\n🌍 Incentivar a transição para práticas mais sustentáveis e inteligentes\n🤖 Divulgar aplicações emergentes de tecnologia digital no imobiliário (PropTech, IA, automatização)"
   },
   {
-    "objectID": "index.html#o-que-você-encontrará-aqui",
-    "href": "index.html#o-que-você-encontrará-aqui",
-    "title": "Início",
+    "objectID": "sobre.html#organização-dos-conteúdos",
+    "href": "sobre.html#organização-dos-conteúdos",
+    "title": "Sobre",
     "section": "",
-    "text": "Artigos explicativos com dados, gráficos e simulações,\nModelos práticos desenvolvidos com Python,\nCálculos energéticos e financeiros,\nConteúdos integrados com Quarto, Colab e Jupyter."
+    "text": "Os artigos estão agrupados em quatro grandes eixos temáticos:\n\n📈 Mercado e Financiamento: análises económicas, crédito, investimento e risco\n🏙️ Urbanismo e Construção: planeamento urbano, técnicas construtivas e industrialização\n🌿 Ambiente e SCIE: sustentabilidade, eficiência energética e segurança contra incêndios\n🤖 Tecnologia no Imobiliário: inovação digital, plataformas, edifícios inteligentes e PropTech\n\nCada tema contém artigos organizados em sequência e com possibilidade de visualização, impressão e download em PDF."
   },
   {
-    "objectID": "index.html#tecnologias-utilizadas",
-    "href": "index.html#tecnologias-utilizadas",
-    "title": "Início",
+    "objectID": "sobre.html#sobre-o-autor",
+    "href": "sobre.html#sobre-o-autor",
+    "title": "Sobre",
     "section": "",
-    "text": "Quarto\nPython\nJupyterLab\nGoogle Colab\nGitHub Pages"
+    "text": "Este projeto é desenvolvido por C. A. C. Barros, com interesse académico e profissional nas áreas da engenharia civil, urbanismo e tecnologias digitais aplicadas ao ambiente construído.\nAlém da experiência técnica, o autor tem vindo a integrar metodologias digitais de ensino e comunicação científica (Quarto, Jupyter, GitHub Pages), procurando facilitar a transmissão de conhecimento técnico com clareza, interatividade e rigor."
   },
   {
-    "objectID": "index.html#autor",
-    "href": "index.html#autor",
-    "title": "Início",
+    "objectID": "sobre.html#tecnologia-utilizada",
+    "href": "sobre.html#tecnologia-utilizada",
+    "title": "Sobre",
     "section": "",
-    "text": "C. A. C. Barros\nEngenharia, educação e desenvolvimento de soluções digitais aplicadas.\nGitHub · Blog Fortec · Notas de Leitura\n\n\n  \n  \n    \n    — Adaptação de Benjamin Franklin\n    Descubra mais"
+    "text": "O blog é desenvolvido em:\n\nQuarto — para a criação e publicação dos conteúdos\nGitHub Pages — para hospedagem estática\nFont Awesome e Lucide Icons — para ícones e identidade visual\nBootstrap — para componentes responsivos e barra de navegação"
   },
   {
-    "objectID": "moodlecesar/funcoes_quadraticas.html",
-    "href": "moodlecesar/funcoes_quadraticas.html",
-    "title": "Função Quadrática",
+    "objectID": "sobre.html#agradecimentos-e-contributos",
+    "href": "sobre.html#agradecimentos-e-contributos",
+    "title": "Sobre",
     "section": "",
-    "text": "Este notebook permite explorar o comportamento da função do segundo grau \\(f(x) = ax^2 + bx + c\\) ajustando os coeficientes.\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n# Coeficientes da função quadrática\na = 1\nb = -3\nc = 2\n\n# Domínio\nx = np.linspace(-10, 10, 400)\ny = a * x**2 + b * x + c\n\n# Gráfico\nplt.figure(figsize=(8,5))\nplt.plot(x, y, label=f\"f(x) = {a}x² + {b}x + {c}\", color='blue')\nplt.axhline(0, color='black', lw=1)\nplt.axvline(0, color='black', lw=1)\nplt.title(\"Gráfico da função quadrática\")\nplt.xlabel(\"x\")\nplt.ylabel(\"f(x)\")\nplt.grid(True)\nplt.legend()\nplt.show()"
+    "text": "Este é um projeto independente e em constante evolução. Comentários, sugestões e correções são muito bem-vindos. Para entrar em contacto, utiliza a secção 📬 Contacto ou visita o repositório GitHub."
   },
   {
-    "objectID": "texto/economicos.html",
-    "href": "texto/economicos.html",
-    "title": "Temas Econômicos",
+    "objectID": "texto/artigo1.html",
+    "href": "texto/artigo1.html",
+    "title": "Artigo 1 - Panorama Geral",
     "section": "",
-    "text": "Temas Econômicos\nDiscussões econômicas relevantes para o setor imobiliário."
+    "text": "Conteúdo introdutório sobre o mercado imobiliário."
   },
   {
-    "objectID": "texto/tecnologicos.html",
-    "href": "texto/tecnologicos.html",
-    "title": "Temas Tecnológicos",
+    "objectID": "texto/artigo2.html",
+    "href": "texto/artigo2.html",
+    "title": "Artigo 2 - Preços e Juros",
     "section": "",
-    "text": "Temas Tecnológicos\nUso de tecnologias no setor da construção e imóveis."
+    "text": "Preços e Juros\nAnálise da correlação entre preços dos imóveis e juros."
   },
   {
-    "objectID": "texto/artigo3.html",
-    "href": "texto/artigo3.html",
-    "title": "Artigo 3 - Smart Cities",
+    "objectID": "texto/juridicos.html",
+    "href": "texto/juridicos.html",
+    "title": "Temas Jurídicos e Urbanísticos",
     "section": "",
-    "text": "Smart Cities\nComo as cidades inteligentes influenciam o mercado imobiliário."
+    "text": "Temas Jurídicos e Urbanísticos\nRegulação e legislação aplicáveis ao setor."
   },
   {
-    "objectID": "financiamento/index.html",
-    "href": "financiamento/index.html",
-    "title": "Financiamento Imobiliário",
+    "objectID": "financiamento/artigo2/index.html",
+    "href": "financiamento/artigo2/index.html",
+    "title": "Artigo 2 - Modelos de Financiamento Imobiliário",
     "section": "",
-    "text": "Conheça os modelos, riscos e estratégias de financiamento aplicadas ao setor imobiliário."
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
   },
   {
-    "objectID": "financiamento/index.html#artigos-disponíveis",
-    "href": "financiamento/index.html#artigos-disponíveis",
-    "title": "Financiamento Imobiliário",
-    "section": "Artigos disponíveis",
-    "text": "Artigos disponíveis\n\nCrédito e Investimento\nModelos de Financiamento Imobiliário\nRiscos e Garantias Bancárias"
+    "objectID": "financiamento/artigo2/index.html#modelos-tradicionais",
+    "href": "financiamento/artigo2/index.html#modelos-tradicionais",
+    "title": "Artigo 2 - Modelos de Financiamento Imobiliário",
+    "section": "Modelos Tradicionais",
+    "text": "Modelos Tradicionais\n\n1. Financiamento Bancário Hipotecário\nO modelo mais comum, especialmente para compradores individuais. Caracteriza-se por prazos longos e taxas associadas ao perfil de risco do cliente.\n\nRequer entrada (LTV limitado)\nDependente da taxa de juro e condições macroeconómicas\nRisco concentrado no mutuário\n\n\n\n2. Financiamento à Promoção\nUtilizado por promotores para financiar a construção e venda de empreendimentos. Pode envolver:\n\nFinanciamento direto (crédito à construção)\nFinanciamento por etapas (libertação conforme avanço da obra)\nReforço com garantias reais (terreno, ativos, pré-vendas)"
   },
   {
-    "objectID": "financiamento/artigo3/index.html",
-    "href": "financiamento/artigo3/index.html",
-    "title": "Artigo 3 - Entropia e Irreversibilidade",
+    "objectID": "financiamento/artigo2/index.html#modelos-alternativos",
+    "href": "financiamento/artigo2/index.html#modelos-alternativos",
+    "title": "Artigo 2 - Modelos de Financiamento Imobiliário",
+    "section": "Modelos Alternativos",
+    "text": "Modelos Alternativos\n\n3. Parcerias Público-Privadas (PPP)\nUsadas em projetos de habitação acessível, reabilitação urbana e equipamentos públicos com exploração comercial.\n\nRedução do risco privado\nCompartilhamento de retorno\nMaior complexidade contratual\n\n\n\n4. Fundos Imobiliários e Securitização\nPermitem acesso ao mercado através de cotas de participação em carteiras diversificadas de ativos.\n\nAtraem investidores institucionais\nReduzem risco individual\nExigem regulação e supervisão eficaz\n\n\n\n5. Financiamento Coletivo (Crowdfunding)\nAplicável a projetos menores, oferece entrada de capital por múltiplos pequenos investidores.\n\nAlta flexibilidade\nElevado risco (para investidores e promotores)\nCrescimento recente com regulação ainda em consolidação"
+  },
+  {
+    "objectID": "financiamento/artigo2/index.html#comparação-entre-os-modelos",
+    "href": "financiamento/artigo2/index.html#comparação-entre-os-modelos",
+    "title": "Artigo 2 - Modelos de Financiamento Imobiliário",
+    "section": "Comparação entre os Modelos",
+    "text": "Comparação entre os Modelos\n\n\n\n\n\n\n\n\n\n\nModelo\nFlexibilidade\nRisco\nEscala\nAcesso\n\n\n\n\nCrédito Bancário\nBaixa\nMédio\nMédio\nMédio\n\n\nPromoção com Garantias\nMédia\nAlto\nAlto\nBaixo\n\n\nPPP\nAlta\nBaixo\nAlto\nRestrito\n\n\nFundos Imobiliários\nMédia\nBaixo\nAlto\nMédio\n\n\nCrowdfunding\nAlta\nAlto\nBaixa\nAmplo"
+  },
+  {
+    "objectID": "financiamento/artigo2/index.html#conclusão",
+    "href": "financiamento/artigo2/index.html#conclusão",
+    "title": "Artigo 2 - Modelos de Financiamento Imobiliário",
+    "section": "Conclusão",
+    "text": "Conclusão\nA escolha do modelo de financiamento adequado depende do tipo de projeto, do perfil de risco, da escala e da maturidade institucional envolvida. A diversidade de instrumentos disponíveis no mercado atual exige análise criteriosa por parte de investidores, promotores e decisores públicos."
+  },
+  {
+    "objectID": "financiamento/artigo1/index.html",
+    "href": "financiamento/artigo1/index.html",
+    "title": "Artigo 1 - Crédito e Investimento",
     "section": "",
-    "text": "Discussão da segunda lei da termodinâmica, geração de entropia e impacto nos sistemas energéticos."
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
+  },
+  {
+    "objectID": "financiamento/artigo1/index.html#principais-modelos",
+    "href": "financiamento/artigo1/index.html#principais-modelos",
+    "title": "Artigo 1 - Crédito e Investimento",
+    "section": "Principais Modelos",
+    "text": "Principais Modelos\n\n1. Crédito Bancário\nO crédito bancário é a forma mais tradicional de financiamento imobiliário. Os bancos avaliam o risco com base no historial do mutuário, na relação LTV (loan-to-value) e na taxa de esforço.\n\n\n2. Fundos de Investimento\nOs FII permitem o financiamento coletivo de projetos imobiliários, reduzindo o risco individual. São regulados e oferecem liquidez controlada.\n\n\n3. Crowdfunding Imobiliário\nPlataformas online facilitam a captação de recursos junto a pequenos investidores. É uma opção crescente em mercados emergentes e para projetos de menor escala."
+  },
+  {
+    "objectID": "financiamento/artigo1/index.html#considerações-sobre-risco",
+    "href": "financiamento/artigo1/index.html#considerações-sobre-risco",
+    "title": "Artigo 1 - Crédito e Investimento",
+    "section": "Considerações sobre Risco",
+    "text": "Considerações sobre Risco\nCada modelo de financiamento apresenta riscos distintos:\n\nCrédito bancário: risco de incumprimento e variação da taxa de juro;\nFII: risco de liquidez e gestão;\nCrowdfunding: risco de plataforma e retorno incerto.\n\nA mitigação de riscos exige garantias, análise de viabilidade e cláusulas contratuais bem definidas."
+  },
+  {
+    "objectID": "financiamento/artigo1/index.html#conclusão",
+    "href": "financiamento/artigo1/index.html#conclusão",
+    "title": "Artigo 1 - Crédito e Investimento",
+    "section": "Conclusão",
+    "text": "Conclusão\nO financiamento é um pilar central do desenvolvimento imobiliário. A compreensão dos diferentes modelos, riscos e oportunidades é fundamental para promotores, investidores e decisores públicos."
+  },
+  {
+    "objectID": "artigosX.html",
+    "href": "artigosX.html",
+    "title": "📄 Todos os Artigos",
+    "section": "",
+    "text": "5 erros comuns ao comprar casa\n\n\n\n\n\n\n\n\n\n\n\n\n\nComo calcular o retorno de um imóvel\n\n\n\n\n\n\n\n\n\n\n\n\n\nImóveis sustentáveis: vale a pena?\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinanciamento Imobiliário\n\n\n\n\n\n\n\n\n\n\n\n\n\nFunção Quadrática\n\n\n\n\n\n\n\n\n\n\n\n\n\nInício\n\n\nBem-vindo ao Blog Imobiliário, um espaço dedicado ao estudo técnico e prático do setor imobiliário.\n\n\n\n\n\n\n\n\n\n\nNota 5 – Continuidade\n\n\n\n\n\n\n\n\n\n\n\n\n\nMercado Imobiliário\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstrução\n\n\n\n\n\n\n\n\n\n\n\n\n\nSCIE – Segurança Contra Incêndios\n\n\n\n\n\n\n\n\n\n\n\n\n\nSustentabilidade\n\n\n\n\n\n\n\n\n\n\n\n\n\nArtigos em Destaque\n\n\n\n\n\n\n\n\n\n\n\n\n\nUrbanismo\n\n\n\n\n\n\n\n\n\n\n\n\n\nTecnologia no Imobiliário\n\n\n\n\n\n\n\n\n\n\n\n\n\nArtigo 3 - Riscos e Garantias Bancárias\n\n\nAnálise dos principais riscos associados ao financiamento imobiliário e das garantias bancárias utilizadas como mitigadores.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nArtigo 3 - Dinâmica da Oferta e Procura no Mercado Imobiliário\n\n\nEstudo sobre o equilíbrio entre oferta e procura no mercado imobiliário português, considerando fatores económicos, sociais e territoriais.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nArtigo 1 - Panorama Geral do Mercado Imobiliário\n\n\nAnálise introdutória do mercado imobiliário em Portugal, com foco em tendências recentes, procura, oferta e fatores estruturais.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nArtigo 2 - Tendências Pós-Pandemia no Mercado Imobiliário\n\n\nAnálise das transformações no mercado imobiliário após a pandemia de COVID-19, com foco em comportamentos de procura, adaptação dos espaços e desafios económicos.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nIndustrialização da Construção\n\n\nAnálise das abordagens industrializadas na construção civil, destacando métodos off-site, pré-fabricação, automatização e desafios para o setor em Portugal.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nTécnicas Construtivas Tradicionais e Inovadoras\n\n\nAnálise comparativa entre técnicas construtivas tradicionais e soluções inovadoras no setor da construção civil, com enfoque na realidade portuguesa.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nNovos Materiais e Sustentabilidade na Construção\n\n\nExploração de materiais inovadores e sustentáveis aplicados na construção civil, com ênfase em desempenho ambiental, eficiência energética e durabilidade.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nArtigo 3 - Medidas Ativas e Passivas de Proteção Contra Incêndio\n\n\nClassificação e aplicação das medidas ativas e passivas de proteção contra incêndio no contexto da SCIE em edifícios.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nArtigo 1 - Fundamentos da Segurança Contra Incêndios em Edifícios (SCIE)\n\n\nIntrodução aos conceitos essenciais da SCIE, incluindo objetivos, princípios técnicos e enquadramento legal em Portugal.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nArtigo 2 - Regulamentos e Normas da SCIE\n\n\nExposição detalhada dos principais regulamentos e normas técnicas que estruturam a Segurança Contra Incêndios em Edifícios em Portugal.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nArtigo 3 - Construções Sustentáveis\n\n\nDiscussão sobre os princípios, estratégias e benefícios das construções sustentáveis no contexto ambiental, social e económico.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nArtigo 1 - Eficiência Energética no Ambiente Construído\n\n\nAnálise de estratégias e regulamentações para promover a eficiência energética em edifícios, com foco na realidade portuguesa.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nArtigo 2 - Certificação Ambiental em Edifícios\n\n\nExploração das principais certificações ambientais aplicadas ao setor da construção e ao desempenho sustentável dos edifícios.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nArtigo 3 - Reabilitação e Regeneração Urbana\n\n\nAbordagem estratégica da reabilitação urbana em Portugal, com foco na recuperação do edificado, dinamização socioeconómica e sustentabilidade.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nArtigo 1 - Fundamentos do Planeamento Urbano\n\n\nExploração dos princípios, instrumentos e desafios do planeamento urbano contemporâneo no contexto português.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nArtigo 2 - Mobilidade e Espaços Públicos nas Cidades Contemporâneas\n\n\nAnálise integrada entre mobilidade urbana e desenho de espaços públicos como componentes fundamentais do urbanismo sustentável.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nPlataformas Digitais e Novos Modelos de Negócio no Imobiliário\n\n\nExploração das plataformas digitais e do ecossistema PropTech, destacando os impactos sobre intermediação, investimento, financiamento e gestão de ativos.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nTransformação Digital no Setor Imobiliário\n\n\nExploração das tecnologias digitais aplicadas ao setor imobiliário, incluindo plataformas digitais, big data, inteligência artificial e realidade aumentada.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nEdifícios Inteligentes e Automação Imobiliária\n\n\nAnálise das tecnologias de automação e gestão inteligente aplicadas a edifícios residenciais e comerciais, com foco em eficiência, segurança e conforto.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\nDados\n\n\nFontes de dados utilizados nas análises do setor imobiliário.\n\n\n\n\n\nApr 30, 2025\n\n\n\n\n\n\n\nArtigo 1 - Crédito e Investimento\n\n\nAnálise dos principais mecanismos de financiamento imobiliário, com foco em crédito bancário e investimento institucional.\n\n\n\n\n\nApr 30, 2025\n\n\n\n\n\n\n\nArtigo 2 - Modelos de Financiamento Imobiliário\n\n\nExploração comparativa de diferentes modelos de financiamento aplicados ao setor imobiliário português.\n\n\n\n\n\nApr 30, 2025\n\n\n\n\n\n\n\nArtigo 3 - Smart Cities\n\n\nO impacto das cidades inteligentes no setor imobiliário.\n\n\n\n\n\nApr 30, 2025\n\n\n\n\n\n\n\nTemas Jurídicos e Urbanísticos\n\n\nAnálise de normas jurídicas, planos diretores e regulação urbanística.\n\n\n\n\n\nApr 30, 2025\n\n\n\n\n\n\n\nTemas Tecnológicos\n\n\nAplicações tecnológicas no setor imobiliário e construção civil.\n\n\n\n\n\nApr 30, 2025\n\n\n\n\n\n\n\nArtigo 2 - Preços e Juros\n\n\nDiscussão sobre a relação entre preços de imóveis e taxas de juro.\n\n\n\n\n\nApr 30, 2025\n\n\n\n\n\n\n\nTemas Econômicos\n\n\nQuestões macroeconómicas e microeconómicas relevantes para o setor.\n\n\n\n\n\nApr 30, 2025\n\n\n\n\n\n\n\nArtigo 1 - Panorama Geral\n\n\nUma visão introdutória sobre o mercado imobiliário e seus determinantes.\n\n\n\n\n\nApr 30, 2025\n\n\n\n\n\n\n\nSobre\n\n\nInformações sobre o autor, os objetivos do projeto e a estrutura do site.\n\n\n\n\n\nApr 30, 2025\n\n\n\n\n\n\n\nContacto\n\n\nInformações para contacto e envio de sugestões.\n\n\n\n\n\nApr 30, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/imoveis-sustentaveis.html",
@@ -238,171 +644,493 @@
     "text": "Fontes de Dados\nLista de bases de dados utilizadas nas análises."
   },
   {
-    "objectID": "financiamento/artigo1/index.html",
-    "href": "financiamento/artigo1/index.html",
-    "title": "Artigo 1 - Primeira Lei da Termodinâmica",
+    "objectID": "financiamento/artigo3/index.html",
+    "href": "financiamento/artigo3/index.html",
+    "title": "Artigo 3 - Riscos e Garantias Bancárias",
     "section": "",
-    "text": "Discussão da conservação de energia e do balanço de energia em sistemas mecânicos e térmicos."
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
   },
   {
-    "objectID": "financiamento/artigo2/index.html",
-    "href": "financiamento/artigo2/index.html",
-    "title": "Artigo 2 - Eficiência de Ciclos Termodinâmicos",
+    "objectID": "financiamento/artigo3/index.html#principais-tipos-de-risco",
+    "href": "financiamento/artigo3/index.html#principais-tipos-de-risco",
+    "title": "Artigo 3 - Riscos e Garantias Bancárias",
+    "section": "Principais Tipos de Risco",
+    "text": "Principais Tipos de Risco\n\n1. Risco de Crédito\nRelaciona-se com a capacidade de pagamento do mutuário. É o risco mais direto para os bancos.\n\nHistórico de crédito e taxa de esforço\nLTV (Loan-to-Value) excessivo\nIncertezas sobre receitas futuras\n\n\n\n2. Risco de Mercado\nVariações nas taxas de juro, inflação e dinâmica de preços imobiliários podem comprometer o retorno esperado dos projetos.\n\nExposição à Euribor e à inflação\nVolatilidade no valor dos ativos\nInstabilidade nas políticas públicas de habitação\n\n\n\n3. Risco de Execução\nEstá ligado à capacidade de entrega do projeto conforme planeado (prazos, custos, qualidade).\n\nAtrasos de licenciamento ou construção\nProblemas contratuais com empreiteiros\nMudanças no escopo do projeto"
+  },
+  {
+    "objectID": "financiamento/artigo3/index.html#garantias-bancárias-comuns",
+    "href": "financiamento/artigo3/index.html#garantias-bancárias-comuns",
+    "title": "Artigo 3 - Riscos e Garantias Bancárias",
+    "section": "Garantias Bancárias Comuns",
+    "text": "Garantias Bancárias Comuns\n\n1. Hipoteca\nA propriedade é dada como garantia ao banco. Em caso de incumprimento, o banco pode executar a hipoteca.\n\n\n2. Fiança Bancária\nUm terceiro (normalmente uma instituição financeira) assume a responsabilidade pelo pagamento caso o mutuário falhe.\n\n\n3. Penhor de Créditos Futuros\nReceitas futuras (ex: rendas, vendas) são oferecidas como garantia, muito comum em projetos de promoção com pré-venda.\n\n\n4. Aval\nPessoa ou entidade garante solidariamente a dívida."
+  },
+  {
+    "objectID": "financiamento/artigo3/index.html#avaliação-e-mitigação-de-riscos",
+    "href": "financiamento/artigo3/index.html#avaliação-e-mitigação-de-riscos",
+    "title": "Artigo 3 - Riscos e Garantias Bancárias",
+    "section": "Avaliação e Mitigação de Riscos",
+    "text": "Avaliação e Mitigação de Riscos\nOs bancos utilizam modelos quantitativos e qualitativos para avaliar riscos. As garantias são dimensionadas com base em:\n\nValor de mercado e liquidez do bem\nPercentual financiado (LTV)\nÍndice de cobertura da dívida (DSCR)\n\nAlém disso, contratos de financiamento incluem cláusulas específicas de mitigação:\n\nCovenants financeiros\nRequisitos de seguros obrigatórios\nAuditorias técnicas periódicas"
+  },
+  {
+    "objectID": "financiamento/artigo3/index.html#conclusão",
+    "href": "financiamento/artigo3/index.html#conclusão",
+    "title": "Artigo 3 - Riscos e Garantias Bancárias",
+    "section": "Conclusão",
+    "text": "Conclusão\nA compreensão dos riscos associados ao financiamento imobiliário e a definição de garantias adequadas são fundamentais para a estabilidade do setor. Uma abordagem prudente e estruturada protege tanto os agentes financiadores quanto os promotores, favorecendo o desenvolvimento sustentável do mercado."
+  },
+  {
+    "objectID": "financiamento/index.html",
+    "href": "financiamento/index.html",
+    "title": "Financiamento Imobiliário",
     "section": "",
-    "text": "Análise do desempenho de ciclos térmicos ideais e reais, com foco em rendimento e perdas."
+    "text": "Conheça os modelos, riscos e estratégias de financiamento aplicadas ao setor imobiliário.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArtigo 3 - Riscos e Garantias Bancárias\n\n\nAnálise dos principais riscos associados ao financiamento imobiliário e das garantias bancárias utilizadas como mitigadores.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nArtigo 1 - Crédito e Investimento\n\n\nAnálise dos principais mecanismos de financiamento imobiliário, com foco em crédito bancário e investimento institucional.\n\n\n\n\n\nApr 30, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nArtigo 2 - Modelos de Financiamento Imobiliário\n\n\nExploração comparativa de diferentes modelos de financiamento aplicados ao setor imobiliário português.\n\n\n\n\n\nApr 30, 2025\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "texto/juridicos.html",
-    "href": "texto/juridicos.html",
-    "title": "Temas Jurídicos e Urbanísticos",
+    "objectID": "texto/artigo3.html",
+    "href": "texto/artigo3.html",
+    "title": "Artigo 3 - Smart Cities",
     "section": "",
-    "text": "Temas Jurídicos e Urbanísticos\nRegulação e legislação aplicáveis ao setor."
+    "text": "Smart Cities\nComo as cidades inteligentes influenciam o mercado imobiliário."
   },
   {
-    "objectID": "texto/artigo2.html",
-    "href": "texto/artigo2.html",
-    "title": "Artigo 2 - Preços e Juros",
+    "objectID": "texto/tecnologicos.html",
+    "href": "texto/tecnologicos.html",
+    "title": "Temas Tecnológicos",
     "section": "",
-    "text": "Preços e Juros\nAnálise da correlação entre preços dos imóveis e juros."
+    "text": "Temas Tecnológicos\nUso de tecnologias no setor da construção e imóveis."
   },
   {
-    "objectID": "texto/artigo1.html",
-    "href": "texto/artigo1.html",
-    "title": "Artigo 1 - Panorama Geral",
+    "objectID": "texto/economicos.html",
+    "href": "texto/economicos.html",
+    "title": "Temas Econômicos",
     "section": "",
-    "text": "Conteúdo introdutório sobre o mercado imobiliário."
+    "text": "Temas Econômicos\nDiscussões econômicas relevantes para o setor imobiliário."
   },
   {
-    "objectID": "sobre.html",
-    "href": "sobre.html",
-    "title": "Sobre",
+    "objectID": "moodlecesar/funcoes_quadraticas.html",
+    "href": "moodlecesar/funcoes_quadraticas.html",
+    "title": "Função Quadrática",
     "section": "",
-    "text": "Sobre o site\nEste site foi criado para partilhar análises e ideias sobre o setor imobiliário."
+    "text": "Este notebook permite explorar o comportamento da função do segundo grau \\(f(x) = ax^2 + bx + c\\) ajustando os coeficientes.\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n# Coeficientes da função quadrática\na = 1\nb = -3\nc = 2\n\n# Domínio\nx = np.linspace(-10, 10, 400)\ny = a * x**2 + b * x + c\n\n# Gráfico\nplt.figure(figsize=(8,5))\nplt.plot(x, y, label=f\"f(x) = {a}x² + {b}x + {c}\", color='blue')\nplt.axhline(0, color='black', lw=1)\nplt.axvline(0, color='black', lw=1)\nplt.title(\"Gráfico da função quadrática\")\nplt.xlabel(\"x\")\nplt.ylabel(\"f(x)\")\nplt.grid(True)\nplt.legend()\nplt.show()"
   },
   {
-    "objectID": "mercado/artigo1/index.html",
-    "href": "mercado/artigo1/index.html",
-    "title": "Artigo 1 - Panorama Geral",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Início",
     "section": "",
-    "text": "Conteúdooo introdutório sobre o mercado imobiliárioo.\n\n\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nprecos = [4500, 4800, 5000, 5300, 5600, 6000]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, precos, marker='o')\nplt.title('Evolução do preço médio do m² (2018–2023)')\nplt.xlabel('Ano')\nplt.ylabel('Preço (R$)')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+    "text": "Bem-vindo ao Blog Imobiliário, um espaço de estudo técnico e aplicado dedicado aos temas centrais do setor imobiliário:\n\nMercado Imobiliário\nSustentabilidade e Eficiência Energética\nTécnicas Construtivas\nTecnologia e Digitalização\nFinanciamento e Viabilidade\nUrbanismo e Regeneração Urbana\n\n\n\n\n\nArtigos explicativos com dados, gráficos e simulações,\nModelos práticos desenvolvidos com Python,\nCálculos energéticos e financeiros,\nConteúdos integrados com Quarto, Colab e Jupyter.\n\n\n\n\n\n\nQuarto\nPython\nJupyterLab\nGoogle Colab\nGitHub Pages\n\n\n\n\n\nC. A. C. Barros\nEngenharia, educação e desenvolvimento de soluções digitais aplicadas.\nGitHub · Blog Fortec · Notas de Leitura\n\n\n  \n  \n    \n    — Adaptação de Benjamin Franklin\n    Descubra mais"
   },
   {
-    "objectID": "mercado/artigo1/index.html#evolução-dos-preços-exemplo-interativo",
-    "href": "mercado/artigo1/index.html#evolução-dos-preços-exemplo-interativo",
-    "title": "Artigo 1 - Panorama Geral",
+    "objectID": "index.html#o-que-você-encontrará-aqui",
+    "href": "index.html#o-que-você-encontrará-aqui",
+    "title": "Início",
     "section": "",
-    "text": "Code\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nprecos = [4500, 4800, 5000, 5300, 5600, 6000]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, precos, marker='o')\nplt.title('Evolução do preço médio do m² (2018–2023)')\nplt.xlabel('Ano')\nplt.ylabel('Preço (R$)')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+    "text": "Artigos explicativos com dados, gráficos e simulações,\nModelos práticos desenvolvidos com Python,\nCálculos energéticos e financeiros,\nConteúdos integrados com Quarto, Colab e Jupyter."
   },
   {
-    "objectID": "mercado/artigo2/index.html",
-    "href": "mercado/artigo2/index.html",
-    "title": "Artigo 2 - Preços e Juros",
+    "objectID": "index.html#tecnologias-utilizadas",
+    "href": "index.html#tecnologias-utilizadas",
+    "title": "Início",
     "section": "",
-    "text": "Preços e Juros\nAnálise da correlação entre preços dos imóveis e juros.\n\n\n\n\n\nReferences\n\nAutor, A. (2025). Exemplo de referência. Editora Exemplo."
+    "text": "Quarto\nPython\nJupyterLab\nGoogle Colab\nGitHub Pages"
   },
   {
-    "objectID": "construcao/artigo1/index.html",
-    "href": "construcao/artigo1/index.html",
-    "title": "Artigo 1 - Fundamentos da Cinemática",
+    "objectID": "index.html#autor",
+    "href": "index.html#autor",
+    "title": "Início",
     "section": "",
-    "text": "Conteúdo introdutório sobre posição, velocidade e aceleração."
+    "text": "C. A. C. Barros\nEngenharia, educação e desenvolvimento de soluções digitais aplicadas.\nGitHub · Blog Fortec · Notas de Leitura\n\n\n  \n  \n    \n    — Adaptação de Benjamin Franklin\n    Descubra mais"
   },
   {
-    "objectID": "construcao/artigo2/index.html",
-    "href": "construcao/artigo2/index.html",
-    "title": "Artigo 2 - Leis de Newton em Ação",
+    "objectID": "mercado/artigo3/index.html",
+    "href": "mercado/artigo3/index.html",
+    "title": "Artigo 3 - Dinâmica da Oferta e Procura no Mercado Imobiliário",
     "section": "",
-    "text": "Discussão das leis do movimento e aplicações práticas.\n\n\nrelação entre preços dos imóveis e juros."
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
   },
   {
-    "objectID": "construcao/artigo2/index.html#referências",
-    "href": "construcao/artigo2/index.html#referências",
-    "title": "Artigo 2 - Leis de Newton em Ação",
+    "objectID": "mercado/artigo3/index.html#estrutura-da-procura",
+    "href": "mercado/artigo3/index.html#estrutura-da-procura",
+    "title": "Artigo 3 - Dinâmica da Oferta e Procura no Mercado Imobiliário",
+    "section": "Estrutura da Procura",
+    "text": "Estrutura da Procura\nA procura imobiliária é influenciada por:\n\nRendimento disponível das famílias\nTaxas de juro e condições de crédito\nExpectativas sobre valorização futura\nDemografia (número de agregados, envelhecimento, migração)\nPreferências habitacionais e localização\n\nApós a pandemia, houve:\n\nAumento da procura por imóveis maiores\nCrescimento da procura internacional\nReforço da procura por arrendamento em zonas urbanas e suburbanas"
+  },
+  {
+    "objectID": "mercado/artigo3/index.html#estrutura-da-oferta",
+    "href": "mercado/artigo3/index.html#estrutura-da-oferta",
+    "title": "Artigo 3 - Dinâmica da Oferta e Procura no Mercado Imobiliário",
+    "section": "Estrutura da Oferta",
+    "text": "Estrutura da Oferta\nA oferta depende de:\n\nDisponibilidade de solo urbanizável\nCapacidade construtiva e licenciamento\nCusto dos materiais e mão de obra\nIncentivos fiscais e subsídios à construção\n\nProblemas típicos:\n\nLentidão no licenciamento municipal\nFalta de previsibilidade regulatória\nEscassez de tipologias acessíveis à classe média"
+  },
+  {
+    "objectID": "mercado/artigo3/index.html#desequilíbrios-regionais",
+    "href": "mercado/artigo3/index.html#desequilíbrios-regionais",
+    "title": "Artigo 3 - Dinâmica da Oferta e Procura no Mercado Imobiliário",
+    "section": "Desequilíbrios Regionais",
+    "text": "Desequilíbrios Regionais\nEm Portugal, o desequilíbrio oferta/procura é mais acentuado em:\n\nLisboa e Porto: excesso de procura e pouca oferta nova acessível\nInterior: excesso de oferta sem procura suficiente\nZonas costeiras turísticas: procura sazonal e especulativa"
+  },
+  {
+    "objectID": "mercado/artigo3/index.html#consequências-do-desequilíbrio",
+    "href": "mercado/artigo3/index.html#consequências-do-desequilíbrio",
+    "title": "Artigo 3 - Dinâmica da Oferta e Procura no Mercado Imobiliário",
+    "section": "Consequências do Desequilíbrio",
+    "text": "Consequências do Desequilíbrio\n\nAumento dos preços e da especulação\nCrescimento do arrendamento informal\nExclusão habitacional de jovens e famílias de rendimentos médios\nPressão sobre políticas públicas de habitação"
+  },
+  {
+    "objectID": "mercado/artigo3/index.html#caminhos-para-o-equilíbrio",
+    "href": "mercado/artigo3/index.html#caminhos-para-o-equilíbrio",
+    "title": "Artigo 3 - Dinâmica da Oferta e Procura no Mercado Imobiliário",
+    "section": "Caminhos para o Equilíbrio",
+    "text": "Caminhos para o Equilíbrio\n\nReabilitação urbana com foco em habitação acessível\nProgramas públicos de habitação e renda controlada\nIncentivos fiscais à construção em zonas com procura efetiva\nParcerias público-privadas para dinamizar a oferta estruturada"
+  },
+  {
+    "objectID": "mercado/artigo3/index.html#conclusão",
+    "href": "mercado/artigo3/index.html#conclusão",
+    "title": "Artigo 3 - Dinâmica da Oferta e Procura no Mercado Imobiliário",
+    "section": "Conclusão",
+    "text": "Conclusão\nO equilíbrio entre oferta e procura é central para um mercado imobiliário funcional. Políticas públicas adequadas, aliadas a uma atuação eficiente do setor privado, são fundamentais para alinhar a produção de imóveis com as necessidades reais da população."
+  },
+  {
+    "objectID": "mercado/index.html",
+    "href": "mercado/index.html",
+    "title": "Mercado Imobiliário",
     "section": "",
-    "text": "relação entre preços dos imóveis e juros."
+    "text": "Explore os temas em destaque:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArtigo 3 - Dinâmica da Oferta e Procura no Mercado Imobiliário\n\n\nEstudo sobre o equilíbrio entre oferta e procura no mercado imobiliário português, considerando fatores económicos, sociais e territoriais.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nArtigo 1 - Panorama Geral do Mercado Imobiliário\n\n\nAnálise introdutória do mercado imobiliário em Portugal, com foco em tendências recentes, procura, oferta e fatores estruturais.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nArtigo 2 - Tendências Pós-Pandemia no Mercado Imobiliário\n\n\nAnálise das transformações no mercado imobiliário após a pandemia de COVID-19, com foco em comportamentos de procura, adaptação dos espaços e desafios económicos.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "scie/artigo1/index.html",
-    "href": "scie/artigo1/index.html",
-    "title": "Artigo 1 - Fundamentos da SCIE",
+    "objectID": "construcao/artigo3/index.html",
+    "href": "construcao/artigo3/index.html",
+    "title": "Industrialização da Construção",
     "section": "",
-    "text": "Introdução aos conceitos básicos da Segurança Contra Incêndios em Edifícios.\n\n\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
   },
   {
-    "objectID": "scie/artigo1/index.html#exemplo-interativo",
-    "href": "scie/artigo1/index.html#exemplo-interativo",
-    "title": "Artigo 1 - Fundamentos da SCIE",
+    "objectID": "construcao/artigo3/index.html#fundamentos-da-construção-industrializada",
+    "href": "construcao/artigo3/index.html#fundamentos-da-construção-industrializada",
+    "title": "Industrialização da Construção",
+    "section": "Fundamentos da Construção Industrializada",
+    "text": "Fundamentos da Construção Industrializada\n\nProdução off-site (fora do estaleiro) com alto controlo de qualidade\nRedução de prazo de obra, resíduos e custo global\nMaior segurança para os trabalhadores e previsibilidade de resultados"
+  },
+  {
+    "objectID": "construcao/artigo3/index.html#principais-métodos-e-tecnologias",
+    "href": "construcao/artigo3/index.html#principais-métodos-e-tecnologias",
+    "title": "Industrialização da Construção",
+    "section": "Principais Métodos e Tecnologias",
+    "text": "Principais Métodos e Tecnologias\n\n1. Sistemas Modulares\n\nMódulos tridimensionais produzidos em fábrica\nAplicáveis em habitação, hotéis, escolas e hospitais\nPodem incluir acabamentos, instalações elétricas e hidráulicas\n\n\n\n2. Painéis Pré-fabricados\n\nPainéis de betão, madeira ou compósitos\nPermitem montagem rápida da envolvente\nIntegração com estruturas híbridas (aço + betão leve)\n\n\n\n3. Construção Automatizada\n\nRobótica em fábrica para soldadura, corte, montagem\nImpressão 3D de elementos estruturais e não estruturais\nDigitalização total da cadeia produtiva (BIM + ERP + logística)"
+  },
+  {
+    "objectID": "construcao/artigo3/index.html#vantagens-da-industrialização",
+    "href": "construcao/artigo3/index.html#vantagens-da-industrialização",
+    "title": "Industrialização da Construção",
+    "section": "Vantagens da Industrialização",
+    "text": "Vantagens da Industrialização\n\nRedução do tempo de execução (até 50%)\nMenor impacto ambiental\nQualidade mais uniforme e rastreável\nMelhoria da condição laboral e menor exposição a riscos"
+  },
+  {
+    "objectID": "construcao/artigo3/index.html#desafios-em-portugal",
+    "href": "construcao/artigo3/index.html#desafios-em-portugal",
+    "title": "Industrialização da Construção",
+    "section": "Desafios em Portugal",
+    "text": "Desafios em Portugal\n\nFalta de escala para industrialização plena\nBarreiras regulamentares e resistência à mudança\nNecessidade de adaptação do projeto arquitetónico desde o início\nLimitação de fornecedores especializados"
+  },
+  {
+    "objectID": "construcao/artigo3/index.html#tendências-futuras",
+    "href": "construcao/artigo3/index.html#tendências-futuras",
+    "title": "Industrialização da Construção",
+    "section": "Tendências Futuras",
+    "text": "Tendências Futuras\n\nIntegração com modelos de economia circular\nProdução de componentes reutilizáveis e desmontáveis\nUtilização de dados em tempo real e inteligência artificial para otimizar o processo construtivo"
+  },
+  {
+    "objectID": "construcao/artigo3/index.html#exemplo-interativo",
+    "href": "construcao/artigo3/index.html#exemplo-interativo",
+    "title": "Industrialização da Construção",
+    "section": "Exemplo Interativo",
+    "text": "Exemplo Interativo\n\n\n\n\n\n\nCódigo\nimport matplotlib.pyplot as plt\n\nmetodos = ['Convencional', 'Modular', 'Painéis', '3D']\ntempos = [12, 6, 8, 7]\n\nplt.figure(figsize=(6, 4))\nplt.bar(metodos, tempos, color=['#BDBDBD', '#81C784', '#64B5F6', '#FFB74D'])\nplt.title('Tempo Médio de Obra por Método Construtivo')\nplt.ylabel('Meses')\nplt.grid(axis='y')\nplt.tight_layout()\nplt.show()"
+  },
+  {
+    "objectID": "construcao/artigo3/index.html#conclusão",
+    "href": "construcao/artigo3/index.html#conclusão",
+    "title": "Industrialização da Construção",
+    "section": "Conclusão",
+    "text": "Conclusão\nA industrialização é uma oportunidade estratégica para responder à escassez de mão de obra, acelerar a construção de habitação e melhorar a eficiência do setor. A sua implementação exige visão integrada, inovação no projeto e transformação das práticas tradicionais."
+  },
+  {
+    "objectID": "construcao/index.html",
+    "href": "construcao/index.html",
+    "title": "Construção",
     "section": "",
-    "text": "Code\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+    "text": "Discussões sobre técnicas construtivas, inovação em materiais e processos de industrialização no setor.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIndustrialização da Construção\n\n\nAnálise das abordagens industrializadas na construção civil, destacando métodos off-site, pré-fabricação, automatização e desafios para o setor em Portugal.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nTécnicas Construtivas Tradicionais e Inovadoras\n\n\nAnálise comparativa entre técnicas construtivas tradicionais e soluções inovadoras no setor da construção civil, com enfoque na realidade portuguesa.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nNovos Materiais e Sustentabilidade na Construção\n\n\nExploração de materiais inovadores e sustentáveis aplicados na construção civil, com ênfase em desempenho ambiental, eficiência energética e durabilidade.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "scie/artigo2/index.html",
-    "href": "scie/artigo2/index.html",
-    "title": "Artigo 2 - Regulamentos e Normas",
+    "objectID": "scie/artigo3/index.html",
+    "href": "scie/artigo3/index.html",
+    "title": "Artigo 3 - Medidas Ativas e Passivas de Proteção Contra Incêndio",
     "section": "",
-    "text": "Visão geral dos regulamentos legais e normas técnicas aplicáveis à SCIE.\n\n\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
   },
   {
-    "objectID": "scie/artigo2/index.html#exemplo-interativo",
-    "href": "scie/artigo2/index.html#exemplo-interativo",
-    "title": "Artigo 2 - Regulamentos e Normas",
+    "objectID": "scie/artigo3/index.html#medidas-passivas",
+    "href": "scie/artigo3/index.html#medidas-passivas",
+    "title": "Artigo 3 - Medidas Ativas e Passivas de Proteção Contra Incêndio",
+    "section": "Medidas Passivas",
+    "text": "Medidas Passivas\nAs medidas passivas são incorporadas no projeto e construção do edifício. Têm como objetivo impedir ou retardar a propagação do fogo e do fumo.\n\n1. Compartimentação Corta-Fogo\n\nDivisão do edifício em zonas estanques\nUtilização de paredes, tetos e portas resistentes ao fogo (REI 30, REI 60, etc.)\n\n\n\n2. Revestimentos e Materiais Não Combustíveis\n\nSeleção de acabamentos com baixa reação ao fogo (classificação A1 a E)\nProteção de estruturas com materiais isolantes térmicos\n\n\n\n3. Saídas de Emergência\n\nDimensionamento e sinalização de rotas de evacuação\nIluminação de emergência e controlo de fumos em zonas de circulação\n\n\n\n4. Proteção de Cavidades Técnicas\n\nVedação de passagens de cabos, condutas e tubagens\nUtilização de materiais intumescentes e selagens antifogo"
+  },
+  {
+    "objectID": "scie/artigo3/index.html#medidas-ativas",
+    "href": "scie/artigo3/index.html#medidas-ativas",
+    "title": "Artigo 3 - Medidas Ativas e Passivas de Proteção Contra Incêndio",
+    "section": "Medidas Ativas",
+    "text": "Medidas Ativas\nAs medidas ativas requerem equipamentos ou sistemas mecânicos, elétricos ou eletrónicos para deteção e combate ao incêndio.\n\n1. Deteção e Alarme\n\nDetectores de fumo, calor e chama\nCentrais de alarme e sinalização sonora/visual\nIntegração com sistemas de segurança e evacuação\n\n\n\n2. Meios de Combate\n\nExtintores portáteis (água, pó, CO₂)\nBocas-de-incêndio armadas (BIA)\nSistemas de sprinklers automáticos\nCortinas de água ou de fumo\n\n\n\n3. Ventilação de Fumos\n\nExtração mecânica e natural de fumos em escadas, átrios e corredores\nComando automático ou manual\n\n\n\n4. Comunicação e Comando\n\nSistemas de intercomunicação de emergência\nPainéis de controlo centralizados\nIntegração com sistemas de gestão técnica de edifícios (BMS)"
+  },
+  {
+    "objectID": "scie/artigo3/index.html#importância-da-manutenção",
+    "href": "scie/artigo3/index.html#importância-da-manutenção",
+    "title": "Artigo 3 - Medidas Ativas e Passivas de Proteção Contra Incêndio",
+    "section": "Importância da Manutenção",
+    "text": "Importância da Manutenção\nA eficácia das medidas depende da sua correta manutenção:\n\nVerificações periódicas (ex: extintores, sistemas de alarme)\nEnsaios regulares (sprinklers, desenfumagem)\nFormação e exercícios com utilizadores"
+  },
+  {
+    "objectID": "scie/artigo3/index.html#exemplo-interativo",
+    "href": "scie/artigo3/index.html#exemplo-interativo",
+    "title": "Artigo 3 - Medidas Ativas e Passivas de Proteção Contra Incêndio",
+    "section": "Exemplo Interativo",
+    "text": "Exemplo Interativo\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nlabels = ['Passivas', 'Ativas']\nvalores = [60, 40]\n\nplt.figure(figsize=(5, 4))\nplt.pie(valores, labels=labels, autopct='%1.1f%%', startangle=90, colors=['#4CAF50', '#FF5722'])\nplt.title('Peso das Medidas de Proteção Contra Incêndio em Projeto-Tipo')\nplt.axis('equal')\nplt.tight_layout()\nplt.show()"
+  },
+  {
+    "objectID": "scie/artigo3/index.html#conclusão",
+    "href": "scie/artigo3/index.html#conclusão",
+    "title": "Artigo 3 - Medidas Ativas e Passivas de Proteção Contra Incêndio",
+    "section": "Conclusão",
+    "text": "Conclusão\nA combinação eficaz de medidas passivas e ativas é o alicerce da proteção contra incêndios em edifícios. Planeadas desde a fase de projeto e devidamente mantidas, estas medidas salvam vidas, minimizam perdas e garantem conformidade com a legislação em vigor."
+  },
+  {
+    "objectID": "scie/index.html",
+    "href": "scie/index.html",
+    "title": "SCIE – Segurança Contra Incêndios",
     "section": "",
-    "text": "Code\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+    "text": "Referenciais técnicos e normativos para a proteção contra incêndios no ambiente construído.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArtigo 3 - Medidas Ativas e Passivas de Proteção Contra Incêndio\n\n\nClassificação e aplicação das medidas ativas e passivas de proteção contra incêndio no contexto da SCIE em edifícios.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nArtigo 1 - Fundamentos da Segurança Contra Incêndios em Edifícios (SCIE)\n\n\nIntrodução aos conceitos essenciais da SCIE, incluindo objetivos, princípios técnicos e enquadramento legal em Portugal.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nArtigo 2 - Regulamentos e Normas da SCIE\n\n\nExposição detalhada dos principais regulamentos e normas técnicas que estruturam a Segurança Contra Incêndios em Edifícios em Portugal.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "sustentabilidade/artigo1/index.html",
-    "href": "sustentabilidade/artigo1/index.html",
-    "title": "Artigo 1 - Séries e Somatórios",
+    "objectID": "sustentabilidade/artigo3/index.html",
+    "href": "sustentabilidade/artigo3/index.html",
+    "title": "Artigo 3 - Construções Sustentáveis",
     "section": "",
-    "text": "Exploração das séries aritméticas, geométricas e uso da notação sigma em problemas aplicados."
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
   },
   {
-    "objectID": "sustentabilidade/artigo2/index.html",
-    "href": "sustentabilidade/artigo2/index.html",
-    "title": "Artigo 2 - Funções Quadráticas em Contexto",
+    "objectID": "sustentabilidade/artigo3/index.html#princípios-fundamentais",
+    "href": "sustentabilidade/artigo3/index.html#princípios-fundamentais",
+    "title": "Artigo 3 - Construções Sustentáveis",
+    "section": "Princípios Fundamentais",
+    "text": "Princípios Fundamentais\n\nRedução do consumo de recursos naturais\nMinimização de resíduos e emissões\nEficiência energética e hídrica\nConforto ambiental e bem-estar\nIntegração com o meio urbano e natural"
+  },
+  {
+    "objectID": "sustentabilidade/artigo3/index.html#estratégias-construtivas-sustentáveis",
+    "href": "sustentabilidade/artigo3/index.html#estratégias-construtivas-sustentáveis",
+    "title": "Artigo 3 - Construções Sustentáveis",
+    "section": "Estratégias Construtivas Sustentáveis",
+    "text": "Estratégias Construtivas Sustentáveis\n\n1. Planeamento Integrado\n\nAvaliação do ciclo de vida desde a fase de projeto\nEscolha de localizações com boa mobilidade e infraestruturas\nMaximização da iluminação e ventilação natural\n\n\n\n2. Materiais Sustentáveis\n\nUso de materiais reciclados, recicláveis ou de baixo impacto\nMadeira certificada, tintas ecológicas e isolamento natural\nPreferência por fornecedores locais para reduzir pegada de carbono\n\n\n\n3. Tecnologias Eficientes\n\nSistemas de gestão técnica de edifícios (GTB)\nRecolha e reaproveitamento de águas pluviais\nPainéis solares, geotermia e bombas de calor\n\n\n\n4. Construção Modular e Industrializada\n\nMenor desperdício e tempo de obra reduzido\nMaior precisão e padronização\nReutilização e adaptabilidade dos módulos"
+  },
+  {
+    "objectID": "sustentabilidade/artigo3/index.html#benefícios-de-construções-sustentáveis",
+    "href": "sustentabilidade/artigo3/index.html#benefícios-de-construções-sustentáveis",
+    "title": "Artigo 3 - Construções Sustentáveis",
+    "section": "Benefícios de Construções Sustentáveis",
+    "text": "Benefícios de Construções Sustentáveis\n\nRedução dos custos operacionais ao longo do tempo\nMelhoria do desempenho energético e ambiental\nMaior valorização no mercado imobiliário\nContribuição para metas climáticas e políticas públicas"
+  },
+  {
+    "objectID": "sustentabilidade/artigo3/index.html#desafios-e-barreiras",
+    "href": "sustentabilidade/artigo3/index.html#desafios-e-barreiras",
+    "title": "Artigo 3 - Construções Sustentáveis",
+    "section": "Desafios e Barreiras",
+    "text": "Desafios e Barreiras\n\nCusto inicial mais elevado (perceção comum)\nResistência à mudança no setor tradicional\nFalta de qualificação técnica e mão de obra especializada\nNecessidade de maior integração entre projeto e execução"
+  },
+  {
+    "objectID": "sustentabilidade/artigo3/index.html#conclusão",
+    "href": "sustentabilidade/artigo3/index.html#conclusão",
+    "title": "Artigo 3 - Construções Sustentáveis",
+    "section": "Conclusão",
+    "text": "Conclusão\nAs construções sustentáveis não são apenas uma tendência, mas uma necessidade estratégica num contexto de crise climática, escassez de recursos e exigências regulatórias crescentes. A adoção de princípios sustentáveis permite construir melhor, com menos impacto e mais valor para todos os intervenientes."
+  },
+  {
+    "objectID": "sustentabilidade/index.html",
+    "href": "sustentabilidade/index.html",
+    "title": "Sustentabilidade",
     "section": "",
-    "text": "Análise do gráfico, vértice e raízes de funções do 2.º grau com exemplos aplicados."
+    "text": "Práticas, certificações e técnicas para um ambiente construído mais eficiente e responsável.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArtigo 3 - Construções Sustentáveis\n\n\nDiscussão sobre os princípios, estratégias e benefícios das construções sustentáveis no contexto ambiental, social e económico.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nArtigo 1 - Eficiência Energética no Ambiente Construído\n\n\nAnálise de estratégias e regulamentações para promover a eficiência energética em edifícios, com foco na realidade portuguesa.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nArtigo 2 - Certificação Ambiental em Edifícios\n\n\nExploração das principais certificações ambientais aplicadas ao setor da construção e ao desempenho sustentável dos edifícios.\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "urbanismo/artigo3/index.html",
-    "href": "urbanismo/artigo3/index.html",
-    "title": "Artigo 3 - Chillers e Torres de Resfriamento",
+    "objectID": "artigos.html",
+    "href": "artigos.html",
+    "title": "Artigos em Destaque",
     "section": "",
-    "text": "Princípios operacionais e aspectos energéticos de equipamentos de climatização de grande porte."
+    "text": "Leia o artigo\n\n\n\nLeia o artigo\n\n\n\nLeia o artigo"
   },
   {
-    "objectID": "urbanismo/index.html",
-    "href": "urbanismo/index.html",
-    "title": "Urbanismo",
+    "objectID": "artigos.html#destaques-recentes",
+    "href": "artigos.html#destaques-recentes",
+    "title": "Artigos em Destaque",
     "section": "",
-    "text": "Exploração crítica do planeamento urbano, mobilidade e regeneração do tecido urbano nas cidades portuguesas."
+    "text": "Leia o artigo\n\n\n\nLeia o artigo\n\n\n\nLeia o artigo"
   },
   {
-    "objectID": "urbanismo/index.html#artigos-disponíveis",
-    "href": "urbanismo/index.html#artigos-disponíveis",
-    "title": "Urbanismo",
-    "section": "Artigos disponíveis",
-    "text": "Artigos disponíveis\n\nPlaneamento Urbano\nMobilidade e Espaços Públicos\nReabilitação e Regeneração Urbana"
-  },
-  {
-    "objectID": "tecnologia/artigo3/index.html",
-    "href": "tecnologia/artigo3/index.html",
-    "title": "Artigo 3 - Estequiometria em Processos Industriais",
+    "objectID": "urbanismo/artigo1/index.html",
+    "href": "urbanismo/artigo1/index.html",
+    "title": "Artigo 1 - Fundamentos do Planeamento Urbano",
     "section": "",
-    "text": "Cálculo de reagentes e produtos em sistemas reais com foco em produção e rendimento."
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
   },
   {
-    "objectID": "tecnologia/index.html",
-    "href": "tecnologia/index.html",
-    "title": "Tecnologia no Imobiliário",
+    "objectID": "urbanismo/artigo1/index.html#princípios-fundamentais",
+    "href": "urbanismo/artigo1/index.html#princípios-fundamentais",
+    "title": "Artigo 1 - Fundamentos do Planeamento Urbano",
+    "section": "Princípios Fundamentais",
+    "text": "Princípios Fundamentais\n\nUso racional do solo urbano\nEquidade no acesso à habitação, mobilidade e serviços\nPreservação ambiental e eficiência energética\nValorização do património e identidade local\nFlexibilidade e capacidade de adaptação às mudanças"
+  },
+  {
+    "objectID": "urbanismo/artigo1/index.html#instrumentos-de-planeamento-em-portugal",
+    "href": "urbanismo/artigo1/index.html#instrumentos-de-planeamento-em-portugal",
+    "title": "Artigo 1 - Fundamentos do Planeamento Urbano",
+    "section": "Instrumentos de Planeamento em Portugal",
+    "text": "Instrumentos de Planeamento em Portugal\n\n1. Instrumentos de Gestão Territorial (IGT)\n\nPlano Diretor Municipal (PDM) – define o modelo de organização do território a médio e longo prazo\nPlano de Urbanização (PU) – detalha áreas específicas em processo de transformação urbana\nPlano de Pormenor (PP) – regula o uso do solo em áreas delimitadas com maior detalhe\n\n\n\n2. Estratégias Complementares\n\nPlanos Estratégicos de Desenvolvimento Urbano\nCartas de Paisagem e Planos de Mobilidade Urbana Sustentável\nZonas de Intervenção Prioritária (ZIP)"
+  },
+  {
+    "objectID": "urbanismo/artigo1/index.html#desafios-contemporâneos",
+    "href": "urbanismo/artigo1/index.html#desafios-contemporâneos",
+    "title": "Artigo 1 - Fundamentos do Planeamento Urbano",
+    "section": "Desafios Contemporâneos",
+    "text": "Desafios Contemporâneos\n\nUrbanização descontrolada e pressão sobre recursos naturais\nGentrificação e segregação socioespacial\nAdaptação às alterações climáticas (ilhas de calor, cheias)\nDigitalização da gestão urbana (smart cities)\nParticipação cidadã efetiva e inclusiva"
+  },
+  {
+    "objectID": "urbanismo/artigo1/index.html#tendências-emergentes",
+    "href": "urbanismo/artigo1/index.html#tendências-emergentes",
+    "title": "Artigo 1 - Fundamentos do Planeamento Urbano",
+    "section": "Tendências Emergentes",
+    "text": "Tendências Emergentes\n\nUrbanismo tático e intervenções de baixo custo e rápida implementação\nPlaneamento participativo com recurso a plataformas digitais\nNatureza na cidade: corredores verdes, renaturalização e infraestrutura verde\nZonamento flexível e usos mistos"
+  },
+  {
+    "objectID": "urbanismo/artigo1/index.html#exemplo-interativo",
+    "href": "urbanismo/artigo1/index.html#exemplo-interativo",
+    "title": "Artigo 1 - Fundamentos do Planeamento Urbano",
+    "section": "Exemplo Interativo",
+    "text": "Exemplo Interativo\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\ncategorias = ['Habitação', 'Espaços Verdes', 'Mobilidade', 'Equipamentos']\npercentagens = [45, 20, 15, 20]\n\nplt.figure(figsize=(6, 4))\nplt.bar(categorias, percentagens, color=['#4CAF50', '#81C784', '#64B5F6', '#FFB74D'])\nplt.title('Distribuição Planeada do Uso do Solo (%)')\nplt.ylabel('Percentagem')\nplt.grid(axis='y')\nplt.tight_layout()\nplt.show()"
+  },
+  {
+    "objectID": "urbanismo/artigo1/index.html#conclusão",
+    "href": "urbanismo/artigo1/index.html#conclusão",
+    "title": "Artigo 1 - Fundamentos do Planeamento Urbano",
+    "section": "Conclusão",
+    "text": "Conclusão\nO planeamento urbano é essencial para garantir qualidade de vida, coesão social e desenvolvimento sustentável das cidades. Exige abordagem integrada, visão de longo prazo e constante atualização frente às transformações sociais, económicas e ambientais."
+  },
+  {
+    "objectID": "urbanismo/artigo2/index.html",
+    "href": "urbanismo/artigo2/index.html",
+    "title": "Artigo 2 - Mobilidade e Espaços Públicos nas Cidades Contemporâneas",
     "section": "",
-    "text": "Aplicações digitais e inovações tecnológicas que estão a transformar o setor imobiliário."
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
   },
   {
-    "objectID": "tecnologia/index.html#artigos-disponíveis",
-    "href": "tecnologia/index.html#artigos-disponíveis",
-    "title": "Tecnologia no Imobiliário",
-    "section": "Artigos disponíveis",
-    "text": "Artigos disponíveis\n\nInovação Digital no Setor\nBIM e Modelagem de Dados\nInteligência Artificial e IoT"
+    "objectID": "urbanismo/artigo2/index.html#mobilidade-urbana-sustentável",
+    "href": "urbanismo/artigo2/index.html#mobilidade-urbana-sustentável",
+    "title": "Artigo 2 - Mobilidade e Espaços Públicos nas Cidades Contemporâneas",
+    "section": "Mobilidade Urbana Sustentável",
+    "text": "Mobilidade Urbana Sustentável\nA mobilidade não deve ser apenas eficiente, mas também inclusiva e ambientalmente responsável. A abordagem atual prioriza:\n\nModos suaves: andar a pé, bicicleta, micromobilidade\nTransporte público acessível e intermodal\nRedução da dependência do automóvel\nPlaneamento orientado ao transporte coletivo (TOD)\n\n\nFerramentas de Planeamento\n\nPlanos de Mobilidade Urbana Sustentável (PMUS)\nCorredores BRT e redes cicláveis integradas\nZonas de emissões reduzidas e partilha de viatura"
+  },
+  {
+    "objectID": "urbanismo/artigo2/index.html#espaços-públicos-como-infraestrutura-urbana",
+    "href": "urbanismo/artigo2/index.html#espaços-públicos-como-infraestrutura-urbana",
+    "title": "Artigo 2 - Mobilidade e Espaços Públicos nas Cidades Contemporâneas",
+    "section": "Espaços Públicos como Infraestrutura Urbana",
+    "text": "Espaços Públicos como Infraestrutura Urbana\nOs espaços públicos (praças, ruas, parques, passeios) não são meros interstícios, mas componentes estratégicos da malha urbana.\n\nFunções principais:\n\nEstruturar a mobilidade pedonal e ciclável\nPromover encontros sociais e atividades culturais\nSuportar biodiversidade e drenagem natural\nProporcionar conforto térmico e acessibilidade\n\n\n\nEstratégias de Qualificação\n\nRuas completas (complete streets): projetadas para todos os modos de transporte\nDesenho inclusivo: acessibilidade universal e segurança\nVerde urbano: árvores, sombra, bancos, mobiliário urbano"
+  },
+  {
+    "objectID": "urbanismo/artigo2/index.html#exemplo-interativo",
+    "href": "urbanismo/artigo2/index.html#exemplo-interativo",
+    "title": "Artigo 2 - Mobilidade e Espaços Públicos nas Cidades Contemporâneas",
+    "section": "Exemplo Interativo",
+    "text": "Exemplo Interativo\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nmodos = ['A pé', 'Bicicleta', 'TP', 'Automóvel']\npercentuais = [35, 10, 30, 25]\n\nplt.figure(figsize=(6, 4))\nplt.bar(modos, percentuais, color=['#81C784', '#4CAF50', '#64B5F6', '#FF8A65'])\nplt.title('Distribuição Modal em Área Urbana')\nplt.ylabel('Percentagem')\nplt.grid(axis='y')\nplt.tight_layout()\nplt.show()"
+  },
+  {
+    "objectID": "urbanismo/artigo2/index.html#conclusão",
+    "href": "urbanismo/artigo2/index.html#conclusão",
+    "title": "Artigo 2 - Mobilidade e Espaços Públicos nas Cidades Contemporâneas",
+    "section": "Conclusão",
+    "text": "Conclusão\nPromover a mobilidade sustentável e qualificar os espaços públicos são estratégias complementares para cidades mais humanas, eficientes e resilientes. É essencial integrar políticas de transporte, desenho urbano e participação social para garantir ambientes mais habitáveis e equitativos."
+  },
+  {
+    "objectID": "tecnologia/artigo1/index.html",
+    "href": "tecnologia/artigo1/index.html",
+    "title": "Transformação Digital no Setor Imobiliário",
+    "section": "",
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
+  },
+  {
+    "objectID": "tecnologia/artigo1/index.html#principais-tecnologias-aplicadas",
+    "href": "tecnologia/artigo1/index.html#principais-tecnologias-aplicadas",
+    "title": "Transformação Digital no Setor Imobiliário",
+    "section": "Principais Tecnologias Aplicadas",
+    "text": "Principais Tecnologias Aplicadas\n\n1. Plataformas Imobiliárias Online\n\nAutomatização de anúncios, marcações de visitas e propostas\nInterfaces responsivas e motor de busca com geolocalização\nIntegração com CRM e marketing digital\n\n\n\n2. Big Data e Business Intelligence\n\nAnálise preditiva de preços e tendências de mercado\nAvaliação automatizada de imóveis (AVM)\nSegmentação de clientes e recomendação de imóveis\n\n\n\n3. Inteligência Artificial e Machine Learning\n\nChatbots para atendimento ao cliente\nAlgoritmos de scoring de crédito e perfil de risco\nOtimização de portfólios de investimento\n\n\n\n4. Realidade Virtual e Aumentada\n\nVisitas virtuais 360° e modelos 3D interativos\nSobreposição de dados em tempo real no local (RA)\nRedução de custos com deslocações físicas\n\n\n\n5. Blockchain e Contratos Inteligentes\n\nRegisto digital descentralizado de transações\nContratos de arrendamento inteligentes\nRedução de intermediação e maior transparência"
+  },
+  {
+    "objectID": "tecnologia/artigo1/index.html#impactos-no-mercado-imobiliário",
+    "href": "tecnologia/artigo1/index.html#impactos-no-mercado-imobiliário",
+    "title": "Transformação Digital no Setor Imobiliário",
+    "section": "Impactos no Mercado Imobiliário",
+    "text": "Impactos no Mercado Imobiliário\n\nDesintermediação e novas formas de financiamento\nAceleração de processos (validação, assinatura, entrega)\nMelhoria da confiança e rastreabilidade das operações"
+  },
+  {
+    "objectID": "tecnologia/artigo1/index.html#exemplo-interativo",
+    "href": "tecnologia/artigo1/index.html#exemplo-interativo",
+    "title": "Transformação Digital no Setor Imobiliário",
+    "section": "Exemplo Interativo",
+    "text": "Exemplo Interativo\n\n\n\n\n\n\nCódigo\nimport matplotlib.pyplot as plt\n\ncategorias = ['Eficiência', 'Segurança', 'Custos', 'Personalização', 'Escalabilidade']\nvalores = [90, 85, 75, 80, 95]\n\nplt.figure(figsize=(6, 4))\nplt.plot(categorias, valores, marker='o', color='#2196F3')\nplt.fill_between(categorias, valores, alpha=0.2, color='#2196F3')\nplt.title('Impacto Digital no Imobiliário')\nplt.ylim(0, 100)\nplt.tight_layout()\nplt.grid(True)\nplt.show()"
+  },
+  {
+    "objectID": "tecnologia/artigo1/index.html#conclusão",
+    "href": "tecnologia/artigo1/index.html#conclusão",
+    "title": "Transformação Digital no Setor Imobiliário",
+    "section": "Conclusão",
+    "text": "Conclusão\nA digitalização do setor imobiliário abre caminho para novos modelos de negócio, maior eficiência operacional e melhor experiência para os utilizadores. A adoção estratégica dessas tecnologias é hoje uma vantagem competitiva e, cada vez mais, uma exigência do mercado."
+  },
+  {
+    "objectID": "tecnologia/artigo2/index.html",
+    "href": "tecnologia/artigo2/index.html",
+    "title": "Edifícios Inteligentes e Automação Imobiliária",
+    "section": "",
+    "text": "📄 Baixar PDF 🖨️ Imprimir"
+  },
+  {
+    "objectID": "tecnologia/artigo2/index.html#o-que-são-edifícios-inteligentes",
+    "href": "tecnologia/artigo2/index.html#o-que-são-edifícios-inteligentes",
+    "title": "Edifícios Inteligentes e Automação Imobiliária",
+    "section": "O que são Edifícios Inteligentes?",
+    "text": "O que são Edifícios Inteligentes?\n\nIntegração de sistemas técnicos (iluminação, climatização, segurança)\nMonitorização em tempo real e resposta automatizada\nInteroperabilidade entre equipamentos (IoT)\nOtimização de recursos com base em dados e algoritmos"
+  },
+  {
+    "objectID": "tecnologia/artigo2/index.html#tecnologias-chave",
+    "href": "tecnologia/artigo2/index.html#tecnologias-chave",
+    "title": "Edifícios Inteligentes e Automação Imobiliária",
+    "section": "Tecnologias-Chave",
+    "text": "Tecnologias-Chave\n\n1. Sistemas de Gestão Técnica Centralizada (BMS)\n\nPlataforma de controlo central de climatização, energia, iluminação, elevadores, etc.\nAlarmes, relatórios e comandos à distância\nAplicável a edifícios de escritórios, hospitais, hotéis\n\n\n\n2. Sensores e IoT\n\nDeteção de presença, temperatura, qualidade do ar, humidade\nAtuação sobre sistemas com base em ocupação e condições ambientais\nComunicação por protocolos como KNX, Zigbee, Z-Wave\n\n\n\n3. Automatização Residencial (Domótica)\n\nControlos por voz, apps e interfaces personalizadas\nAgendamento de tarefas (luzes, estores, climatização)\nIntegração com assistentes virtuais (Google, Alexa, HomeKit)\n\n\n\n4. Inteligência Artificial e Aprendizagem de Utilização\n\nAjustes automáticos com base nos padrões de uso\nRedução de consumos energéticos sem comprometer conforto\nManutenção preditiva de equipamentos"
+  },
+  {
+    "objectID": "tecnologia/artigo2/index.html#benefícios-dos-edifícios-inteligentes",
+    "href": "tecnologia/artigo2/index.html#benefícios-dos-edifícios-inteligentes",
+    "title": "Edifícios Inteligentes e Automação Imobiliária",
+    "section": "Benefícios dos Edifícios Inteligentes",
+    "text": "Benefícios dos Edifícios Inteligentes\n\nRedução de custos operacionais\nMaior segurança e prevenção de falhas\nAumento do conforto e personalização\nValorização do imóvel e atratividade no mercado"
+  },
+  {
+    "objectID": "tecnologia/artigo2/index.html#desafios-e-considerações",
+    "href": "tecnologia/artigo2/index.html#desafios-e-considerações",
+    "title": "Edifícios Inteligentes e Automação Imobiliária",
+    "section": "Desafios e Considerações",
+    "text": "Desafios e Considerações\n\nInvestimento inicial e interoperabilidade de sistemas\nQuestões de privacidade e cibersegurança\nNecessidade de técnicos qualificados e gestão digital contínua"
+  },
+  {
+    "objectID": "tecnologia/artigo2/index.html#exemplo-interativo",
+    "href": "tecnologia/artigo2/index.html#exemplo-interativo",
+    "title": "Edifícios Inteligentes e Automação Imobiliária",
+    "section": "Exemplo Interativo",
+    "text": "Exemplo Interativo\n\n\n\n\n\n\nCódigo\nimport matplotlib.pyplot as plt\n\nareas = ['Energia', 'Segurança', 'Conforto', 'Manutenção', 'Custos']\nimpactos = [90, 85, 80, 70, 75]\n\nplt.figure(figsize=(6, 4))\nplt.bar(areas, impactos, color=['#4CAF50', '#FF9800', '#2196F3', '#9C27B0', '#607D8B'])\nplt.title('Impacto da Automação em Edifícios Inteligentes')\nplt.ylabel('Impacto (%)')\nplt.grid(axis='y')\nplt.tight_layout()\nplt.show()"
   }
 ]

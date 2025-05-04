@@ -1,0 +1,107 @@
+[
+  {
+    "listing": "/tecnologia/index.html",
+    "items": [
+      "/tecnologia/artigo3/index.html",
+      "/tecnologia/artigo1/index.html",
+      "/tecnologia/artigo2/index.html"
+    ]
+  },
+  {
+    "listing": "/urbanismo/index.html",
+    "items": [
+      "/urbanismo/artigo3/index.html",
+      "/urbanismo/artigo1/index.html",
+      "/urbanismo/artigo2/index.html"
+    ]
+  },
+  {
+    "listing": "/artigosX.html",
+    "items": [
+      "/posts/erros-compra-casa.html",
+      "/posts/retorno-imovel.html",
+      "/posts/imoveis-sustentaveis.html",
+      "/financiamento/index.html",
+      "/moodlecesar/funcoes_quadraticas.html",
+      "/index.html",
+      "/notas/nota5_@una2000.pdf",
+      "/mercado/index.html",
+      "/construcao/index.html",
+      "/scie/index.html",
+      "/sustentabilidade/index.html",
+      "/artigos.html",
+      "/urbanismo/index.html",
+      "/tecnologia/index.html",
+      "/financiamento/artigo3/index.html",
+      "/mercado/artigo3/index.html",
+      "/mercado/artigo1/index.html",
+      "/mercado/artigo2/index.html",
+      "/construcao/artigo3/index.html",
+      "/construcao/artigo1/index.html",
+      "/construcao/artigo2/index.html",
+      "/scie/artigo3/index.html",
+      "/scie/artigo1/index.html",
+      "/scie/artigo2/index.html",
+      "/sustentabilidade/artigo3/index.html",
+      "/sustentabilidade/artigo1/index.html",
+      "/sustentabilidade/artigo2/index.html",
+      "/urbanismo/artigo3/index.html",
+      "/urbanismo/artigo1/index.html",
+      "/urbanismo/artigo2/index.html",
+      "/tecnologia/artigo3/index.html",
+      "/tecnologia/artigo1/index.html",
+      "/tecnologia/artigo2/index.html",
+      "/dados.html",
+      "/financiamento/artigo1/index.html",
+      "/financiamento/artigo2/index.html",
+      "/texto/artigo3.html",
+      "/texto/juridicos.html",
+      "/texto/tecnologicos.html",
+      "/texto/artigo2.html",
+      "/texto/economicos.html",
+      "/texto/artigo1.html",
+      "/sobre.html",
+      "/contacto.html"
+    ]
+  },
+  {
+    "listing": "/financiamento/index.html",
+    "items": [
+      "/financiamento/artigo3/index.html",
+      "/financiamento/artigo1/index.html",
+      "/financiamento/artigo2/index.html"
+    ]
+  },
+  {
+    "listing": "/mercado/index.html",
+    "items": [
+      "/mercado/artigo3/index.html",
+      "/mercado/artigo1/index.html",
+      "/mercado/artigo2/index.html"
+    ]
+  },
+  {
+    "listing": "/construcao/index.html",
+    "items": [
+      "/construcao/artigo3/index.html",
+      "/construcao/artigo1/index.html",
+      "/construcao/artigo2/index.html"
+    ]
+  },
+  {
+    "listing": "/scie/index.html",
+    "items": [
+      "/scie/artigo3/index.html",
+      "/scie/artigo1/index.html",
+      "/scie/artigo2/index.html"
+    ]
+  },
+  {
+    "listing": "/sustentabilidade/index.html",
+    "items": [
+      "/sustentabilidade/artigo3/index.html",
+      "/sustentabilidade/artigo1/index.html",
+      "/sustentabilidade/artigo2/index.html"
+    ]
+  }
+]
