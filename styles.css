@@ -40,6 +40,17 @@ footer {
   background-color: #eaeaea !important;
   color: #000000 !important;
 }
+/* Espaçamento vertical no menu dropdown */
+.dropdown-menu {
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+}
+
+/* Espaçamento e alinhamento dos ícones */
+.navbar .dropdown-item i {
+  margin-right: 0.4rem;
+  vertical-align: middle;
+}
 
 /* Rodapé personalizado */
 .footer-custom {

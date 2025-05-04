@@ -7,11 +7,18 @@
     "text": "Exploração da teoria das colisões, energia de ativação e gráficos de velocidade de reação."
   },
   {
-    "objectID": "tecnologia/artigo3/index.html",
-    "href": "tecnologia/artigo3/index.html",
-    "title": "Artigo 3 - Estequiometria em Processos Industriais",
+    "objectID": "tecnologia/artigo1/index.html",
+    "href": "tecnologia/artigo1/index.html",
+    "title": "Artigo 1 - Reações Ácido-Base",
     "section": "",
-    "text": "Cálculo de reagentes e produtos em sistemas reais com foco em produção e rendimento."
+    "text": "Introdução aos conceitos de ácido, base, neutralização e pH com exemplos experimentais."
+  },
+  {
+    "objectID": "urbanismo/artigo2/index.html",
+    "href": "urbanismo/artigo2/index.html",
+    "title": "Artigo 2 - Ventilação Natural e Forçada",
+    "section": "",
+    "text": "Comparação entre estratégias passivas e ativas de ventilação, com foco em conforto térmico e renovação de ar."
   },
   {
     "objectID": "urbanismo/artigo1/index.html",
@@ -35,25 +42,39 @@
     "text": "Leia o artigo\n\n\n\nLeia o artigo\n\n\n\nLeia o artigo"
   },
   {
-    "objectID": "sustentabilidade/artigo1/index.html",
-    "href": "sustentabilidade/artigo1/index.html",
-    "title": "Artigo 1 - Séries e Somatórios",
+    "objectID": "sustentabilidade/index.html",
+    "href": "sustentabilidade/index.html",
+    "title": "Sustentabilidade",
     "section": "",
-    "text": "Exploração das séries aritméticas, geométricas e uso da notação sigma em problemas aplicados."
+    "text": "Práticas, certificações e técnicas para um ambiente construído mais eficiente e responsável."
   },
   {
-    "objectID": "scie/artigo2/index.html",
-    "href": "scie/artigo2/index.html",
-    "title": "Artigo 2 - Regulamentos e Normas",
-    "section": "",
-    "text": "Visão geral dos regulamentos legais e normas técnicas aplicáveis à SCIE.\n\n\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+    "objectID": "sustentabilidade/index.html#artigos-disponíveis",
+    "href": "sustentabilidade/index.html#artigos-disponíveis",
+    "title": "Sustentabilidade",
+    "section": "Artigos disponíveis",
+    "text": "Artigos disponíveis\n\nEficiência Energética\nCertificação Ambiental\nConstruções Sustentáveis"
   },
   {
-    "objectID": "scie/artigo2/index.html#exemplo-interativo",
-    "href": "scie/artigo2/index.html#exemplo-interativo",
-    "title": "Artigo 2 - Regulamentos e Normas",
+    "objectID": "sustentabilidade/artigo3/index.html",
+    "href": "sustentabilidade/artigo3/index.html",
+    "title": "Artigo 3 - Probabilidades e Distribuições",
     "section": "",
-    "text": "Code\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+    "text": "Conceitos fundamentais da teoria das probabilidades e principais distribuições utilizadas em ciências aplicadas."
+  },
+  {
+    "objectID": "scie/index.html",
+    "href": "scie/index.html",
+    "title": "SCIE – Segurança Contra Incêndios",
+    "section": "",
+    "text": "Referenciais técnicos e normativos para a proteção contra incêndios no ambiente construído."
+  },
+  {
+    "objectID": "scie/index.html#artigos-disponíveis",
+    "href": "scie/index.html#artigos-disponíveis",
+    "title": "SCIE – Segurança Contra Incêndios",
+    "section": "Artigos disponíveis",
+    "text": "Artigos disponíveis\n\nFundamentos da SCIE\nRegulamentos e Normas\nMedidas Ativas e Passivas"
   },
   {
     "objectID": "scie/artigo3/index.html",
@@ -70,18 +91,39 @@
     "text": "Code\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
   },
   {
-    "objectID": "construcao/artigo1/index.html",
-    "href": "construcao/artigo1/index.html",
-    "title": "Artigo 1 - Fundamentos da Cinemática",
+    "objectID": "construcao/index.html",
+    "href": "construcao/index.html",
+    "title": "Construção",
     "section": "",
-    "text": "Conteúdo introdutório sobre posição, velocidade e aceleração."
+    "text": "Discussões sobre técnicas construtivas, inovação em materiais e processos de industrialização no setor."
   },
   {
-    "objectID": "mercado/artigo2/index.html",
-    "href": "mercado/artigo2/index.html",
-    "title": "Artigo 2 - Preços e Juros",
+    "objectID": "construcao/index.html#artigos-disponíveis",
+    "href": "construcao/index.html#artigos-disponíveis",
+    "title": "Construção",
+    "section": "Artigos disponíveis",
+    "text": "Artigos disponíveis\n\nTécnicas Construtivas\nNovos Materiais e Sustentabilidade\nIndustrialização da Construção"
+  },
+  {
+    "objectID": "construcao/artigo3/index.html",
+    "href": "construcao/artigo3/index.html",
+    "title": "Artigo 3 - Oscilações e Ressonância",
     "section": "",
-    "text": "Preços e Juros\nAnálise da correlação entre preços dos imóveis e juros.\n\n\n\n\n\nReferences\n\nAutor, A. (2025). Exemplo de referência. Editora Exemplo."
+    "text": "Exploração dos sistemas oscilatórios e do fenômeno da ressonância.\n\n\nas cidades inteligentes influenciam o mercado imobiliário."
+  },
+  {
+    "objectID": "construcao/artigo3/index.html#referências",
+    "href": "construcao/artigo3/index.html#referências",
+    "title": "Artigo 3 - Oscilações e Ressonância",
+    "section": "",
+    "text": "as cidades inteligentes influenciam o mercado imobiliário."
+  },
+  {
+    "objectID": "mercado/index.html",
+    "href": "mercado/index.html",
+    "title": "Mercado Imobiliário",
+    "section": "",
+    "text": "Explore os temas em destaque:\n\nArtigo 1 - Panorama Geral\nArtigo 2 - Tendências Pós-Pandemia\nArtigo 3 - Dinâmica da Oferta e Procura"
   },
   {
     "objectID": "mercado/artigo3/index.html",
@@ -147,32 +189,25 @@
     "text": "Smart Cities\nComo as cidades inteligentes influenciam o mercado imobiliário."
   },
   {
-    "objectID": "financiamento/artigo1/index.html",
-    "href": "financiamento/artigo1/index.html",
-    "title": "Artigo 1 - Primeira Lei da Termodinâmica",
+    "objectID": "financiamento/index.html",
+    "href": "financiamento/index.html",
+    "title": "Financiamento Imobiliário",
     "section": "",
-    "text": "Discussão da conservação de energia e do balanço de energia em sistemas mecânicos e térmicos."
+    "text": "Conheça os modelos, riscos e estratégias de financiamento aplicadas ao setor imobiliário."
   },
   {
-    "objectID": "dados.html",
-    "href": "dados.html",
-    "title": "Dados",
-    "section": "",
-    "text": "Fontes de Dados\nLista de bases de dados utilizadas nas análises."
+    "objectID": "financiamento/index.html#artigos-disponíveis",
+    "href": "financiamento/index.html#artigos-disponíveis",
+    "title": "Financiamento Imobiliário",
+    "section": "Artigos disponíveis",
+    "text": "Artigos disponíveis\n\nCrédito e Investimento\nModelos de Financiamento Imobiliário\nRiscos e Garantias Bancárias"
   },
   {
-    "objectID": "posts/retorno-imovel.html",
-    "href": "posts/retorno-imovel.html",
-    "title": "Como calcular o retorno de um imóvel",
+    "objectID": "financiamento/artigo3/index.html",
+    "href": "financiamento/artigo3/index.html",
+    "title": "Artigo 3 - Entropia e Irreversibilidade",
     "section": "",
-    "text": "Como calcular o retorno de um imóvel\nConteúdo introdutório para retorno de investimento imobiliário."
-  },
-  {
-    "objectID": "posts/erros-compra-casa.html",
-    "href": "posts/erros-compra-casa.html",
-    "title": "5 erros comuns ao comprar casa",
-    "section": "",
-    "text": "5 erros comuns ao comprar casa\nDicas práticas para evitar problemas na compra de imóveis."
+    "text": "Discussão da segunda lei da termodinâmica, geração de entropia e impacto nos sistemas energéticos."
   },
   {
     "objectID": "posts/imoveis-sustentaveis.html",
@@ -182,11 +217,32 @@
     "text": "Imóveis sustentáveis: vale a pena?\nVantagens e desafios de imóveis com foco em sustentabilidade."
   },
   {
-    "objectID": "financiamento/artigo3/index.html",
-    "href": "financiamento/artigo3/index.html",
-    "title": "Artigo 3 - Entropia e Irreversibilidade",
+    "objectID": "posts/erros-compra-casa.html",
+    "href": "posts/erros-compra-casa.html",
+    "title": "5 erros comuns ao comprar casa",
     "section": "",
-    "text": "Discussão da segunda lei da termodinâmica, geração de entropia e impacto nos sistemas energéticos."
+    "text": "5 erros comuns ao comprar casa\nDicas práticas para evitar problemas na compra de imóveis."
+  },
+  {
+    "objectID": "posts/retorno-imovel.html",
+    "href": "posts/retorno-imovel.html",
+    "title": "Como calcular o retorno de um imóvel",
+    "section": "",
+    "text": "Como calcular o retorno de um imóvel\nConteúdo introdutório para retorno de investimento imobiliário."
+  },
+  {
+    "objectID": "dados.html",
+    "href": "dados.html",
+    "title": "Dados",
+    "section": "",
+    "text": "Fontes de Dados\nLista de bases de dados utilizadas nas análises."
+  },
+  {
+    "objectID": "financiamento/artigo1/index.html",
+    "href": "financiamento/artigo1/index.html",
+    "title": "Artigo 1 - Primeira Lei da Termodinâmica",
+    "section": "",
+    "text": "Discussão da conservação de energia e do balanço de energia em sistemas mecânicos e térmicos."
   },
   {
     "objectID": "financiamento/artigo2/index.html",
@@ -238,18 +294,18 @@
     "text": "Code\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nprecos = [4500, 4800, 5000, 5300, 5600, 6000]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, precos, marker='o')\nplt.title('Evolução do preço médio do m² (2018–2023)')\nplt.xlabel('Ano')\nplt.ylabel('Preço (R$)')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
   },
   {
-    "objectID": "construcao/artigo3/index.html",
-    "href": "construcao/artigo3/index.html",
-    "title": "Artigo 3 - Oscilações e Ressonância",
+    "objectID": "mercado/artigo2/index.html",
+    "href": "mercado/artigo2/index.html",
+    "title": "Artigo 2 - Preços e Juros",
     "section": "",
-    "text": "Exploração dos sistemas oscilatórios e do fenômeno da ressonância.\n\n\nas cidades inteligentes influenciam o mercado imobiliário."
+    "text": "Preços e Juros\nAnálise da correlação entre preços dos imóveis e juros.\n\n\n\n\n\nReferences\n\nAutor, A. (2025). Exemplo de referência. Editora Exemplo."
   },
   {
-    "objectID": "construcao/artigo3/index.html#referências",
-    "href": "construcao/artigo3/index.html#referências",
-    "title": "Artigo 3 - Oscilações e Ressonância",
+    "objectID": "construcao/artigo1/index.html",
+    "href": "construcao/artigo1/index.html",
+    "title": "Artigo 1 - Fundamentos da Cinemática",
     "section": "",
-    "text": "as cidades inteligentes influenciam o mercado imobiliário."
+    "text": "Conteúdo introdutório sobre posição, velocidade e aceleração."
   },
   {
     "objectID": "construcao/artigo2/index.html",
@@ -280,11 +336,25 @@
     "text": "Code\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
   },
   {
-    "objectID": "sustentabilidade/artigo3/index.html",
-    "href": "sustentabilidade/artigo3/index.html",
-    "title": "Artigo 3 - Probabilidades e Distribuições",
+    "objectID": "scie/artigo2/index.html",
+    "href": "scie/artigo2/index.html",
+    "title": "Artigo 2 - Regulamentos e Normas",
     "section": "",
-    "text": "Conceitos fundamentais da teoria das probabilidades e principais distribuições utilizadas em ciências aplicadas."
+    "text": "Visão geral dos regulamentos legais e normas técnicas aplicáveis à SCIE.\n\n\n\n\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+  },
+  {
+    "objectID": "scie/artigo2/index.html#exemplo-interativo",
+    "href": "scie/artigo2/index.html#exemplo-interativo",
+    "title": "Artigo 2 - Regulamentos e Normas",
+    "section": "",
+    "text": "Code\nimport matplotlib.pyplot as plt\n\nanos = ['2018', '2019', '2020', '2021', '2022', '2023']\nindicador = [12, 14, 13, 15, 16, 17]\n\nplt.figure(figsize=(6, 4))\nplt.plot(anos, indicador, marker='o')\nplt.title('Indicador ilustrativo')\nplt.xlabel('Ano')\nplt.ylabel('Valor')\nplt.grid(True)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n📄 Download em PDF"
+  },
+  {
+    "objectID": "sustentabilidade/artigo1/index.html",
+    "href": "sustentabilidade/artigo1/index.html",
+    "title": "Artigo 1 - Séries e Somatórios",
+    "section": "",
+    "text": "Exploração das séries aritméticas, geométricas e uso da notação sigma em problemas aplicados."
   },
   {
     "objectID": "sustentabilidade/artigo2/index.html",
@@ -301,17 +371,38 @@
     "text": "Princípios operacionais e aspectos energéticos de equipamentos de climatização de grande porte."
   },
   {
-    "objectID": "urbanismo/artigo2/index.html",
-    "href": "urbanismo/artigo2/index.html",
-    "title": "Artigo 2 - Ventilação Natural e Forçada",
+    "objectID": "urbanismo/index.html",
+    "href": "urbanismo/index.html",
+    "title": "Urbanismo",
     "section": "",
-    "text": "Comparação entre estratégias passivas e ativas de ventilação, com foco em conforto térmico e renovação de ar."
+    "text": "Exploração crítica do planeamento urbano, mobilidade e regeneração do tecido urbano nas cidades portuguesas."
   },
   {
-    "objectID": "tecnologia/artigo1/index.html",
-    "href": "tecnologia/artigo1/index.html",
-    "title": "Artigo 1 - Reações Ácido-Base",
+    "objectID": "urbanismo/index.html#artigos-disponíveis",
+    "href": "urbanismo/index.html#artigos-disponíveis",
+    "title": "Urbanismo",
+    "section": "Artigos disponíveis",
+    "text": "Artigos disponíveis\n\nPlaneamento Urbano\nMobilidade e Espaços Públicos\nReabilitação e Regeneração Urbana"
+  },
+  {
+    "objectID": "tecnologia/artigo3/index.html",
+    "href": "tecnologia/artigo3/index.html",
+    "title": "Artigo 3 - Estequiometria em Processos Industriais",
     "section": "",
-    "text": "Introdução aos conceitos de ácido, base, neutralização e pH com exemplos experimentais."
+    "text": "Cálculo de reagentes e produtos em sistemas reais com foco em produção e rendimento."
+  },
+  {
+    "objectID": "tecnologia/index.html",
+    "href": "tecnologia/index.html",
+    "title": "Tecnologia no Imobiliário",
+    "section": "",
+    "text": "Aplicações digitais e inovações tecnológicas que estão a transformar o setor imobiliário."
+  },
+  {
+    "objectID": "tecnologia/index.html#artigos-disponíveis",
+    "href": "tecnologia/index.html#artigos-disponíveis",
+    "title": "Tecnologia no Imobiliário",
+    "section": "Artigos disponíveis",
+    "text": "Artigos disponíveis\n\nInovação Digital no Setor\nBIM e Modelagem de Dados\nInteligência Artificial e IoT"
   }
 ]
