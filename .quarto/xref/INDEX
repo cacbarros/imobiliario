@@ -163,5 +163,17 @@
   "scie/artigo3/index.qmd": {
     "index.html": "62991fd4",
     "index.tex": "bcc1bc4b"
+  },
+  "posts/erros-compra-casa.qmd": {
+    "erros-compra-casa.html": "d96a76a6"
+  },
+  "posts/imoveis-sustentaveis.qmd": {
+    "imoveis-sustentaveis.html": "9506754c"
+  },
+  "posts/retorno-imovel.qmd": {
+    "retorno-imovel.html": "03c93e44"
+  },
+  "artigos.qmd": {
+    "artigos.html": "cdd294b6"
   }
 }

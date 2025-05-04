@@ -1,0 +1,20 @@
+---
+title: "Artigos em Destaque"
+format:
+  html:
+    toc: true
+    code-fold: true
+---
+
+## ✨ Destaques Recentes
+
+::: {.card-grid}
+### 📈 Como calcular o retorno de um imóvel  
+[Leia o artigo](posts/retorno-imovel.qmd){target="_blank"}
+
+### 💡 5 erros comuns ao comprar casa  
+[Leia o artigo](posts/erros-compra-casa.qmd){target="_blank"}
+
+### 🌿 Imóveis sustentáveis: vale a pena?  
+[Leia o artigo](posts/imoveis-sustentaveis.qmd){target="_blank"}
+:::

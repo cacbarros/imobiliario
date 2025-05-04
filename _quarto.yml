@@ -80,7 +80,7 @@ website:
 
 format:
   html:
-    theme: sandstone
+    theme: flatly
     css: styles.css
     include-before-body:
       - text: '<script src="/footer.js"></script>'
