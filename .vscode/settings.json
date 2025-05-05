@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "C:/Users/cesar/anaconda3/envs/imobiliario_env/python.exe",
+  "python.terminal.activateEnvironment": true,
+  "python.envFile": "${workspaceFolder}/.env"
+}
